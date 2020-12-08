@@ -67,6 +67,14 @@ header {
   margin-top: 45px;
 }
 
+#browserAlert {
+  z-index: 9999;
+  width: 100vw;
+  background-color: #fff!important;
+  position: relative!important;
+  display: none;
+}
+
 #company-logo-header {
   margin-left: calc((100% - 600px) / 2);
   margin-right: auto;
@@ -276,6 +284,12 @@ header {
 #alertContainer h3 {
   font-style: italic;
   color: #ec1c24;
+}
+
+.loader {
+  text-align: center;
+  display: none;
+  padding-bottom: 1rem;
 }
 
 table {

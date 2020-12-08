@@ -39,7 +39,7 @@
           <img class="gpc-logo" src="./assets/images/gpc-logo-horizontal.svg">
         </div>
         <h1 id="interactive-heading" class="interactive-heading">
-          Explore Georgia's WARN Logs
+          Pandemic Assistance for GA Businesses
         </h1>
         <!-- <div class="interactive-byline-container">
           <p id="interactive-byline">Use the tool below to search for businesses that have announced layoffs in the state</p>
@@ -52,6 +52,17 @@
 
   <section id="section-content">
     <div id="content-body">
+              <!-- browser alert if internet explorer -->
+      <div id="browserAlert" class="absolute fl py24 px24 bg-gray-faint">
+        <form class="formTitle">
+          <div class="form-title-tab">
+            <h2 class="txt-l txt-bold mb6 custom-geo-label" id="alertTitle">Incompatible Browser</h2>
+          </div>
+        </form>
+        <form class="form-section">
+          <p>Internet Explorer is not supported for this application. Consider using a modern browser, like <a href="https://www.mozilla.org/en-US/firefox/">Firefox</a> or <a href="https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiA9orxBRD0ARIsAK9JDxQooLNBVWKnhoNjDhPEJYrvjeG_utpeIG0PvGnx1EO4qqfoUkpiAR8aArMfEALw_wcB&gclsrc=aw.ds">Chrome</a>.</p>
+        </form>
+      </div>
 
       <div id="content-story" class="story">
         <!-- <div class="asset graphic" style="max-width: 600px;"> -->
@@ -79,8 +90,8 @@
               <h3 class="select-title">Geography</h3>
               <select id="geoLevelSelect" class="dropdown">
                 <option value="county">County</option>
-                <option value="msa" selected="selected">MSA</option>
-                <option value="cd">CDRegion</option>
+                <option value="msa">MSA</option>
+                <option value="cd" selected="selected">CDRegion</option>
               </select>
             </div>
             <div class="col geoSelect County">
@@ -247,7 +258,7 @@
                 <option value='worth'>Worth County</option>
               </select>
             </div>
-            <div class="col geoSelect MSA active">
+            <div class="col geoSelect MSA">
               <h3 class="select-title">Area</h3>
               <select id="MSA" name="msa" class="dropdown geoDropdown">
                 <option value="albany">Albany, GA</option>
@@ -290,7 +301,7 @@
                 <option value="waycross">Waycross, GA</option>
               </select>
             </div>
-            <div class="col geoSelect CDRegion">
+            <div class="col geoSelect CDRegion active">
               <h3 class="select-title">Area</h3>
               <select id="CDRegion" name="cd" class="dropdown geoDropdown">
                 <option>Central</option>
@@ -308,8 +319,7 @@
             <div class="col industrySelect PPP active">
               <h3 class="select-title">Industry</h3>
               <select id="industrySelect" class="dropdown">
-                <option name="all" selected="selected">All</option>
-                <option name="food">Accommodation and Food Services</option>
+                <option name="food" selected="selected">Accommodation and Food Services</option>
                 <option name="admin">Administrative and Support and Waste Management and Remediation Services</option>
                 <option name="ag">Agriculture, Forestry, Fishing and Hunting</option>
                 <option name="art">Arts, Entertainment, and Recreation</option>
@@ -331,79 +341,36 @@
                 <option name="wholesale">Wholesale Trade</option>
               </select>
             </div>
-            <div class="col styleSelect PPP active">
-              <h3 class="select-title">Style Layer</h3>
-              <select id="PPP" class="dropdown">
-                <option value="amount">Amount</option>
-                <option value="loans" selected="selected">Loans</option>
-                <option valu="Jobs">Jobs</option>
-              </select>
-            </div>
-            <div class="col styleSelect EIDL">
-              <h3 class="select-title">Style Layer</h3>
-              <select id="EIDL" class="dropdown">
-                <option value="amount">Amount</option>
-                <option value="loans">Loans</option>
-              </select>
-            </div>
+          </div>
+
+          <div class="row justify-content-center selection-header">
+                <div class="col">
+                  <h3 class="ban-label" id="loansTotal"></h3>
+                  <p class="ban-label">Total Loans</p>
+                </div>
+                <div class="col">
+                  <h3 class="ban-label" id="amountTotal"></h3>
+                  <p class="ban-label">Total Loaned</p>
+                </div>
+                <div class="col jobsTotal">
+                  <h3 class="ban-label" id="jobsTotal"></h3>
+                  <p class="ban-label">Total Jobs</p>
+                </div>
+                <div class="col womenTotal">
+                  <h3 class="ban-label" id="womenTotal"></h3>
+                  <p class="ban-label">Female-Owned Businesses</p>
+                </div>
+                <div class="col minorityTotal">
+                  <h3 class="ban-label" id="minorityTotal"></h3>
+                  <p class="ban-label">Minority-Owned Businesses</p>
+                </div>
+                <div class="col veteranTotal">
+                  <h3 class="ban-label" id="veteranTotal"></h3>
+                  <p class="ban-label">Veteran-Owned Businesses</p>
+                </div>
           </div>
 
           <div class="row justify-content-center side-by-side">
-            <div class="col-lg left">
-              <div class="row legends-wrapper">
-                <div class="col legend-wrapper graphic-wrapper">
-                  <h3 class="viz-header">Employees</h3>
-                  <div class="key-bars">
-                    <div class="g-bars">
-                      <div id="minFill" class="g-level-label .g-level-label-first">< 10</div>
-                      <div class="g-bar g-bar-tick"><div class="g-level g-level-0"></div></div>
-                      <div class="g-bar g-bar-tick"><div class="g-level g-level-1"></div></div>
-                      <div class="g-bar g-bar-tick"><div class="g-level g-level-2"></div></div>
-                      <div class="g-bar g-bar-tick"><div class="g-level g-level-3"></div></div>
-                      <div class="g-bar g-bar-none"><div class="g-level g-level-4"></div></div>
-                      <div id="maxFill" class="g-level-label .g-level-label-first">> 100</div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col legend-wrapper graphic-wrapper">
-                  <h3 class="viz-header">Companies</h3>
-                  <div class="key-bubbles">
-                    <div class="key-bubbles-wrap">
-                      <div class="key-bubble" style="width: 7px; height: 7px;"></div>
-                      <div class="key-bubble" style="width: 17px; height: 17px;"></div>
-                      <div class="key-bubble" style="width: 27px; height: 27px;"></div>
-                      <div class="key-bubble" style="width: 37px; height: 37px;"></div>
-                      <div class="key-bubble" style="width: 47px; height: 47px;"></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="graphic-container">
-                <div class="map-container">
-                  <div id="map">
-                    <!-- <img class="gpc-logo" src="./assets/images/intro-graphic-placeholder.png"> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg right">
-              <div class="title-wrapper graphic-wrapper">
-                <h3 class="viz-header">Closures and Layoffs</h3>
-              </div>
-              <div class="row">
-                <div class="col">
-                  <h3 class="ban-label" id="announceTotal"></h3>
-                  <p class="ban-label">announcements</p>
-                </div>
-                <div class="col">
-                  <h3 class="ban-label" id="employeeTotal"></h3>
-                  <p class="ban-label">employees</p>
-                </div>
-              </div>
-              <div id="alertContainer">
-                <h3>There weren't any WARN Logs in the area and timeframe selected. Plase select different options in order to view data.</h3>
-              </div>
               <div class="graphic-container graphic-container-table">
                 <div class="table-container">
                   <table id="pointsTable" class="table table-hover" style="width:95%;">
@@ -412,9 +379,11 @@
                         <!-- put in your column headers - this all depends on the data you're displaying, so adjust columns as needed -->
                         <th scope="col">Date</th>
                         <th scope="col">Company</th>
+                        <th scope="col">Industry</th>
                         <th scope="col">City</th>
                         <th scope="col">County</th>
-                        <th scope="col">Employees</th>
+                        <th scope="col">Amount</th>
+                        <th scope="col">Jobs</th>
                       </tr>
                     </thead>
                     <tbody>
@@ -422,8 +391,11 @@
                     </tbody>
                   </table>
                 </div>
+                <!-- add an animated loader to show and hide while waiting for api execution -->
+                <div class="loader">
+                  <img src="./assets/images/loader.gif" class="img-fluid" alt="Responsive image">
+                </div>
               </div>
-            </div>
           </div>
         </div>
 
@@ -450,18 +422,11 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.10.22/b-1.6.5/b-html5-1.6.5/datatables.min.js"></script>
 
-<!-- <script type="text/javascript" src="handlePoints.js"></script> -->
-<!-- <script type="text/javascript" src="buildTable.js"></script> -->
 <script type="text/javascript" src="./data/data.js"></script>
 <script type="text/javascript" src="./js/globals.js"></script>
-<!-- <script type="text/javascript" src="handleData.js"></script> -->
-<!-- <script type="text/javascript" src="handleChart.js"></script> -->
-<script type="text/javascript" src="./js/map.js"></script>
+<script type="text/javascript" src="./js/handleData.js"></script>
 <script type="text/javascript" src="./js/onLoad.js"></script>
 <script type="text/javascript" src="./js/events.js"></script>
-<!-- <script type="text/javascript" src="mapEvents.js"></script> -->
-<!-- <script type="text/javascript" src="radius.js"></script> -->
-<!-- <script type="text/javascript" src="driveTime.js"></script> -->
 </body>
 
 </html>

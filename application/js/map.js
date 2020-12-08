@@ -43,10 +43,10 @@ map.on('load', function() {
 		url: 'mapbox://gpcecondev.0bwinx1k?latest=true'
 	});
 
-	map.addSource('pppCountySource', {
-		type: 'vector',
-		url: 'mapbox://gpcecondev.3jga33vh?latest=true'
-	});
+	// map.addSource('pppCountySource', {
+	// 	type: 'vector',
+	// 	url: 'mapbox://gpcecondev.3jga33vh?latest=true'
+	// });
 
 	map.addSource('eidlCitySource', {
 		type: 'vector',
@@ -58,10 +58,10 @@ map.on('load', function() {
 		url: 'mapbox://gpcecondev.be6n6c06?latest=true'
 	});
 
-	map.addSource('eidlCountySource', {
-		type: 'vector',
-		url: 'mapbox://gpcecondev.0qm1ixwd?latest=true'
-	});
+	// map.addSource('eidlCountySource', {
+	// 	type: 'vector',
+	// 	url: 'mapbox://gpcecondev.0qm1ixwd?latest=true'
+	// });
 
 	// add layers
 	loadData();
