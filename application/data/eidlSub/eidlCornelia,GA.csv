@@ -1,246 +1,246 @@
 Date,FAIN,Recipient,Address,City,FIPS,County,State,ZCTA,Congress,CDRegion,CBSA,MSA,Amount,Loans
-1970-01-01 00:00:00.020200421,3299177203,B & C Cleaners Inc,347 N Main St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",87100,1
-1970-01-01 00:00:00.020200609,9975297807,Artistic Logistics,475 Seye Wailo Trail,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",44000,1
-1970-01-01 00:00:00.020200605,8488227806,Architectural Glass Structures Inc.,1949 Sam Bell Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",56200,1
-1970-01-01 00:00:00.020200427,3471257206,Fenders Diner Inc,631 Irvin Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",346400,1
-1970-01-01 00:00:00.020200525,3002807801,Ladybug Antiques,258 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2800,1
-1970-01-01 00:00:00.020200516,7314447405,"Computech Communications, Inc.",3181 State Hwy 255,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200518,7656997406,Dawewood Farm Dba Farmhouse Poundcakes,752 Old Athens Hwy,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",11300,1
-1970-01-01 00:00:00.020200515,6690167403,"Mountain Nrg, Llc",131 Hodges St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",62000,1
-1970-01-01 00:00:00.020200609,9624347807,"Construction Components Truss Division, Llc",622 Creekview Ct,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200530,5287157809,"Auto Recon Matrix, Llc",2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",95100,1
-1970-01-01 00:00:00.020200530,5448087803,"Cd Davidson Enterprises, Inc Dba Davidson Inspection Services",513 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37900,1
-1970-01-01 00:00:00.020200604,7731327808,Loaded Goat Farm,1251 Riverbend Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",9300,1
-1970-01-01 00:00:00.020200528,4463057809,"M & T Services Company, Llc",1315 Old Hardman Btms Rd.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",72000,1
-1970-01-01 00:00:00.020200530,5406917805,"The Market On Washington, Llc",1358 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",25500,1
-1970-01-01 00:00:00.020200603,7307017810,Ashley Williams,401 Skyview Cir,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",38500,1
-1970-01-01 00:00:00.020200530,5290647804,Us Online Auto Llc,176 Anderson Cir,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200529,5163287800,"Nacoochee Valley Rentals, Llc",6725 Hwy 17,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",43800,1
-1970-01-01 00:00:00.020200605,7926647810,Clout Consulting Inc.,1646 Preacher Campbell Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",18400,1
-1970-01-01 00:00:00.020200603,7236957801,Hickory Flat Pottery,13664 Hwy 197 N.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",59100,1
-1970-01-01 00:00:00.020200525,2981847800,"R Mohler Contracting, Inc",484 Jim Carter Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",21800,1
-1970-01-01 00:00:00.020200528,4668887804,"Providence Academy, Inc",7355 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",20000,1
-1970-01-01 00:00:00.020200527,4111727805,Better Body Fitness Llc,2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",51100,1
-1970-01-01 00:00:00.020200527,3829867806,"Crewsolutions, Inc.",261 Blue Ridge Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",80200,1
-1970-01-01 00:00:00.020200603,6904197800,Alpha 1 Auto Finance Llc,"929 Historic, Hwy 441 Bypass",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",121800,1
-1970-01-01 00:00:00.020200608,9421807803,"Jk Herrin, Llc",641 Irvin St.,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",20000,1
-1970-01-01 00:00:00.020200529,5182557804,Mahadeva Inc,2085 Dicks Hill Pkwy,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",26200,1
-1970-01-01 00:00:00.020200526,3335727810,Mark Of The Potter Inc,9982 Hwy 197N,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",88800,1
-1970-01-01 00:00:00.020200520,9467057406,Southern Appalachian Technical Services Llc,210 Seye Wailo Trail,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",47300,1
-1970-01-01 00:00:00.020200605,8077907804,"North Georgia Land, Llc",1338 Yeoman Lake Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",25300,1
-1970-01-01 00:00:00.020200507,3331567410,Salon Avanti & Company,278 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200530,5795237805,"Focus On Design, Inc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",1700,1
-1970-01-01 00:00:00.020200530,5761767802,Paisano Auto Group Llc,1633 Willingham Ave,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200603,6905947802,A-1 Auto Sales Of Demorest Llc,"929 Historic, Hwy 441 Bypass",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",99800,1
-1970-01-01 00:00:00.020200530,5595847806,Rm4S Inc,169 Fair Bianca Ct,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",45800,1
-1970-01-01 00:00:00.020200608,9355807804,"Jp Anderson Productions, Llc",232 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200602,6759057807,Truematch Realty Llc,336 Morning Star Ln,Mount Airy,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",3000,1
-1970-01-01 00:00:00.020200608,9311877801,Ritzzy Hair Fashion,748 Harvest Church Rd,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",5400,1
-1970-01-01 00:00:00.020200608,9213427802,Jacob Mann(Woodmenlife),202 Midland Ct,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",14000,1
-1970-01-01 00:00:00.020200530,5682317809,"Sconie Ventures, Inc.",481 Yonah Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30000,1
-1970-01-01 00:00:00.020200527,3761347806,1St Choice Taxes,1089 Rocky Branch Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2500,1
-1970-01-01 00:00:00.020200528,4234157800,"Stitches & Stuff Embroidery, Llc","101 Demorest Square, Ste E",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",22000,1
-1970-01-01 00:00:00.020200602,6638697804,The Service Agency,1378 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",24800,1
-1970-01-01 00:00:00.020200602,6791157802,Frances D. Hulsey Layout Inc.,805 Deer Trail Lakes Dr,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",15000,1
-1970-01-01 00:00:00.020200605,8395817807,C And H Masonry Inx,290 Dennis Cash Rd,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",40000,1
-1970-01-01 00:00:00.020200529,4872517806,"Kyk Enterprise, Inc.",186 S Main St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",49100,1
-1970-01-01 00:00:00.020200527,3783367802,K & A Tax Service Llc,179 N Main Street Suit A,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37400,1
-1970-01-01 00:00:00.020200601,6214367806,"A&E Security Solutions, Llc",232 Butterfly Ln,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",6500,1
-1970-01-01 00:00:00.020200605,8442367807,"Skga, Llc",679 Baldwin Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200603,7102077802,Hangry'S Grille,4739 Highway 115,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",89500,1
-1970-01-01 00:00:00.020200603,6988247809,"Diversified Management Systems, Inc.",605 Mccartan Trl,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200603,7120757809,Frolic Properties Llc,475 Hazel Ave,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",23600,1
-1970-01-01 00:00:00.020200508,3768837400,"Patrick K Mcshane Dmd, Pc",603 Clarkesville Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200603,6993067808,"Moorland Properties, Inc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2500,1
-1970-01-01 00:00:00.020200603,7031777802,"Calpro, Inc.",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",25700,1
-1970-01-01 00:00:00.020200603,7041947809,"Stonington Properties, Llc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",9200,1
-1970-01-01 00:00:00.020200525,2686107809,Mm Professional Group Llc,"854 Washington St, Ste 200",Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200603,7470747806,"Ansley Communications Group, Inc.",1058 W. Airport Road,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200526,3265007810,"Spinal Rehab And Healthcare, Llc","186 Cannon Bridge Rd, Suite B",Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200530,5374427805,"Evergreen Retreat Center, Inc.",478 Andersonville Lane,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200525,3007667806,Armaan Food & Gas Inc,7316 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",89300,1
-1970-01-01 00:00:00.020200608,9275877803,Life Beyond The Room Llc,5545 Cochran Mill Road,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",16900,1
-1970-01-01 00:00:00.020200521,9868427400,Alexia D Dodson,195 Walls Complex Cir,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",3500,1
-1970-01-01 00:00:00.020200518,7873337403,"Ram Equity Partners, Inc",9057 Selborne Lane,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",59000,1
-1970-01-01 00:00:00.020200521,1565217806,Anderson Windshield Company,374 Camp Creek Rd,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",71400,1
-1970-01-01 00:00:00.020200512,5350257405,Home Grown Ga Inc.,12150 Garretts Ferry Riad,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200512,5256597406,Brown-Hornes Buggy Rides Llc,307 Gladston Rd,Mount Airy,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8300,1
-1970-01-01 00:00:00.020200509,4335317407,Base Telecom Llc,7621 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200523,2357027808,Holland Produce,5923 Hwy 115,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200601,5996177807,"Ats Tech Solutions, Inc.",142 By Brook Trail,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200601,6001387808,Woodmont Group Llc,1475 North Washington Street,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200601,6083457808,Michelle Allen,197 Summer Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",19200,1
-1970-01-01 00:00:00.020200601,6104547800,"Hazel Creek Cider, Inc.",227 Smiling Apple Dr,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",48900,1
-1970-01-01 00:00:00.020200519,8566787403,Sandra Sosebee,445 S Main St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",77700,1
-1970-01-01 00:00:00.020200519,8552267410,Hawkeye Uas Llc,1883 Rock Springs Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",6300,1
-1970-01-01 00:00:00.020200515,6707747408,Clarkesville Chiropractic,1083 Historic Hwy 441 N,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",14900,1
-1970-01-01 00:00:00.020200519,8703247402,"Hendrix Eye Care, Llc",864 Central Ave,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",7800,1
-1970-01-01 00:00:00.020200522,1813977800,Trs316Pie Llc,1406 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200608,8968697806,Bryson Enterprise,1766 Zeb Bryson Road,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30300,1
-1970-01-01 00:00:00.020200608,9117377800,"Vanguard Security Associates, Inc.",233 Blue Ridge Avenue,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",17000,1
-1970-01-01 00:00:00.020200608,9053827804,"Foundation Academy, Inc.",120 Commerce Parkway,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200521,1475947809,"Hlsc, Llc",121 Clarkesville Plaza,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",22700,1
-1970-01-01 00:00:00.020200606,8680167801,Black Bottom Line Llc,157 Midland Drive,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",3000,1
-1970-01-01 00:00:00.020200523,2302727809,York'S Garage Llc,586 Wayside St. Nw,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",81100,1
-1970-01-01 00:00:00.020200518,8048207404,Yellowbank Produce,167 Riverbend Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",7700,1
-1970-01-01 00:00:00.020200519,8705987405,Hamescorp Inc,562 Washington St.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",45500,1
-1970-01-01 00:00:00.020200606,8664167801,Batesville Junction Store,13440 Hwy 197 N,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30500,1
-1970-01-01 00:00:00.020200519,8630927403,Usa Health Llc,1423 Washington Street Suite 205,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",26500,1
-1970-01-01 00:00:00.020200518,8073957408,Borrowed And Blue,131 Hodges St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37000,1
-1970-01-01 00:00:00.020200518,7687397406,Flexserve Computer Services Llc,700 Stonecypher St Suite D2,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10800,1
-1970-01-01 00:00:00.020200520,9405297402,"Terra Mary, Inc",789 S Main St,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",15800,1
-1970-01-01 00:00:00.020200516,7486097403,Rad Dezigns,132 Rockin K Drive,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",53000,1
-1970-01-01 00:00:00.020200518,7867227409,Impacto Productions,147 Nantucket Dr,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-2020-06-25 00:00:00.000000000,3490968002,Punisher Mobile Blasting Llc,264 Walnut St,Cornelia,13137,Habersham County,GA,30531,09,Northeast,18460.0,"Cornelia, GA",6500,1
-1970-01-01 00:00:00.020200611,2263267907,Unlimited Vending Services,1390 Orchard Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",23000,1
-1970-01-01 00:00:00.020200618,8239827906,David L. Perry & Associates,774 Cider Rdg,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",22600,1
-1970-01-01 00:00:00.020200624,2885138000,"Ankony Land, Llc",125 Ankony Farms Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200624,2393028006,Christopher Scott Chambers,129 Slippery Rock Road,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7400,1
-1970-01-01 00:00:00.020200616,3955847910,"Ellis Shaw, Llc",39 Bambi Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20000,1
-1970-01-01 00:00:00.020200612,2594927909,Northeast Georgia Signs & Service Inc,310 Anderson Circle,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",34900,1
-1970-01-01 00:00:00.020200611,1824007906,Nathan Wile Salon Inc,475 Hazel Ave,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",67500,1
-1970-01-01 00:00:00.020200617,6472647908,Stacy Mckinley,477 Shallow Creek Dr,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8300,1
-1970-01-01 00:00:00.020200612,2639887904,Nickel And Dime Llc,270 Central Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",7400,1
-1970-01-01 00:00:00.020200617,6864707901,Hulsey  Heating & Air Llc,142 Salem Ln,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",13000,1
-1970-01-01 00:00:00.020200611,1845507902,Country Curls Salon,307 Church Sawmill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
-1970-01-01 00:00:00.020200612,2743297904,Protec Delivery Llc,781 Wynn Lake Cir,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6500,1
-1970-01-01 00:00:00.020200610,1327257910,Fort13 Airsoft Llc,247 Dicks Hill Pkwy,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
-1970-01-01 00:00:00.020200612,2878077905,"El Sombrero Mexican Restaurant #8, Inc",236 Merchants Way Unit D,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200612,2726517907,Lord & Hope Llc,115 Commerce Parkway,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",110500,1
-1970-01-01 00:00:00.020200612,2764187905,"Chosewood Auto Sales, Inc.",7124 Dick'S Hill Parkway,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",56100,1
-1970-01-01 00:00:00.020200610,1345537904,Soque River Watershed Association Inc.,1387 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2000,1
-1970-01-01 00:00:00.020200620,9846727907,"Cornerstone Animal Hospital, Llc",285 Smithville Ln,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200611,2122587905,Bryson Plumbing,1766 Zeb Bryson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",36700,1
-1970-01-01 00:00:00.020200610,1044737901,Southern City,793 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9300,1
-1970-01-01 00:00:00.020200611,2222437903,Lodhi 4 Food Mart Llc,1941 Highway 105,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",51900,1
-1970-01-01 00:00:00.020200612,2798957909,Computer Wholesalers,929 Old Historic U.S.441,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6200,1
-1970-01-01 00:00:00.020200619,8825057903,Rickman Industrial Arts,135 Grand Ave,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200623,1895468004,Amy Dooner,131 Wright Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",32800,1
-1970-01-01 00:00:00.020200612,3007247907,"Erin London Apparel, Inc",1425 Washington St,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",52800,1
-1970-01-01 00:00:00.020200612,2744877903,Asian Service And Repair,781 Wynn Lake Cir,Alto,13137,Habersham County,GA,30510,09,Northeast,18460.0,"Cornelia, GA",103000,1
-1970-01-01 00:00:00.020200624,2254988001,"Tlh Properties, Llc",111 Sunrise Cir,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6500,1
-1970-01-01 00:00:00.020200611,2362057909,Midway Mini Storage,328 Cannon Bridge Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",14200,1
-1970-01-01 00:00:00.020200610,1206677900,High Speed Communications Inc,1343 Hwy 197 S,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",75300,1
-1970-01-01 00:00:00.020200611,2259087909,"Zacherys Seafood, Inc",230 Wayside St S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",128600,1
-1970-01-01 00:00:00.020200624,3202398004,Maddjamz Llc C/O Eugene Madison,320 Sixth St,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",23500,1
-1970-01-01 00:00:00.020200616,5011727900,Hair Express,1302 Central Ave,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",8500,1
-1970-01-01 00:00:00.020200612,3488077904,Benovel Georgia Inc,487 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",106900,1
-1970-01-01 00:00:00.020200616,4199937900,"Tb Nails & Spa Cornelia, Llc",250 Habersham Hills Cir Ste 12,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200612,3411747906,"Pop'S Outdoors, Llx",3685 Habersham Mill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",67100,1
-1970-01-01 00:00:00.020200610,1159287908,Miles Through Time,583 Grant St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",3000,1
-1970-01-01 00:00:00.020200625,3821428010,Mountain Groceries Inc,3834 State Highway 365,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200616,4217117906,"Radiant Beauty Skincare, Llc","215 Hodges Street, Ste 107",Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200612,3614107902,Jb'S Side Street Deli,224B Merchants Way,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",18000,1
-1970-01-01 00:00:00.020200625,3890728010,Noy'S Spring Rolls,567 Ernest Nations Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",11800,1
-1970-01-01 00:00:00.020200620,9620657907,"M. Boykin, Inc.",105 Cheyenne Lane,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20000,1
-1970-01-01 00:00:00.020200612,3624417905,Peedees Paint Llc,2428 Old Athens Hwy Unit B,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",90100,1
-1970-01-01 00:00:00.020200616,5063477910,Jlk Enterprises,138 Tennessee St,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4000,1
-1970-01-01 00:00:00.020200624,2374828004,Living Water Medical Ministries,426 Foster Street,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7000,1
-1970-01-01 00:00:00.020200617,5735247904,Black Anvil Tattoo,120 Clarkesville Plz St C,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
-1970-01-01 00:00:00.020200619,9231617902,Chattahoochee Professional Engineering Llc,622 Creek View Ct,Cornelia,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200617,7161717902,Justin Wilson,152 Tall Oaks Drive,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",27900,1
-1970-01-01 00:00:00.020200612,3317927905,Budget Time,411 Cornelia Plaza Drive,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",41500,1
-1970-01-01 00:00:00.020200612,3161537909,Barrett Automotive Llc,1730 441 Bypass,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200616,3843407902,Challenger Music Llc,290 Panacea Lane,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
-1970-01-01 00:00:00.020200616,3819847905,"The Right Start Development Center, Inc.",174 Charlie Batson Dr,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",124500,1
-1970-01-01 00:00:00.020200616,3990417905,David A. Jordan / D.B.A. Jordan Turf Brokerage,445 Chattahoochee Glen Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200619,9233137904,Ryan Smith,3520 Riverbend Road,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",13000,1
-1970-01-01 00:00:00.020200617,7444337906,Chad Kimsey Smith,683 Heyden Ridge Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
-1970-01-01 00:00:00.020200619,9025547904,"Cathy Gailey & Associates, Llc",11200 Serenbe Lane,Chattahoochee Hills,13137,Habersham County,GA,,13.0,Northeast,18460.0,"Cornelia, GA",80900,1
-1970-01-01 00:00:00.020200619,9024427901,William Bradley,979 Riverwilde Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
-1970-01-01 00:00:00.020200616,4910527909,Jrbbq Llc,515 Grant Avenue,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200617,7070357906,Joseph E Mariotti,1542 Ivy Mountain Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
-1970-01-01 00:00:00.020200616,3664447908,Misty  B Beck,1329 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",16100,1
-1970-01-01 00:00:00.020200625,3492958003,"David Bacon Consulting, Llc",4884 Highway 197 N,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",90900,1
-1970-01-01 00:00:00.020200616,4665607904,House Cleaning,805 Deer Trail Lakes Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20400,1
-1970-01-01 00:00:00.020200616,5458147910,Mountain Pet Resort,603 Nix Rd,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",48000,1
-1970-01-01 00:00:00.020200616,4346607907,Splashe P.Y.O.P. Llc,127 W Water St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4000,1
-1970-01-01 00:00:00.020200616,4135967910,K2 Real Estate Llc,200 Laralynn Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200616,3841137900,Integradent Llc,679 Baldwin Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200616,3859397906,"Elite Dentistry Of Habersham, Lc",679 Baldwin Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",61400,1
-1970-01-01 00:00:00.020200616,4233017900,"Herrin Communities, Inc.",230 Wayside Street S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7800,1
-1970-01-01 00:00:00.020200623,1917128009,Land Specialties Llc,125 Ankony Farms Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200617,6742347902,Weldon Realty Inc.,110 Fawn Ridge Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9200,1
-1970-01-01 00:00:00.020200616,4766157910,"Mufasa Investments, Llc",172 Ivy Street,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",17800,1
-1970-01-01 00:00:00.020200620,9359477907,"A & A Electric, Inc.",3699 B C Grant Rd.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200617,6133957902,"Coffee Corner Antiques, Llc",1363 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5100,1
-1970-01-01 00:00:00.020200619,8795967903,John Quackenbush,197 Timber Ridge Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",40000,1
-1970-01-01 00:00:00.020200622,9907647901,Archie Deese,5340 Cornelia Hwy,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",31000,1
-1970-01-01 00:00:00.020200618,7863857903,Sautee Resorts,595 Highway 595,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200617,6047037901,Squeaky Clean Cleaning,136 Blue Ridge Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8600,1
-1970-01-01 00:00:00.020200617,6964387909,Phillip Yarber,1275 State Highway 197 South,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",85700,1
-1970-01-01 00:00:00.020200617,5604237901,Whitney Trotter,990 North Main Plaza Drive,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4600,1
-1970-01-01 00:00:00.020200622,1148968008,I68 Llc,319 Grant Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",32000,1
-1970-01-01 00:00:00.020200617,6881257910,Nacoochee Real Estate Inc,1250 Historic Hwy 441 N,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200618,8610077901,Us Automotive Inc,165 Stonecypher St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",58500,1
-1970-01-01 00:00:00.020200617,6880457909,Crane Mill Farms Llc,2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",12400,1
-1970-01-01 00:00:00.020200620,9710717905,Paige Sheri Riddlehoover,380 Oak Ave Apt D,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1800,1
-1970-01-01 00:00:00.020200622,1136518005,Lois Skipper Emporium,477 Twisting Ridge Trail,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200618,8660777908,Daryl Sisk,1786 Preacher Campbell Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5200,1
-1970-01-01 00:00:00.020200618,8360877901,Cornelia Business Llc,4113 Pea Ridge Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",69500,1
-2020-06-26 00:00:00.000000000,4734078008,Aatv 2017 Llc,2059 Cool Springs Rd,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",75100,1
-2020-06-30 00:00:00.000000000,6619488006,Jerry Lee Hull Jr Dba Sweet Breads Llc,255 Grant St,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",24000,1
-2020-07-15 00:00:00.000000000,5256597406,Brown-Hornes Buggy Rides Llc,307 Gladston Rd,Mount Airy,13137,Habersham County,GA,30563,09,Northeast,18460.0,"Cornelia, GA",-8300,1
-2020-06-29 00:00:00.000000000,5592258001,115 Towing And Service Center,"3998 Hwy 17 Clarkesville, Address 2",Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",33000,1
-1970-01-01 00:00:00.020200704,8354598007,Nash And Company,1329 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
-1970-01-01 00:00:00.020200713,2898598106,"Habersham Metal Products, Company",264 Stapleton Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200716,4224208108,Mpc Executive Search Services Llc,129 E Green St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",60800,1
-1970-01-01 00:00:00.020200707,9284148010,Christie Davies,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
-1970-01-01 00:00:00.020200703,8142088005,The Creative Canvas,982 North Main Plaza Dr,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24900,1
-1970-01-01 00:00:00.020200708,9954238002,Andrew Davies,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200713,2336268110,"All Star Accessories, Llc",236 Merchant Way Unit A,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",35600,1
-1970-01-01 00:00:00.020200702,7879218007,Vr Mgmt Llc,1105 Highway 441,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200704,8383008004,Foothills Counseling Center. Inc.,260 E.Green St.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24100,1
-1970-01-01 00:00:00.020200626,4464328010,Aatv 2019 Llc,330 Habersham Hills Cir,Cornelia,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",9500,1
-1970-01-01 00:00:00.020200701,7341338006,Cynthia Cortes,262 Nantucket Dr,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",45900,1
-1970-01-01 00:00:00.020200713,2247648104,Shear Pursenalities Salon,145 Young Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2000,1
-1970-01-01 00:00:00.020200701,7049448007,Good Wheels Auto Sales Inc,243 Business Highway 441,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200715,3527658106,Solid Rock Property Management,670 Hilton English Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200701,7561538009,"Sweet Acre Farms, Llc",7584 Bill Wilson Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",129700,1
-1970-01-01 00:00:00.020200707,9326508010,"Career Placement Group, Inc.","691 Historic Hwy 441, Suite 3",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",113500,1
-1970-01-01 00:00:00.020200626,4440408005,Gabriel Tiller,Po Box 482,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",26700,1
-1970-01-01 00:00:00.020200629,5373408009,Knockout Vapes Llc,199 Walls Complex Circle,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",17000,1
-1970-01-01 00:00:00.020200711,1721188101,El Patron Family Mexican Restaurant Llc,950 North Main Street,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200629,5894888008,Woodmenlife,144 Commerce Pkwy,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",30000,1
-1970-01-01 00:00:00.020200713,2575248101,David D Black,799 Main Street North,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",54000,1
-1970-01-01 00:00:00.020200709,1195448106,"Pakglobal,Llc",185 Builders Parkway,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",40000,1
-1970-01-01 00:00:00.020200706,8720268003,V3 Creative Llc,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200706,8634728003,Holcomb Broilers,421 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9800,1
-1970-01-01 00:00:00.020200707,9309278000,Ameya Global Llc,305 Pantherbrook Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200626,4814098003,Emilie Baker,1321 E Mize Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2100,1
-1970-01-01 00:00:00.020200713,2826958108,Maa Adhyashakti Llc,4753 Hwy 115,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",19000,1
-1970-01-01 00:00:00.020200702,7731208008,Juanita G Jones,400 Whispering Dale Rd,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",7800,1
-1970-01-01 00:00:00.020200701,7326808007,Grace Baptist Church,1786 Chase Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",54400,1
-1970-01-01 00:00:00.020200711,2005078107,Elevated Hair Lounge,"236 Merchants Way, Suite B",Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7500,1
-1970-01-01 00:00:00.020200626,4445058006,B & E Property Management Llc,1000 Loliver Lane,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",6500,1
-1970-01-01 00:00:00.020200706,8568738007,Equus Optimus Llc,1309 Ben T Huiet Hwy,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",80000,1
-1970-01-01 00:00:00.020200713,2398848102,Thereasa Rinderknecht P.C.,726 Heads Ferry Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
-1970-01-01 00:00:00.020200713,2108958103,Bjs Enterprises,256 Anderson Circle,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",55800,1
-1970-01-01 00:00:00.020200627,5119958004,Deana Brooksher,140 Laprade St.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
-1970-01-01 00:00:00.020200706,8585548000,"The Highsmith Law Firm, Pc",147 Short Ave.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24000,1
-1970-01-01 00:00:00.020200711,1550768103,Memory Lane,11937 Hwy 197 N,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5300,1
-1970-01-01 00:00:00.020200702,7592848000,Danielle Jackson,112 Heritage Garden Dr Unit N,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200714,3270758105,Lisa Dockery Moore,953 Amys Creek Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",8400,1
-1970-01-01 00:00:00.020200708,9694758008,Sullens And Sullens Contracting Inc,161 Sappling Pl,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",92000,1
-1970-01-01 00:00:00.020200709,1259848108,"T.S. Enterprise, Llc",138 Pardue Mill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",49900,1
-1970-01-01 00:00:00.020200709,1494828102,Aron Guerrero,189 Refuge Terrace,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",99900,1
-1970-01-01 00:00:00.020200626,4612558001,"Ll Herrin Family Farm, Lllp",230 Wayside St S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",104400,1
-1970-01-01 00:00:00.020200713,2885088107,Amanda Armstead,836 Faye St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",11300,1
-1970-01-01 00:00:00.020200629,5773708004,C & H Mechanical And Plumbing Inc.,"1080 Historic Hwy 441 N, Suite C",Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24500,1
-1970-01-01 00:00:00.020200630,6663998003,"Tc Printing, Inc",874 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200709,1026218106,Loves Gifts,410 Baldwin Court,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",12100,1
-1970-01-01 00:00:00.020200722,6932488100,Jack Bradley Agency Inc.,138 Market Corners Dr.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
-1970-01-01 00:00:00.020200713,2470608106,,1269 Hwy 297 N.,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",3000,1
-1970-01-01 00:00:00.020200713,2083268100,Amanda Harrison,298 Grandview Circle,Cornelia,13137,Habersham County,GA,30531,09,Northeast,18460.0,"Cornelia, GA",2300,1
-1970-01-01 00:00:00.020200721,6392378100,"Hlk, Llc",2368 Highway 115,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24000,1
-1970-01-01 00:00:00.020200723,7350858109,A.R. White Co. Llc,1167 Riverwilde Rd.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",19900,1
-1970-01-01 00:00:00.020200707,9521598010,Cathy Care Llc,188 Glen Cove Lane,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",5400,1
-1970-01-01 00:00:00.020200711,1736308103,Braids By Tj,360 Third Street,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200709,1311488105,Blacksnake Ranch Llc,2660 Toccoa Hwy,Mount Airy,13137,Habersham County,GA,30563,9.0,Northeast,18460.0,"Cornelia, GA",3600,1
-1970-01-01 00:00:00.020200721,6342748106,Golden Sun Of Clarkesville,1405 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",21000,1
-1970-01-01 00:00:00.020200720,5470848101,World Aviator Group,8130 Cochran Mill Rd,Chattahoochee Hills,13137,Habersham County,GA,,13.0,Northeast,18460.0,"Cornelia, GA",41500,1
-1970-01-01 00:00:00.020200701,7459918009,"Ramblin' Wreck Rentals, Llc",2220 Orchard Dr,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
-1970-01-01 00:00:00.020200702,7984018008,Blueline Consultants Llc,11820 Upper Wooten Rd,Chattahoochee Hills,13137,Habersham County,GA,30268,13.0,Northeast,18460.0,"Cornelia, GA",17600,1
-1970-01-01 00:00:00.020200717,4777228103,Lunsford Logistics,250 Rolling H Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",18800,1
-1970-01-01 00:00:00.020200716,4505228110,Plantosis,838 Thistle Dr,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",13700,1
-1970-01-01 00:00:00.020200718,5317088102,Robert J. Elliott,269 Arbor Gates Dr,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",1800,1
+1970-01-01,3299177203,B & C Cleaners Inc,347 N Main St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",87100,1
+1970-01-01,9975297807,Artistic Logistics,475 Seye Wailo Trail,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",44000,1
+1970-01-01,8488227806,Architectural Glass Structures Inc.,1949 Sam Bell Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",56200,1
+1970-01-01,3471257206,Fenders Diner Inc,631 Irvin Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",346400,1
+1970-01-01,3002807801,Ladybug Antiques,258 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2800,1
+1970-01-01,7314447405,"Computech Communications, Inc.",3181 State Hwy 255,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,7656997406,Dawewood Farm Dba Farmhouse Poundcakes,752 Old Athens Hwy,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",11300,1
+1970-01-01,6690167403,"Mountain Nrg, Llc",131 Hodges St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",62000,1
+1970-01-01,9624347807,"Construction Components Truss Division, Llc",622 Creekview Ct,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5287157809,"Auto Recon Matrix, Llc",2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",95100,1
+1970-01-01,5448087803,"Cd Davidson Enterprises, Inc Dba Davidson Inspection Services",513 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37900,1
+1970-01-01,7731327808,Loaded Goat Farm,1251 Riverbend Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",9300,1
+1970-01-01,4463057809,"M & T Services Company, Llc",1315 Old Hardman Btms Rd.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",72000,1
+1970-01-01,5406917805,"The Market On Washington, Llc",1358 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",25500,1
+1970-01-01,7307017810,Ashley Williams,401 Skyview Cir,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",38500,1
+1970-01-01,5290647804,Us Online Auto Llc,176 Anderson Cir,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5163287800,"Nacoochee Valley Rentals, Llc",6725 Hwy 17,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",43800,1
+1970-01-01,7926647810,Clout Consulting Inc.,1646 Preacher Campbell Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",18400,1
+1970-01-01,7236957801,Hickory Flat Pottery,13664 Hwy 197 N.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",59100,1
+1970-01-01,2981847800,"R Mohler Contracting, Inc",484 Jim Carter Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",21800,1
+1970-01-01,4668887804,"Providence Academy, Inc",7355 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",20000,1
+1970-01-01,4111727805,Better Body Fitness Llc,2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",51100,1
+1970-01-01,3829867806,"Crewsolutions, Inc.",261 Blue Ridge Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",80200,1
+1970-01-01,6904197800,Alpha 1 Auto Finance Llc,"929 Historic, Hwy 441 Bypass",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",121800,1
+1970-01-01,9421807803,"Jk Herrin, Llc",641 Irvin St.,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",20000,1
+1970-01-01,5182557804,Mahadeva Inc,2085 Dicks Hill Pkwy,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",26200,1
+1970-01-01,3335727810,Mark Of The Potter Inc,9982 Hwy 197N,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",88800,1
+1970-01-01,9467057406,Southern Appalachian Technical Services Llc,210 Seye Wailo Trail,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",47300,1
+1970-01-01,8077907804,"North Georgia Land, Llc",1338 Yeoman Lake Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",25300,1
+1970-01-01,3331567410,Salon Avanti & Company,278 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5795237805,"Focus On Design, Inc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",1700,1
+1970-01-01,5761767802,Paisano Auto Group Llc,1633 Willingham Ave,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6905947802,A-1 Auto Sales Of Demorest Llc,"929 Historic, Hwy 441 Bypass",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",99800,1
+1970-01-01,5595847806,Rm4S Inc,169 Fair Bianca Ct,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",45800,1
+1970-01-01,9355807804,"Jp Anderson Productions, Llc",232 Anderson Circle,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,6759057807,Truematch Realty Llc,336 Morning Star Ln,Mount Airy,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",3000,1
+1970-01-01,9311877801,Ritzzy Hair Fashion,748 Harvest Church Rd,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",5400,1
+1970-01-01,9213427802,Jacob Mann(Woodmenlife),202 Midland Ct,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",14000,1
+1970-01-01,5682317809,"Sconie Ventures, Inc.",481 Yonah Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30000,1
+1970-01-01,3761347806,1St Choice Taxes,1089 Rocky Branch Rd,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2500,1
+1970-01-01,4234157800,"Stitches & Stuff Embroidery, Llc","101 Demorest Square, Ste E",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",22000,1
+1970-01-01,6638697804,The Service Agency,1378 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",24800,1
+1970-01-01,6791157802,Frances D. Hulsey Layout Inc.,805 Deer Trail Lakes Dr,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",15000,1
+1970-01-01,8395817807,C And H Masonry Inx,290 Dennis Cash Rd,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",40000,1
+1970-01-01,4872517806,"Kyk Enterprise, Inc.",186 S Main St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",49100,1
+1970-01-01,3783367802,K & A Tax Service Llc,179 N Main Street Suit A,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37400,1
+1970-01-01,6214367806,"A&E Security Solutions, Llc",232 Butterfly Ln,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",6500,1
+1970-01-01,8442367807,"Skga, Llc",679 Baldwin Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,7102077802,Hangry'S Grille,4739 Highway 115,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",89500,1
+1970-01-01,6988247809,"Diversified Management Systems, Inc.",605 Mccartan Trl,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,7120757809,Frolic Properties Llc,475 Hazel Ave,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",23600,1
+1970-01-01,3768837400,"Patrick K Mcshane Dmd, Pc",603 Clarkesville Street,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6993067808,"Moorland Properties, Inc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",2500,1
+1970-01-01,7031777802,"Calpro, Inc.",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",25700,1
+1970-01-01,7041947809,"Stonington Properties, Llc",405 Double Bridge Rd,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",9200,1
+1970-01-01,2686107809,Mm Professional Group Llc,"854 Washington St, Ste 200",Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,7470747806,"Ansley Communications Group, Inc.",1058 W. Airport Road,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3265007810,"Spinal Rehab And Healthcare, Llc","186 Cannon Bridge Rd, Suite B",Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5374427805,"Evergreen Retreat Center, Inc.",478 Andersonville Lane,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3007667806,Armaan Food & Gas Inc,7316 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",89300,1
+1970-01-01,9275877803,Life Beyond The Room Llc,5545 Cochran Mill Road,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",16900,1
+1970-01-01,9868427400,Alexia D Dodson,195 Walls Complex Cir,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",3500,1
+1970-01-01,7873337403,"Ram Equity Partners, Inc",9057 Selborne Lane,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",59000,1
+1970-01-01,1565217806,Anderson Windshield Company,374 Camp Creek Rd,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",71400,1
+1970-01-01,5350257405,Home Grown Ga Inc.,12150 Garretts Ferry Riad,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5256597406,Brown-Hornes Buggy Rides Llc,307 Gladston Rd,Mount Airy,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8300,1
+1970-01-01,4335317407,Base Telecom Llc,7621 Tribble Gap Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,2357027808,Holland Produce,5923 Hwy 115,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5996177807,"Ats Tech Solutions, Inc.",142 By Brook Trail,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6001387808,Woodmont Group Llc,1475 North Washington Street,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6083457808,Michelle Allen,197 Summer Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",19200,1
+1970-01-01,6104547800,"Hazel Creek Cider, Inc.",227 Smiling Apple Dr,Mount Airy,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",48900,1
+1970-01-01,8566787403,Sandra Sosebee,445 S Main St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",77700,1
+1970-01-01,8552267410,Hawkeye Uas Llc,1883 Rock Springs Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",6300,1
+1970-01-01,6707747408,Clarkesville Chiropractic,1083 Historic Hwy 441 N,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",14900,1
+1970-01-01,8703247402,"Hendrix Eye Care, Llc",864 Central Ave,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",7800,1
+1970-01-01,1813977800,Trs316Pie Llc,1406 Washington St,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,8968697806,Bryson Enterprise,1766 Zeb Bryson Road,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30300,1
+1970-01-01,9117377800,"Vanguard Security Associates, Inc.",233 Blue Ridge Avenue,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",17000,1
+1970-01-01,9053827804,"Foundation Academy, Inc.",120 Commerce Parkway,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,1475947809,"Hlsc, Llc",121 Clarkesville Plaza,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",22700,1
+1970-01-01,8680167801,Black Bottom Line Llc,157 Midland Drive,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",3000,1
+1970-01-01,2302727809,York'S Garage Llc,586 Wayside St. Nw,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",81100,1
+1970-01-01,8048207404,Yellowbank Produce,167 Riverbend Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",7700,1
+1970-01-01,8705987405,Hamescorp Inc,562 Washington St.,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",45500,1
+1970-01-01,8664167801,Batesville Junction Store,13440 Hwy 197 N,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",30500,1
+1970-01-01,8630927403,Usa Health Llc,1423 Washington Street Suite 205,Clarkesville,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",26500,1
+1970-01-01,8073957408,Borrowed And Blue,131 Hodges St,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",37000,1
+1970-01-01,7687397406,Flexserve Computer Services Llc,700 Stonecypher St Suite D2,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10800,1
+1970-01-01,9405297402,"Terra Mary, Inc",789 S Main St,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",15800,1
+1970-01-01,7486097403,Rad Dezigns,132 Rockin K Drive,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",53000,1
+1970-01-01,7867227409,Impacto Productions,147 Nantucket Dr,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+2020-06-25,3490968002,Punisher Mobile Blasting Llc,264 Walnut St,Cornelia,13137,Habersham County,GA,30531,09,Northeast,18460.0,"Cornelia, GA",6500,1
+1970-01-01,2263267907,Unlimited Vending Services,1390 Orchard Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",23000,1
+1970-01-01,8239827906,David L. Perry & Associates,774 Cider Rdg,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",22600,1
+1970-01-01,2885138000,"Ankony Land, Llc",125 Ankony Farms Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,2393028006,Christopher Scott Chambers,129 Slippery Rock Road,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7400,1
+1970-01-01,3955847910,"Ellis Shaw, Llc",39 Bambi Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20000,1
+1970-01-01,2594927909,Northeast Georgia Signs & Service Inc,310 Anderson Circle,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",34900,1
+1970-01-01,1824007906,Nathan Wile Salon Inc,475 Hazel Ave,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",67500,1
+1970-01-01,6472647908,Stacy Mckinley,477 Shallow Creek Dr,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8300,1
+1970-01-01,2639887904,Nickel And Dime Llc,270 Central Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",7400,1
+1970-01-01,6864707901,Hulsey  Heating & Air Llc,142 Salem Ln,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",13000,1
+1970-01-01,1845507902,Country Curls Salon,307 Church Sawmill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
+1970-01-01,2743297904,Protec Delivery Llc,781 Wynn Lake Cir,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6500,1
+1970-01-01,1327257910,Fort13 Airsoft Llc,247 Dicks Hill Pkwy,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
+1970-01-01,2878077905,"El Sombrero Mexican Restaurant #8, Inc",236 Merchants Way Unit D,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,2726517907,Lord & Hope Llc,115 Commerce Parkway,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",110500,1
+1970-01-01,2764187905,"Chosewood Auto Sales, Inc.",7124 Dick'S Hill Parkway,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",56100,1
+1970-01-01,1345537904,Soque River Watershed Association Inc.,1387 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2000,1
+1970-01-01,9846727907,"Cornerstone Animal Hospital, Llc",285 Smithville Ln,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,2122587905,Bryson Plumbing,1766 Zeb Bryson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",36700,1
+1970-01-01,1044737901,Southern City,793 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9300,1
+1970-01-01,2222437903,Lodhi 4 Food Mart Llc,1941 Highway 105,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",51900,1
+1970-01-01,2798957909,Computer Wholesalers,929 Old Historic U.S.441,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6200,1
+1970-01-01,8825057903,Rickman Industrial Arts,135 Grand Ave,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,1895468004,Amy Dooner,131 Wright Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",32800,1
+1970-01-01,3007247907,"Erin London Apparel, Inc",1425 Washington St,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",52800,1
+1970-01-01,2744877903,Asian Service And Repair,781 Wynn Lake Cir,Alto,13137,Habersham County,GA,30510,09,Northeast,18460.0,"Cornelia, GA",103000,1
+1970-01-01,2254988001,"Tlh Properties, Llc",111 Sunrise Cir,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",6500,1
+1970-01-01,2362057909,Midway Mini Storage,328 Cannon Bridge Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",14200,1
+1970-01-01,1206677900,High Speed Communications Inc,1343 Hwy 197 S,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",75300,1
+1970-01-01,2259087909,"Zacherys Seafood, Inc",230 Wayside St S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",128600,1
+1970-01-01,3202398004,Maddjamz Llc C/O Eugene Madison,320 Sixth St,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",23500,1
+1970-01-01,5011727900,Hair Express,1302 Central Ave,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",8500,1
+1970-01-01,3488077904,Benovel Georgia Inc,487 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",106900,1
+1970-01-01,4199937900,"Tb Nails & Spa Cornelia, Llc",250 Habersham Hills Cir Ste 12,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3411747906,"Pop'S Outdoors, Llx",3685 Habersham Mill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",67100,1
+1970-01-01,1159287908,Miles Through Time,583 Grant St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",3000,1
+1970-01-01,3821428010,Mountain Groceries Inc,3834 State Highway 365,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,4217117906,"Radiant Beauty Skincare, Llc","215 Hodges Street, Ste 107",Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,3614107902,Jb'S Side Street Deli,224B Merchants Way,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",18000,1
+1970-01-01,3890728010,Noy'S Spring Rolls,567 Ernest Nations Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",11800,1
+1970-01-01,9620657907,"M. Boykin, Inc.",105 Cheyenne Lane,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20000,1
+1970-01-01,3624417905,Peedees Paint Llc,2428 Old Athens Hwy Unit B,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",90100,1
+1970-01-01,5063477910,Jlk Enterprises,138 Tennessee St,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4000,1
+1970-01-01,2374828004,Living Water Medical Ministries,426 Foster Street,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7000,1
+1970-01-01,5735247904,Black Anvil Tattoo,120 Clarkesville Plz St C,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
+1970-01-01,9231617902,Chattahoochee Professional Engineering Llc,622 Creek View Ct,Cornelia,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,7161717902,Justin Wilson,152 Tall Oaks Drive,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",27900,1
+1970-01-01,3317927905,Budget Time,411 Cornelia Plaza Drive,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",41500,1
+1970-01-01,3161537909,Barrett Automotive Llc,1730 441 Bypass,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3843407902,Challenger Music Llc,290 Panacea Lane,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
+1970-01-01,3819847905,"The Right Start Development Center, Inc.",174 Charlie Batson Dr,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",124500,1
+1970-01-01,3990417905,David A. Jordan / D.B.A. Jordan Turf Brokerage,445 Chattahoochee Glen Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,9233137904,Ryan Smith,3520 Riverbend Road,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",13000,1
+1970-01-01,7444337906,Chad Kimsey Smith,683 Heyden Ridge Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
+1970-01-01,9025547904,"Cathy Gailey & Associates, Llc",11200 Serenbe Lane,Chattahoochee Hills,13137,Habersham County,GA,,13.0,Northeast,18460.0,"Cornelia, GA",80900,1
+1970-01-01,9024427901,William Bradley,979 Riverwilde Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
+1970-01-01,4910527909,Jrbbq Llc,515 Grant Avenue,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,7070357906,Joseph E Mariotti,1542 Ivy Mountain Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5000,1
+1970-01-01,3664447908,Misty  B Beck,1329 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",16100,1
+1970-01-01,3492958003,"David Bacon Consulting, Llc",4884 Highway 197 N,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",90900,1
+1970-01-01,4665607904,House Cleaning,805 Deer Trail Lakes Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",20400,1
+1970-01-01,5458147910,Mountain Pet Resort,603 Nix Rd,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",48000,1
+1970-01-01,4346607907,Splashe P.Y.O.P. Llc,127 W Water St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4000,1
+1970-01-01,4135967910,K2 Real Estate Llc,200 Laralynn Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,3841137900,Integradent Llc,679 Baldwin Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3859397906,"Elite Dentistry Of Habersham, Lc",679 Baldwin Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",61400,1
+1970-01-01,4233017900,"Herrin Communities, Inc.",230 Wayside Street S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7800,1
+1970-01-01,1917128009,Land Specialties Llc,125 Ankony Farms Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6742347902,Weldon Realty Inc.,110 Fawn Ridge Drive,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9200,1
+1970-01-01,4766157910,"Mufasa Investments, Llc",172 Ivy Street,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",17800,1
+1970-01-01,9359477907,"A & A Electric, Inc.",3699 B C Grant Rd.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6133957902,"Coffee Corner Antiques, Llc",1363 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5100,1
+1970-01-01,8795967903,John Quackenbush,197 Timber Ridge Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",40000,1
+1970-01-01,9907647901,Archie Deese,5340 Cornelia Hwy,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",31000,1
+1970-01-01,7863857903,Sautee Resorts,595 Highway 595,Clarkesville,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,6047037901,Squeaky Clean Cleaning,136 Blue Ridge Ave,Demorest,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",8600,1
+1970-01-01,6964387909,Phillip Yarber,1275 State Highway 197 South,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",85700,1
+1970-01-01,5604237901,Whitney Trotter,990 North Main Plaza Drive,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",4600,1
+1970-01-01,1148968008,I68 Llc,319 Grant Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",32000,1
+1970-01-01,6881257910,Nacoochee Real Estate Inc,1250 Historic Hwy 441 N,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,8610077901,Us Automotive Inc,165 Stonecypher St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",58500,1
+1970-01-01,6880457909,Crane Mill Farms Llc,2800 Crane Mill Rd,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",12400,1
+1970-01-01,9710717905,Paige Sheri Riddlehoover,380 Oak Ave Apt D,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1800,1
+1970-01-01,1136518005,Lois Skipper Emporium,477 Twisting Ridge Trail,Demorest,13137,Habersham County,GA,30535,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,8660777908,Daryl Sisk,1786 Preacher Campbell Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5200,1
+1970-01-01,8360877901,Cornelia Business Llc,4113 Pea Ridge Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",69500,1
+2020-06-26,4734078008,Aatv 2017 Llc,2059 Cool Springs Rd,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",75100,1
+2020-06-30,6619488006,Jerry Lee Hull Jr Dba Sweet Breads Llc,255 Grant St,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",24000,1
+2020-07-15,5256597406,Brown-Hornes Buggy Rides Llc,307 Gladston Rd,Mount Airy,13137,Habersham County,GA,30563,09,Northeast,18460.0,"Cornelia, GA",-8300,1
+2020-06-29,5592258001,115 Towing And Service Center,"3998 Hwy 17 Clarkesville, Address 2",Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",33000,1
+1970-01-01,8354598007,Nash And Company,1329 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
+1970-01-01,2898598106,"Habersham Metal Products, Company",264 Stapleton Rd,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,4224208108,Mpc Executive Search Services Llc,129 E Green St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",60800,1
+1970-01-01,9284148010,Christie Davies,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",25000,1
+1970-01-01,8142088005,The Creative Canvas,982 North Main Plaza Dr,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24900,1
+1970-01-01,9954238002,Andrew Davies,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,2336268110,"All Star Accessories, Llc",236 Merchant Way Unit A,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",35600,1
+1970-01-01,7879218007,Vr Mgmt Llc,1105 Highway 441,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,8383008004,Foothills Counseling Center. Inc.,260 E.Green St.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24100,1
+1970-01-01,4464328010,Aatv 2019 Llc,330 Habersham Hills Cir,Cornelia,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",9500,1
+1970-01-01,7341338006,Cynthia Cortes,262 Nantucket Dr,Alto,13137,Habersham County,GA,,09,Northeast,18460.0,"Cornelia, GA",45900,1
+1970-01-01,2247648104,Shear Pursenalities Salon,145 Young Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2000,1
+1970-01-01,7049448007,Good Wheels Auto Sales Inc,243 Business Highway 441,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,3527658106,Solid Rock Property Management,670 Hilton English Rd,Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,7561538009,"Sweet Acre Farms, Llc",7584 Bill Wilson Rd,Alto,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",129700,1
+1970-01-01,9326508010,"Career Placement Group, Inc.","691 Historic Hwy 441, Suite 3",Demorest,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",113500,1
+1970-01-01,4440408005,Gabriel Tiller,Po Box 482,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",26700,1
+1970-01-01,5373408009,Knockout Vapes Llc,199 Walls Complex Circle,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",17000,1
+1970-01-01,1721188101,El Patron Family Mexican Restaurant Llc,950 North Main Street,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,5894888008,Woodmenlife,144 Commerce Pkwy,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",30000,1
+1970-01-01,2575248101,David D Black,799 Main Street North,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",54000,1
+1970-01-01,1195448106,"Pakglobal,Llc",185 Builders Parkway,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",40000,1
+1970-01-01,8720268003,V3 Creative Llc,549 Traves Cove,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,8634728003,Holcomb Broilers,421 Gibson Rd,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",9800,1
+1970-01-01,9309278000,Ameya Global Llc,305 Pantherbrook Ln,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,4814098003,Emilie Baker,1321 E Mize Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",2100,1
+1970-01-01,2826958108,Maa Adhyashakti Llc,4753 Hwy 115,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",19000,1
+1970-01-01,7731208008,Juanita G Jones,400 Whispering Dale Rd,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",7800,1
+1970-01-01,7326808007,Grace Baptist Church,1786 Chase Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",54400,1
+1970-01-01,2005078107,Elevated Hair Lounge,"236 Merchants Way, Suite B",Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",7500,1
+1970-01-01,4445058006,B & E Property Management Llc,1000 Loliver Lane,Chattahoochee Hills,13137,Habersham County,GA,,13,Northeast,18460.0,"Cornelia, GA",6500,1
+1970-01-01,8568738007,Equus Optimus Llc,1309 Ben T Huiet Hwy,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",80000,1
+1970-01-01,2398848102,Thereasa Rinderknecht P.C.,726 Heads Ferry Road,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",15000,1
+1970-01-01,2108958103,Bjs Enterprises,256 Anderson Circle,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",55800,1
+1970-01-01,5119958004,Deana Brooksher,140 Laprade St.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",10000,1
+1970-01-01,8585548000,"The Highsmith Law Firm, Pc",147 Short Ave.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24000,1
+1970-01-01,1550768103,Memory Lane,11937 Hwy 197 N,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",5300,1
+1970-01-01,7592848000,Danielle Jackson,112 Heritage Garden Dr Unit N,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,3270758105,Lisa Dockery Moore,953 Amys Creek Road,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",8400,1
+1970-01-01,9694758008,Sullens And Sullens Contracting Inc,161 Sappling Pl,Alto,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",92000,1
+1970-01-01,1259848108,"T.S. Enterprise, Llc",138 Pardue Mill Rd,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",49900,1
+1970-01-01,1494828102,Aron Guerrero,189 Refuge Terrace,Mount Airy,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",99900,1
+1970-01-01,4612558001,"Ll Herrin Family Farm, Lllp",230 Wayside St S,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",104400,1
+1970-01-01,2885088107,Amanda Armstead,836 Faye St,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",11300,1
+1970-01-01,5773708004,C & H Mechanical And Plumbing Inc.,"1080 Historic Hwy 441 N, Suite C",Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24500,1
+1970-01-01,6663998003,"Tc Printing, Inc",874 Washington St,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,1026218106,Loves Gifts,410 Baldwin Court,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",12100,1
+1970-01-01,6932488100,Jack Bradley Agency Inc.,138 Market Corners Dr.,Cornelia,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",150000,1
+1970-01-01,2470608106,,1269 Hwy 297 N.,Clarkesville,13137,Habersham County,GA,30523,09,Northeast,18460.0,"Cornelia, GA",3000,1
+1970-01-01,2083268100,Amanda Harrison,298 Grandview Circle,Cornelia,13137,Habersham County,GA,30531,09,Northeast,18460.0,"Cornelia, GA",2300,1
+1970-01-01,6392378100,"Hlk, Llc",2368 Highway 115,Demorest,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",24000,1
+1970-01-01,7350858109,A.R. White Co. Llc,1167 Riverwilde Rd.,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",19900,1
+1970-01-01,9521598010,Cathy Care Llc,188 Glen Cove Lane,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",5400,1
+1970-01-01,1736308103,Braids By Tj,360 Third Street,Cornelia,13137,Habersham County,GA,30531,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,1311488105,Blacksnake Ranch Llc,2660 Toccoa Hwy,Mount Airy,13137,Habersham County,GA,30563,9.0,Northeast,18460.0,"Cornelia, GA",3600,1
+1970-01-01,6342748106,Golden Sun Of Clarkesville,1405 Washington Street,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",21000,1
+1970-01-01,5470848101,World Aviator Group,8130 Cochran Mill Rd,Chattahoochee Hills,13137,Habersham County,GA,,13.0,Northeast,18460.0,"Cornelia, GA",41500,1
+1970-01-01,7459918009,"Ramblin' Wreck Rentals, Llc",2220 Orchard Dr,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",1000,1
+1970-01-01,7984018008,Blueline Consultants Llc,11820 Upper Wooten Rd,Chattahoochee Hills,13137,Habersham County,GA,30268,13.0,Northeast,18460.0,"Cornelia, GA",17600,1
+1970-01-01,4777228103,Lunsford Logistics,250 Rolling H Dr,Clarkesville,13137,Habersham County,GA,,9.0,Northeast,18460.0,"Cornelia, GA",18800,1
+1970-01-01,4505228110,Plantosis,838 Thistle Dr,Clarkesville,13137,Habersham County,GA,30523,9.0,Northeast,18460.0,"Cornelia, GA",13700,1
+1970-01-01,5317088102,Robert J. Elliott,269 Arbor Gates Dr,Cornelia,13137,Habersham County,GA,,9,Northeast,18460.0,"Cornelia, GA",1800,1

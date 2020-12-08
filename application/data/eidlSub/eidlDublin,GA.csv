@@ -1,581 +1,581 @@
 Date,FAIN,Recipient,Address,City,FIPS,County,State,ZCTA,Congress,CDRegion,CBSA,MSA,Amount,Loans
-2020-04-20 00:00:00.000000000,3188287209,"Holy Smokes Barbecue, Llc",1100 Suite B9,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",188800,1
-2020-06-03 00:00:00.000000000,7590027807,Brent J. Redfern,2772 Old Eastman Rd,Cadwell,13175,Laurens County,GA,31009,12,Central,20140.0,"Dublin, GA",6500,1
-2020-04-08 00:00:00.000000000,8284377008,Mg Designs Llc,231 Waverly Drive,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",13200,1
-2020-06-03 00:00:00.000000000,7595057804,Kmh Transport Inc,11105 Hwy15,Soperton,13283,Treutlen County,GA,30457,12,Central,20140.0,"Dublin, GA",62800,1
-1970-01-01 00:00:00.020200605,8502497803,Shaffer Restaurant Group,112 West Jackson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200608,9017077807,G&G Farms Of Dublin,1803 Knox Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
-1970-01-01 00:00:00.020200425,3462007210,Goolsby Services Llc,112 East Johnson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",102300,1
-1970-01-01 00:00:00.020200529,4760067808,The Lillie Home Inc.,437 Cypress Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200529,4899277806,Global Truck Group Llc,1044 Maid Marian Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34000,1
-1970-01-01 00:00:00.020200528,4349397802,Business Services International Corporation,793 Tobacco Trail,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200608,9467847810,Ybn Trucking Llc,200 Tattnal St Lot 10,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30000,1
-1970-01-01 00:00:00.020200528,4583447802,Curry Trucking,1508 Stonewall Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",68000,1
-1970-01-01 00:00:00.020200526,3657627807,Neeva Nia Llc,"101 Travel Center Blvd.,",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200525,2942337808,Phg Wrightsville Llc,337 W Court St,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200530,5851817808,"Quick Way Garage, Llc",2946 Calvary Church Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10500,1
-1970-01-01 00:00:00.020200528,4221097807,"Cac Management, Llc",115 W. Jackson St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",59900,1
-1970-01-01 00:00:00.020200525,3109027803,Ava'S Place Child Care Learning Center,1230 Ga Highway 19 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45000,1
-1970-01-01 00:00:00.020200605,8484607805,"Dtk Properties, Llc",617 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",41000,1
-1970-01-01 00:00:00.020200609,9668277801,Maandesh Limited Liability Company,2192 Us 441,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200518,8146027402,"Total Earth Services, Llc",110 South Church Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200530,5516097809,Tanner Environmental Inc.,223 Hillbridge Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5900,1
-1970-01-01 00:00:00.020200525,3124507803,Winslow Homes And Development Llc,578 Gumlog Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",33000,1
-1970-01-01 00:00:00.020200604,7704727804,Justin W Durden Enterprises Llc,1083 Wl Graham Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",60000,1
-1970-01-01 00:00:00.020200530,5779807810,Leah Mathis Photography,1670 Mount Olive Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200604,7689957804,The Mulberry Kitchen Llc,2384 Us Hwy 80,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14800,1
-1970-01-01 00:00:00.020200422,3356607209,"J.R. Graham Construction Company, Inc.",1017 J F Flanders Road,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",500000,1
-1970-01-01 00:00:00.020200604,7614567800,Buckeye Trucking Inc.,860 Walker Hill Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200609,9635347802,Dublin Broadcasters Llc,717 East Jackson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200525,2660707803,Denise Grubbs,395 Clark Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20200,1
-1970-01-01 00:00:00.020200530,5527347807,Braddy Performance,2030 Martin Luther King Jr Drive,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",54900,1
-1970-01-01 00:00:00.020200530,5770937807,Candace Transportation Llc,1214 N Jefferson St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12600,1
-1970-01-01 00:00:00.020200521,1588607808,Just Because... Floral & Gift,609A Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11000,1
-1970-01-01 00:00:00.020200515,6551407403,"Castaway Contractors, Inc.",475 John Vaughn Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200511,4676877409,Ivey'S Driving School,1908 Bellevue Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
-1970-01-01 00:00:00.020200506,2581307400,"Fgt Dublin, Llc",902 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",26500,1
-1970-01-01 00:00:00.020200604,7748197802,Dec Training Services,781 Lc Pope Rd.,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",19700,1
-1970-01-01 00:00:00.020200527,3885257805,Maa Fashions Inc.,120 West Jackson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",63800,1
-1970-01-01 00:00:00.020200515,6698987407,Melaina'S Flowers And Gifts,2302 Hwy 80 West,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4600,1
-1970-01-01 00:00:00.020200605,7997067810,"Shamrock Services, Llc",340 Trinity Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200530,5467617802,"Helo-Max, Llc",408 Allen Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200603,7321997807,Dublin Automation And Controls,2614 Moore Station Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200530,5259867802,Dlw Lawn Service,415 Shannon Drive,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8600,1
-1970-01-01 00:00:00.020200609,9826157807,"Jr Yuma Group, Llc",645 Hatchee Ridge Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200528,4296337801,Fordham Sisters Llc,1010 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200511,4813067410,Mg Designs Llc,231 Waverly Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",22200,1
-1970-01-01 00:00:00.020200511,5098337402,The Bellevue Salon & Spa,711 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7500,1
-1970-01-01 00:00:00.020200603,7358647800,"Meridian Construction, Llc",101 Shuman Ln,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200525,2941927806,Webb'S Cleaning Services,5101 Us Hwy 319 North,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",5800,1
-1970-01-01 00:00:00.020200603,7324067805,"Colleen'S China & Collectibles, Inc.",1801 Rice Ave Ste C,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",36200,1
-1970-01-01 00:00:00.020200609,9878397800,"Tactical Trading Post, Llc",2210 Veterans Blvd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",76000,1
-1970-01-01 00:00:00.020200519,8531157402,K'S Electric Vapor,1505 Rice Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200526,3636717800,"Ellen G. Sumner, Llc",1302 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",33200,1
-1970-01-01 00:00:00.020200603,6912537806,Essentially Obsessed Life,129 Lakeview Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3900,1
-1970-01-01 00:00:00.020200526,3199427808,K&C Buckeye Trucking Llc,873 Shamrock Court,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12200,1
-1970-01-01 00:00:00.020200527,4044477801,"Seal Team, Llc",1395 David Mullis Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",2500,1
-1970-01-01 00:00:00.020200530,5409687803,Dublin Pipe Company Inc.,404 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",111000,1
-1970-01-01 00:00:00.020200603,6913057806,Super 8 By Wyndham,2150 Us Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200608,9286117804,The Car Lot Of East Dublin Llc,208 Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",118000,1
-1970-01-01 00:00:00.020200508,3866007402,"Why Wait Travels, Llc",868 Union Hill Church Rd,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",109500,1
-1970-01-01 00:00:00.020200605,8228647807,Chucks Auto Transport,2160 Oconee Church Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",35800,1
-1970-01-01 00:00:00.020200523,2455257800,Southern Services Inc. Of  Dublin,2378 Us Hwy 80 W,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200530,5669547803,"Coshos, Llc Dba The Sign Store",216 S. Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",17300,1
-1970-01-01 00:00:00.020200608,9296567803,"Rowland Aviation Services, Llc",45 Rabbit Run,Kite,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",101500,1
-1970-01-01 00:00:00.020200530,5244967805,Arya Kush Llc,443 Second St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",28300,1
-1970-01-01 00:00:00.020200530,5605357806,"Harper Built Construction, Llc",101 Shuman Lane,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",149000,1
-1970-01-01 00:00:00.020200608,9407457809,J Vescuso Trucking Llc,298 Lauren Woods Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20300,1
-1970-01-01 00:00:00.020200525,2729867804,Infinity Trucking Co Llc,240 Deerwood Trl,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",87300,1
-1970-01-01 00:00:00.020200521,1700357806,Right On Time Expediting Services Llc,160 Carlos Snell Rd,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",30000,1
-1970-01-01 00:00:00.020200528,4218877804,"Meridian Property, Llc",1163 Old Toomsboro Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200516,7488287405,"Pettis Family Sandwich Shop Of Laurens County, Inc.","2423 Hwy 80 W, Dublin, Ga 31021",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",58100,1
-1970-01-01 00:00:00.020200516,7414467408,Marie C Conner Dba,3393 E Main St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",20500,1
-1970-01-01 00:00:00.020200608,8866207809,Pooles Auctioneering Used Car Sales,1896 Highway 126,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7500,1
-1970-01-01 00:00:00.020200602,6738867804,Dublin Hematology & Oncology Care Pc,207 Fairview Park Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200604,7644877800,Hope In Darkness Global Foundation,210 E Gaines St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",33000,1
-1970-01-01 00:00:00.020200605,8430767801,"Unicorn Works, Llc",1101 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",29600,1
-1970-01-01 00:00:00.020200527,3903777802,Jacks Enterprisellc,2301 Bellevue Rd Ste 100-200,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",98800,1
-1970-01-01 00:00:00.020200511,4672187406,"A. T. Speight, Sr. Farmers' Enterprise",1868 S Poplar Springs Ch Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200521,9995937403,Countyline Package,3391 Ga Hwy 117,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6000,1
-1970-01-01 00:00:00.020200505,1816697402,S-Team Llc,711 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",31900,1
-1970-01-01 00:00:00.020200519,8746037409,Matthew L. Waters,2325 Piney Mount Church Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",66700,1
-1970-01-01 00:00:00.020200527,3932897802,Leigh Anne Griggs Bennett Llc,1406 Bellevue Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",93400,1
-1970-01-01 00:00:00.020200603,6999447805,John Wells,100 Whipoorwill Way,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200605,8442597806,Dru Watson Construction,2064 Julianne Dr.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",16400,1
-1970-01-01 00:00:00.020200527,3785127804,Manning Holdings Llc,1603 Marley Cannon Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",26600,1
-1970-01-01 00:00:00.020200530,5902097807,Stuart R Stanley,1479 Chan Stanley Road,Wrightsville,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200527,3968067802,Morgan Coates,1101 Hillcrest Pkwy Ste I,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200506,2419557407,Piece Counseling And Consulting,877 Ga Hwy 338,Dudley,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200530,5930797802,Fulford And Sons Llc,1940 Hwy 278,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",136200,1
-1970-01-01 00:00:00.020200602,6536127807,Shree Hospitality Management Inc,304 Clyde Pl,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",80300,1
-1970-01-01 00:00:00.020200512,5296287401,Joshua C Claxton,,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200523,2482177806,"Dhg, Llc",240 Woodland Way,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200530,5722867805,Jarvis Reeves,808 Euclid St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",2600,1
-1970-01-01 00:00:00.020200603,7413727804,Adam M. Raney,2996 Moore Station Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18200,1
-1970-01-01 00:00:00.020200514,6338867402,Montrose Production Co.,1917 Academy St,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200602,6497097807,Shree Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",109000,1
-1970-01-01 00:00:00.020200529,5129807808,"Bracewell Furniture, Llc",868 Robert Lewis Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",58900,1
-1970-01-01 00:00:00.020200521,1352007809,"God'S Way Learning Academy, Llc",115 Martin Luther King Dr.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11400,1
-1970-01-01 00:00:00.020200603,7497077806,King Builders Inc.,1545 Chuck Thompson Road,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",48900,1
-1970-01-01 00:00:00.020200602,6545337802,Vraj Sub Llc,2150 Us Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200603,7437177810,Bwj Solutions Llc,740 Clinton Branch Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",70000,1
-1970-01-01 00:00:00.020200515,6563367401,"Mudd Swamp Plantations, Llc",471 John Vaughn Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200608,9282747808,Bryans Auto & Equipment Repair,3742 Hwy 257,Dexter,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",64300,1
-1970-01-01 00:00:00.020200602,6510637809,Subh Laxmi Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",119400,1
-1970-01-01 00:00:00.020200603,7560707809,"Classic Equestrian Assisted Family Services, Inc.",715 James Currie Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",47800,1
-1970-01-01 00:00:00.020200521,1756897803,Hard Work Hands,1015Willie Way,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200528,4240567801,Sno Biz Llc,300 Pine Forest St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",21800,1
-1970-01-01 00:00:00.020200608,9218767809,"Middle Georgia Behavioral Services, Llc","101 Walke Dairy Road, Suite B",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200518,8179927408,"Paul W. Calhoun, Iii, Llc",4097 West Main Street,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",48500,1
-1970-01-01 00:00:00.020200511,5160317409,Strickland Farms,2878 Old Louisville Rd,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",9000,1
-1970-01-01 00:00:00.020200518,8008357409,"Coastal Care Services, Inc",1628 College Streed,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",118600,1
-1970-01-01 00:00:00.020200530,5649237807,Southeast Gymnastics Academy,2166 College St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",43000,1
-1970-01-01 00:00:00.020200523,2311757809,"M & P Pools, Llc",1201 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",65000,1
-1970-01-01 00:00:00.020200511,4769097410,"Rowland Air Chem, Llc",51 Rabbit Run,Kite,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200521,9937867408,Established Furniture Co. Llc,226 S. Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",21800,1
-1970-01-01 00:00:00.020200523,2306507810,"Micah'S Playhouse, Inc.",1232 Hwy 19 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",115200,1
-1970-01-01 00:00:00.020200522,1858817802,"Classic Florist & Home Decor, Llc",913 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200525,2962057804,"C&M Consulting And Training Services, Llc",1040 Pleasant Springs Church Road,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",35500,1
-1970-01-01 00:00:00.020200601,5996137806,"Jai & Jus Transportation,Llc",506 East Mary Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",69000,1
-1970-01-01 00:00:00.020200526,3400757805,Cashrow Tax Service,409 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3200,1
-1970-01-01 00:00:00.020200601,6191677801,The Big Bamboo Company,1338 3Rd St,Dudley,13175,Laurens County,GA,31022,12.0,Central,20140.0,"Dublin, GA",133500,1
-1970-01-01 00:00:00.020200601,6141637802,"Dublin Clearing And Grading, Llc",1103 Highway 29 South,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200601,6101747806,Meldi Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",112900,1
-1970-01-01 00:00:00.020200518,8026577409,Simple Moving Solutions Llc,"702 Industrial Blvd, Suite D",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31400,1
-1970-01-01 00:00:00.020200601,6109567805,Dublin Motel,1115 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200601,6043097802,Ramco Refrigeration,418 Fairfield Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200518,7963157401,Dublin Kidney Institute,207 Industrial Blvd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200519,8506747400,Jayambe Motel Llc,2108 Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200518,8454557410,Montrose Auction Inc.,1702 Second St,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200522,2063787807,"Cloverleaf Restaurant, Llc",425 Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",56000,1
-1970-01-01 00:00:00.020200608,8996687800,Pt Properties Of Dublin Llc,2018 S Poplar Springs Ch Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5300,1
-1970-01-01 00:00:00.020200522,1987577809,Luxe Boutique,1811-C Rice Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6900,1
-1970-01-01 00:00:00.020200521,1658357801,"J&L Tire And Brake, Llc",1107 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",85000,1
-1970-01-01 00:00:00.020200601,6370607808,Langley Environmental Services,2359 Alvin Joiner Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11500,1
-1970-01-01 00:00:00.020200521,1636367803,Central Crossing Llc,609 Central Drive,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9800,1
-1970-01-01 00:00:00.020200525,3000127805,La Charle' Salon,1097 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",52000,1
-1970-01-01 00:00:00.020200521,1403687804,Phong Nguyen,1101 Hillcrest Pkwy Ste-H,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200525,2887347807,5 Points Barber And Beauty Shop,200 West Madison Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200518,8018627400,Clear Blue Crystal Inc,2013 Veterans Blvd Ste 23,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200519,8635417402,Charlotte J White,201 Kings Road,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200520,9458717401,Laurens County Lockout And Towing Llc,406 E Gaines St,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",40500,1
-1970-01-01 00:00:00.020200518,7825367407,Lamed Management Llc,61 Ivy Circle,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200518,7843757410,"Dublin International Market, Llc",708 East Jackson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",15500,1
-2020-06-25 00:00:00.000000000,4120198004,K & J Land Clearing Llc,119 Tabernacle Rd,Soperton,13283,Treutlen County,GA,30457,12,Central,20140.0,"Dublin, GA",57400,1
-2020-06-22 00:00:00.000000000,1014448010,Jjld Trucking&Farm,2123 New Buckeye Road,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",25700,1
-2020-06-17 00:00:00.000000000,7366927910,Melvin Lester Coney,772 Campground Rd,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",3800,1
-1970-01-01 00:00:00.020200624,2740208007,Cannon Well Service,1497 Hwy 278,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",84000,1
-1970-01-01 00:00:00.020200611,1669157904,Robbie'S Paint & Body Llc,103 Mlk Jr Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47500,1
-1970-01-01 00:00:00.020200622,1069778001,Megaton,1035 Holly Lane,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200616,5360897903,"Dublin Country Club, Inc",689 Country Club Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200611,1961617908,Sweet T'S Bakery,126 W Madison Street Ste D,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",77700,1
-1970-01-01 00:00:00.020200616,4330677901,Wreath Works By Cathy,616 Scooter Rue Rd.,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3800,1
-1970-01-01 00:00:00.020200619,8905557900,John Travis Couch,1834 Jj Club Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12200,1
-1970-01-01 00:00:00.020200616,5337237906,"Sdi Of Lake City, Llc",1114 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200617,7133067900,Yates Insurance And Real Estate Of Wrightsville,8683 North Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200617,7356057905,Kids Crossing,207 North Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27500,1
-1970-01-01 00:00:00.020200625,3529228001,M&K Trucking,1607 Lance Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12800,1
-1970-01-01 00:00:00.020200625,4239588000,"The Villas At Bellevue, Llc",903 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",77300,1
-1970-01-01 00:00:00.020200617,5623467906,Boynton'S More Trucking Llc,108 New Street,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
-1970-01-01 00:00:00.020200617,7157427906,Turtle Express  Inc.,Po Box 128,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200611,1982507909,Angie'S Nail Salon,310 Pine Forest Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",21300,1
-1970-01-01 00:00:00.020200616,5483317904,"Angels In Flight Recovery Center, Inc.",2041 West Elm Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",91500,1
-1970-01-01 00:00:00.020200617,6535107908,Graham Finer Foods Llc,3687 Mount Vernon Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",106000,1
-1970-01-01 00:00:00.020200624,2905468003,"Superior Drywall & Accoustical, Llc",1101-L Hillcrest Pkwy. Pmb 321,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200610,1352917909,Willie Mack Produce,1673 Railroad Street,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200617,5787127905,"Jerry B. Daniel, Lcsw",1395 David Mullis Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",70000,1
-1970-01-01 00:00:00.020200625,3783038009,Premier Properties Of Dublin Llc,608 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",96400,1
-1970-01-01 00:00:00.020200624,2833168007,"Cp North 2, Lp",1003 Claxton Dairy Rd Apt B1,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",39900,1
-1970-01-01 00:00:00.020200611,2235577909,"Tifara, Llc",2005 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",93600,1
-1970-01-01 00:00:00.020200617,6879317905,Robdricka Stanley,1051 Leon Brantley Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200617,5636177901,Cayce Cook Trucking Llc,504 Brookwood Dr Apt B1,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
-1970-01-01 00:00:00.020200620,9429857910,"Dublin Collision Center, Llc",506 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",35000,1
-1970-01-01 00:00:00.020200611,2064377902,Middle Georgia Female Firearms Training,105 Hampton Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12500,1
-1970-01-01 00:00:00.020200611,2148407906,Rm Couey Llc,366 Couey Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",76800,1
-1970-01-01 00:00:00.020200611,2175007910,Mcafee Packing Co Inc,490 N Valley St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200610,1523937910,Malpass Foods,637 E Court Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",9100,1
-1970-01-01 00:00:00.020200610,1123127904,"Daniel M. King, Jr. Llc",617 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200622,9904377908,Gary Baggett,616 Scooter Rue Rd,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
-1970-01-01 00:00:00.020200610,1027997907,Vincent A Connell,362 Old Pine Rd,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44000,1
-1970-01-01 00:00:00.020200612,3006187900,"We-Touch Visiting Caregivers, Inc",1623 Rice Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",140000,1
-1970-01-01 00:00:00.020200617,7056317909,Bryan Seay,119 W Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200610,1616397902,"Mid State Investors, Llc",1825 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",108400,1
-1970-01-01 00:00:00.020200610,1119047901,Pureglow Technical Services,203 Pea Ridge Rd,Montrose,13175,Laurens County,GA,,8.0,Central,20140.0,"Dublin, GA",12000,1
-1970-01-01 00:00:00.020200610,1498227906,"Shannon Bridges, Ccr",372 Champion Ophelia Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",23400,1
-1970-01-01 00:00:00.020200617,7314307910,3G Brothers Llc,2103 Veterans Blvd Suite 5,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",29800,1
-1970-01-01 00:00:00.020200611,2288947906,The Penny Saver Llc,564 Kight St,Kite,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",4200,1
-1970-01-01 00:00:00.020200617,6543107908,Enchanted Bodies By Tricee,602 Hudson Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3800,1
-1970-01-01 00:00:00.020200619,8730357907,Tpi Plus Inc,1959 Calvary Church Rd,Wrightsville,13167,Johnson County,GA,31096,10,East,20140.0,"Dublin, GA",5400,1
-1970-01-01 00:00:00.020200625,3417678002,Lois Jean Nash,1022 Friar Tuck Ct,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8600,1
-1970-01-01 00:00:00.020200612,2927677905,Modiddy Transport Llc,1905 Anderson Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44500,1
-1970-01-01 00:00:00.020200610,1248197907,"Harry Green & Sons, Inc.",2246 Harry Green Rd,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",68200,1
-1970-01-01 00:00:00.020200610,1228947910,Double R Trucking Llc,500 Marvin Church Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200612,3501297906,Dollar Cakes,1993 Snellbridge Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1300,1
-1970-01-01 00:00:00.020200612,3370087901,Lakestone Inc.,707 Kellam Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",146200,1
-1970-01-01 00:00:00.020200625,3539418003,William K Tanner,939 Donovan Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",114600,1
-1970-01-01 00:00:00.020200625,3313398007,Nicole Brazil,505 Bridgemill Dr.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200611,2360077900,Bhakti Z Llc,1201 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",94700,1
-1970-01-01 00:00:00.020200617,5962627900,Breaking The Chain,405 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4800,1
-1970-01-01 00:00:00.020200616,4419337900,"Dublin Rising, Inc",109 Martin Luther King Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12300,1
-1970-01-01 00:00:00.020200616,5020967904,Geegees Boutique,1115 Hillcrest Pkwy A,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
-1970-01-01 00:00:00.020200617,6387867910,Rowland & Sons Truck Repair Llc,102 South Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",100000,1
-1970-01-01 00:00:00.020200617,6008567904,"Ike'S Window Tinting And Detailing, Inc",133 Carter Cemetery Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",13500,1
-1970-01-01 00:00:00.020200610,1067427905,Premier Construction Associates,608 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",53000,1
-1970-01-01 00:00:00.020200616,4627417905,Elmer Wright,1565 Lexington Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",51500,1
-1970-01-01 00:00:00.020200617,7080797902,O'Neal'S Detailing Llc,911 Stewart St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
-1970-01-01 00:00:00.020200617,6318747905,Ellen Fielder,613 Old Macon Extension,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3100,1
-1970-01-01 00:00:00.020200617,6935477902,John Allen Rowland,312 Jh Rowland Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",49000,1
-1970-01-01 00:00:00.020200619,9275867909,Shivpre Llc,1011 Martin Luther King Jr. Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",46600,1
-1970-01-01 00:00:00.020200610,1174177908,Oconee Auto Auction Llc,702 East Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",48500,1
-1970-01-01 00:00:00.020200612,3385527905,Shawn Farnsworth Eastman,212 W Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12000,1
-1970-01-01 00:00:00.020200616,3912277905,Kreative Kreations,2552 E. Elm St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5300,1
-1970-01-01 00:00:00.020200624,2936338002,Hugh Hudson,505 North Decatur St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",35600,1
-1970-01-01 00:00:00.020200612,3476387906,Clarence Bubbie Stanley,524 Pointe West Pl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4700,1
-1970-01-01 00:00:00.020200616,3790797909,Law Officse Of Michael R. Lloyd,1508 Bellevue Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33200,1
-1970-01-01 00:00:00.020200612,3354127900,Shellter Property Solutions,1993 Snellbridge Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8600,1
-1970-01-01 00:00:00.020200612,3391467907,Tabatha Solorio,312 Brookdale Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200625,3863538006,Ronnie Holliman,304 Marion Street,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",49000,1
-1970-01-01 00:00:00.020200625,3784258007,Angels,442 Saint Charles Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200624,2986778003,Dynamic Woman Express Llc,213 Marion St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200612,3633817909,Hd Rentals,1993 Snellbridge Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31700,1
-1970-01-01 00:00:00.020200624,3124078006,Dublin Business Llc,403 S Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200612,3624257905,Sdc  Med Trans Llc,221 Savannah Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
-1970-01-01 00:00:00.020200624,2942278004,The Stepping Stone Child Advocacy Center,382 Woodland Trails Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200624,2909398003,"Atl Load Express, Llc",602 Hudson Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",42000,1
-1970-01-01 00:00:00.020200616,5008267903,"Highpoint Investment Holdings, Llc",217 Ridge Cir,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4200,1
-1970-01-01 00:00:00.020200625,4232198009,Lr Schrader Deliveries Llc,1339 Buckeye Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19000,1
-1970-01-01 00:00:00.020200618,8269227904,Orr Holdings Llc,904 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33000,1
-1970-01-01 00:00:00.020200625,3720848008,Redman Farms,8828 North Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200617,5766247907,Mbs Billing Solutions,2717 Old Eastman Rd,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",86500,1
-1970-01-01 00:00:00.020200618,8153767900,Bryan Keith Carr,1826 Sapp Christian Rd,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",36500,1
-1970-01-01 00:00:00.020200619,8813097907,Melissa Fields,1614 Bell Ave,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",5300,1
-1970-01-01 00:00:00.020200625,3497498006,Patrick Nathaniel Powers,312 Parker Dairy Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12300,1
-1970-01-01 00:00:00.020200616,5443227907,"R&G Farm, Llc",2504 Us Highway 441 N,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14300,1
-1970-01-01 00:00:00.020200612,3580157907,"Darsey Enterprises, Inc.",749 Blackshear Ferry Rd. W.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",98500,1
-1970-01-01 00:00:00.020200624,3142428008,E.C.S. Realty Llc,512 Saxon St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20500,1
-1970-01-01 00:00:00.020200624,2738758009,D&J Auto Brokerage And Sales Llc,101 S Franklin St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20400,1
-1970-01-01 00:00:00.020200622,1281878004,Star Nails & Spa Dublin Llc,907-C Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",65800,1
-1970-01-01 00:00:00.020200617,5990367902,"Central Georgia Landworx, Llc",1871 Ga Highway 29 S,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",32900,1
-1970-01-01 00:00:00.020200617,7133767909,Linder'S Transport Llc,139 Claxton Height Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17000,1
-1970-01-01 00:00:00.020200624,3093308010,"Whigham Construction, Ltd",211 Flanders St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",100300,1
-1970-01-01 00:00:00.020200616,3903307910,James J Caldwell,2400 Bellevue Rd/21B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2700,1
-1970-01-01 00:00:00.020200612,3179967907,Turkey Creek Tire Llc.,1327 N Jefferson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26000,1
-1970-01-01 00:00:00.020200612,3218967900,Kendall Johnson,430 Marvin Church Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",30000,1
-1970-01-01 00:00:00.020200617,7099467908,H C Rowland Trucking Llc,1135 Curl Ln,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
-1970-01-01 00:00:00.020200617,6613567902,"Harper Built/Meridian Construction, Llc",101 Shuman Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45500,1
-1970-01-01 00:00:00.020200625,3938158005,"Gprc,Llc",1901 West Elm Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",56500,1
-1970-01-01 00:00:00.020200619,8835347900,"Ganesh Ga, Llc",418 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",90700,1
-1970-01-01 00:00:00.020200618,7729137909,D D Trucking,2640 Scotland Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10100,1
-1970-01-01 00:00:00.020200625,3527268009,Skeet Cafe,701 Ridgewood Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",60000,1
-1970-01-01 00:00:00.020200616,5110867902,"G & J Uniforms, Llc",2216 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27300,1
-1970-01-01 00:00:00.020200616,4602587903,Nicholas Scott Campbell,2973 Idylwild Dr.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5200,1
-1970-01-01 00:00:00.020200618,8148647905,Kenneth C Rowland,1074 Beall Ln,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",135000,1
-1970-01-01 00:00:00.020200616,4812927907,Work @ Home Solutions Inc,1893 Coleman Register Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11300,1
-1970-01-01 00:00:00.020200625,3513838002,Kimberly Bailey,2025 Rentz Road,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200617,7449577907,Brown'S Automotive Llc,1601 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",36500,1
-1970-01-01 00:00:00.020200618,7815177906,Bestcare Counseling Pc,212 S Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200618,7681147901,Q.D. Trucking Co. Llc,207 Grady Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45700,1
-1970-01-01 00:00:00.020200620,9330817909,"Hidden Acres, Inc.",446 Fairfield Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
-1970-01-01 00:00:00.020200618,7614977903,"Dublin Motors, Inc",807 Telfair Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200618,7856257902,Sree Hospitality,114 Walke Ridge Trl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",69000,1
-1970-01-01 00:00:00.020200618,7975777908,Lynda Hall,488 Second St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200620,9854927908,Dale Brown Performance Horses Inc,1064 Emily Currie Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",75000,1
-1970-01-01 00:00:00.020200620,9418937904,Thigpen Distributing,2085 Minter Blue Springs Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27000,1
-1970-01-01 00:00:00.020200620,9737037902,Uncle Jeff Transport Llc,567 Ed Beckham Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
-1970-01-01 00:00:00.020200624,2444868001,Boyds Diesel Repair And Performance,2880 Ga Highway 117,Cadwell,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
-1970-01-01 00:00:00.020200624,2570768007,Timothy Andre Wells,66 Wyatt Martin Way,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22300,1
-1970-01-01 00:00:00.020200624,2888778010,"Seward Enterprises, Inc.",1101-L Hillcrest Parkway Ste 103,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200620,9438747903,Tristar Aerial Lift & Equipment Sales Inc,219 East Madison Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200623,1627308006,Lowery Roofing & Construction,1437 Baker Church Rd.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200617,6962507904,Malabar Blueberry Farm Llc,192 Blizzard Road,Wrightsville,13167,Johnson County,GA,,,East,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200624,2794228008,Ls Logistics Llc,681 Windcrest Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",49000,1
-1970-01-01 00:00:00.020200616,3912807909,"Cobalt Telecom, Inc.",1439 2Nd St.,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",77400,1
-1970-01-01 00:00:00.020200616,4683867905,Jody Ivey Trucking Dba,103 Mason Bridge Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200616,3917667903,"Digital Systems Engineering, Llc",1439 2Nd St.,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13100,1
-1970-01-01 00:00:00.020200616,4258547902,Amanda Heath/Split Ends Hair Salon,4107 West Main Street,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2900,1
-1970-01-01 00:00:00.020200616,4369347904,Christine Clements,994 Bates Avenue,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
-1970-01-01 00:00:00.020200616,5356017905,James Horton,3161 Us Hwy 441 North,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200622,1436688001,Discount Repos Llc,1954 Us Hwy 441 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",48000,1
-1970-01-01 00:00:00.020200622,1325378010,Hot Wings And More,191 North Bradford Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",60000,1
-1970-01-01 00:00:00.020200623,1652388010,Passion Hair And Nails,2103 Veterans Blvd #19,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200616,4241937905,"Baggett Farms, Llc",616 Scooter Rue Rd,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",120900,1
-1970-01-01 00:00:00.020200617,6661857900,Pauldo Trucking,103 Helen Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200618,8222127901,"All American Septic Services, Llc",210 Savannah Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200616,4695457908,"Phillip G. Boatright, Jr., Llc",27 Chester Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",35000,1
-1970-01-01 00:00:00.020200616,4819457900,Ellington Transportation Llc,885 Chester Wilkes Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200624,2751788001,Vontressa'S  Cakery,607 Village Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",61000,1
-1970-01-01 00:00:00.020200625,4005928003,Carol L Wiatrowski,7828 B Eastman Road,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",6900,1
-1970-01-01 00:00:00.020200616,4452677910,Shirley Martin,103 High Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200617,5542337900,Dahl Rogers,1943 Jj Club Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",70000,1
-1970-01-01 00:00:00.020200617,6820327903,"Durden Cattle Company, Llc",14763 Ga Highway 86,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
-1970-01-01 00:00:00.020200620,9844657906,Viking Fitness,4033 E. Main St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
-1970-01-01 00:00:00.020200622,1080868005,Jarisus Donald Harvey,1620 Green Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200617,6508287910,"Apl Investments,Llc",1365 Edsel Senn Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9400,1
-1970-01-01 00:00:00.020200625,4269948002,Craigs Paint And Body,2653 Norristown Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200619,9016617910,"Hobbs Sporting Goods, Inc",2310 Highway 80 West,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200618,7770217900,"Ann Logistics, Llc",2310 Scott Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200618,7688637909,Beverly F Roberts,8657 South Marcus St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200624,2680478004,Robert Daniel Walker,1863 Oconee Church Rd.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200618,7637897906,Christopher Sumner Trucking,503  Fulghum. Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",40000,1
-1970-01-01 00:00:00.020200616,5265267904,"Bhumika, Inc",601 E Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",80700,1
-1970-01-01 00:00:00.020200617,5960387907,James William Baggett,549 Whitaker Lane,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
-1970-01-01 00:00:00.020200617,6110587906,H & H Construction,877 Hwy 338,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
-1970-01-01 00:00:00.020200619,8984857904,Zion'S Place Llc,439 Barnes Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",57700,1
-1970-01-01 00:00:00.020200619,8936367905,Tesia'S Beauty Boutique,1410 Woodrow Ave.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200624,2660898004,Rodrigues Ricks,1305 Fourth Street Apt A,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",26900,1
-1970-01-01 00:00:00.020200616,5008057910,"Calyco, Inc",217 Ridge Cir,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",115000,1
-1970-01-01 00:00:00.020200622,1053098004,Jessica Leann Walker,1863 Oconee Church Rd,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",8500,1
-1970-01-01 00:00:00.020200616,4437427907,Wf Services Llc,507 Academy Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",95500,1
-2020-07-23 00:00:00.000000000,7346608101,The It Project Ooo,213 Lancelot Ln,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",73000,1
-2020-06-30 00:00:00.000000000,6762488009,Tumpies Roofing Company,720 Dale Cir,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",46100,1
-2020-07-06 00:00:00.000000000,8962098003,"God'S Divine Vision Ministry, Inc",600 Telfair Street,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",55500,1
-1970-01-01 00:00:00.020200723,7335818110,Sundown Cattle Company,1182 Rockledge Blue Springs Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26500,1
-1970-01-01 00:00:00.020200704,8374838004,Phillips Pig Farms,518 Cauley Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20600,1
-1970-01-01 00:00:00.020200709,1086668103,Stal Partners Llc,8691 North Marcus St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200629,5347098008,Jonoliver Lowery,1433 Baker Church Road,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18400,1
-1970-01-01 00:00:00.020200629,5770438000,Alexander'S Office Center,517 Academy Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200707,9158488006,Thomas M Tripp,1378 Possum Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4900,1
-1970-01-01 00:00:00.020200713,2415238110,Little Feet Learning Academy,1210 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",32500,1
-1970-01-01 00:00:00.020200720,5666968104,Starleigh Cherie Arnold,1456 Warren Mcclendon Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
-1970-01-01 00:00:00.020200713,2650718101,Phil Dudley Jr.,1705 Rice Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
-1970-01-01 00:00:00.020200709,1327358106,S&E Transport Llc,126 Sunset Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28500,1
-1970-01-01 00:00:00.020200701,7533668005,Khiry Kollections,1171 Deer Field Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200714,3242038104,Sheena One Llc,306 E Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",78100,1
-1970-01-01 00:00:00.020200707,9178948010,Newkirk Trucking,910 Anderson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
-1970-01-01 00:00:00.020200715,3838478108,Pauline Waters,310 Allenwood Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19400,1
-1970-01-01 00:00:00.020200713,2530648110,Ahay Med Delivery Llc,1288 Belmont Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200706,8548488007,Billie Kitchens,718 Hawthorne Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200711,1651218101,Tyvoski Oneal,302 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11200,1
-1970-01-01 00:00:00.020200629,5473758006,Kbm Meats & Processing,511 North Line Street,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
-1970-01-01 00:00:00.020200706,8742998000,"128 W. Jackson, Llc",128 W. Jackson St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28300,1
-1970-01-01 00:00:00.020200703,8114208007,Jaylan Montford,1003 Claxton Dairy Road Apt 500D,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4900,1
-1970-01-01 00:00:00.020200706,8637978003,Southern Par Llc,1511 Highland Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200709,1004808105,Keith Helton Dba Tom-A-Lama Farm And Land Management,286 Bw Webb Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",56000,1
-1970-01-01 00:00:00.020200702,7747658008,"Avery Law, Llc",1808 Bellevue Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",62800,1
-1970-01-01 00:00:00.020200709,1119918103,Vickies Cleaning Service,2819 Idylwild Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200703,8087158009,Thasten Johnson,507 Buckeye Rd Apt 6B,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200701,7503618000,A Watkins & Sons Trucking Llc,828 Fletcher Stanley Rd,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",37000,1
-1970-01-01 00:00:00.020200715,3763318100,Shannon Whipple,1507 Mount Olive Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
-1970-01-01 00:00:00.020200713,2031618107,Horton Transportation System Llc,1291 Jasmine Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200708,9920768010,Scott Russell Stephens,696 Tucker Grove Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200713,2437568105,K & J Services Llc,106 Cedar Creek Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12000,1
-1970-01-01 00:00:00.020200715,3880558101,"Ddlr, Llc",2110 Us Highway 441,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",108800,1
-1970-01-01 00:00:00.020200715,3749888100,D & D Auto Body,223 Valambrosia Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200713,2423398101,Kimberly Wilcox,209 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4400,1
-1970-01-01 00:00:00.020200706,8801898006,Kyler Lawn Care,701 Magnolia Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200701,7394018008,Robert Malone Bray,593 Bill Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",18100,1
-1970-01-01 00:00:00.020200714,3285758108,Areta Knight,121 Star Circle,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12000,1
-1970-01-01 00:00:00.020200714,3215698108,O&K Trucking,211 Lakeside Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200707,9506098004,Indescribly Sweet,946 Salter Sq,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200706,8881438007,K E Rowland Trucking Llc,467 Witherington Circle,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",100000,1
-1970-01-01 00:00:00.020200701,7364178009,"J & K Thompson Properties, Llc",141 Woodland Ridge Rd.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7300,1
-1970-01-01 00:00:00.020200707,9237458006,"Marty Thompson, Llc",8660 S Marcus St,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",114800,1
-1970-01-01 00:00:00.020200713,2805058110,Jeffery Wright,544 Ralph Keen Ext,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10500,1
-1970-01-01 00:00:00.020200702,7706128006,Harold Rowland Enterprises,901 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30000,1
-1970-01-01 00:00:00.020200714,3056108108,"Kbac Music, Llc",333 Cypress Pointe Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30700,1
-1970-01-01 00:00:00.020200706,8502538003,Georgia Outdoor Power Equipment Llc,905 Hillcrest Parkway,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",63900,1
-1970-01-01 00:00:00.020200704,8468618009,"Tdc Transportation, Llc",539 Denham Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200701,7341858009,Carnell Stanley,2095 Curtis Green Ext,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",67400,1
-1970-01-01 00:00:00.020200708,9954098008,"Ch Elite Properties, Llc",1365 Us Hwy 319 North,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9000,1
-1970-01-01 00:00:00.020200711,1686228104,Hollywood'S Trucking,1100 Rutland Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",38000,1
-1970-01-01 00:00:00.020200709,1059218102,Dantae Cheeks,511 Pine Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15400,1
-1970-01-01 00:00:00.020200706,8559528001,"Rb Pressure Washing, Llc",314 Horse Shoe Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
-1970-01-01 00:00:00.020200701,7329958001,Out The Box Outreach International Inc,500 Telfair Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200703,8140308006,Jb'S Goods And More Llc,1291 Third St,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2500,1
-1970-01-01 00:00:00.020200711,1543558101,Corey James Tyson,811 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200702,7835948001,Keshia Mayes,601 Simmons St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5500,1
-1970-01-01 00:00:00.020200709,1020208102,Southern Diversified Services Llc,6581 East College Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200626,4752178007,Rinesdi Banquets & Events Llc,1827 Hwy 19 South,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50700,1
-1970-01-01 00:00:00.020200701,7392088003,Charles Malone Bray Jr.,713 Bill Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10900,1
-1970-01-01 00:00:00.020200713,2683738103,L A Logistics,1121 Russell Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",59600,1
-1970-01-01 00:00:00.020200713,2567338104,Vigna Vinayaka Llc,602 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200629,5491118006,Majestic Burial Vault,631 Pine Cone Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47000,1
-1970-01-01 00:00:00.020200714,3280588106,Dylan Clark Mcdaniel,780 James Curry Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
-1970-01-01 00:00:00.020200713,2295228101,Glinder Atkins,118 W Garner Streer,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44500,1
-1970-01-01 00:00:00.020200627,5147168000,J And G Custom Metals,235 Emilys Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6400,1
-1970-01-01 00:00:00.020200714,3324558100,Johnny Hubbard,756 Clinton Branch Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200707,9094788002,1St Step Transport,740 Victoria Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200711,1642558107,"Jag Farm & Trucking, Lllp",864 Outlaw Grove Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",125000,1
-1970-01-01 00:00:00.020200709,1413408104,Shuronica Walker,534 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13200,1
-1970-01-01 00:00:00.020200709,1460418110,Dustin C. Baggett,827 Holiday Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",79600,1
-1970-01-01 00:00:00.020200708,9550608010,Murray Boston,2101 James Evans Rd.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3500,1
-1970-01-01 00:00:00.020200714,3476198109,Kaneka Thomas,1603 Lance Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28000,1
-1970-01-01 00:00:00.020200629,5988548001,Quality Tank Installers,266 Spearhead Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200713,2497868103,Beauty&Nature,304 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
-1970-01-01 00:00:00.020200713,2911248101,Dollface Collections,605 North Franklin Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200627,5190818000,Thomas Income Tax Service,312 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200708,9917698001,Boys Rising Into New Talent,740 Victoria Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200704,8453718001,Tony Edward Lattimore Dba Lattimore Trucking,1020 Towson Drive,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200715,3933278105,Juslexia Daniels,43 Shurling Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10500,1
-1970-01-01 00:00:00.020200714,3308198110,Tyrone Austin,3249 Moore Station Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17900,1
-1970-01-01 00:00:00.020200709,1183138110,Breit Landscaping,115 Pamela Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200627,5216228010,Amy Beauty Supply Store,204 Sunny Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
-1970-01-01 00:00:00.020200715,3855508106,D Wright Home Development,201 Marion St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18500,1
-1970-01-01 00:00:00.020200708,9775848002,K Coleman Trucking,879 Blarney Ct,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
-1970-01-01 00:00:00.020200627,5187638004,Restoration Church Ministries Inc.,318 Pineforest Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6600,1
-1970-01-01 00:00:00.020200708,9614298002,Ae Trucking,819 Old Macon Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200701,7168028002,Hao Van Dao,2150 Academy Ave Ext,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8400,1
-1970-01-01 00:00:00.020200708,9800028006,Kristian Wilcox,70 Chester Dr,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200714,3161928109,Dixon Farms & Services Llc,135 Wildwood Ln,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",22200,1
-1970-01-01 00:00:00.020200702,7669068001,Richard Smiley,3749 New Buckeye Rd,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",61500,1
-1970-01-01 00:00:00.020200709,1071618107,Towanna Johnson,451 Rountree Dr,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",2000,1
-1970-01-01 00:00:00.020200629,5948938006,Tracy'S Beauty Shop,989 Brewton-Lovett Rd,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200629,5599068006,Q-Nails,2421 Us Highway 80 W Ste 105,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",118800,1
-1970-01-01 00:00:00.020200709,1428348102,Bridgeton Retrievers Llc,515 Ga Hwy 338,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34700,1
-1970-01-01 00:00:00.020200715,3724028104,1St  Impression,946 Salter Sq,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6200,1
-1970-01-01 00:00:00.020200706,8764308004,"Darsey Transport, Llc.",387 Gettys Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4700,1
-1970-01-01 00:00:00.020200708,9904318004,Spruceup & Trim,1684 U. S. Hwy 319 South,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",4500,1
-1970-01-01 00:00:00.020200711,1935258104,Thomas Backhoe,402 Barnes Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31500,1
-1970-01-01 00:00:00.020200706,9070708006,Ruby Wyche,308 Moore Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2900,1
-1970-01-01 00:00:00.020200713,2361838106,Billy Hazley,126 Sunset Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200709,1289418109,Monica D Smith,304 Parker Dairy Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17500,1
-1970-01-01 00:00:00.020200629,5982298008,John Johnson,Po Box 4784,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200713,2280868102,Heather Marie Burnett,174 Parkway Drive,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200704,8444078008,Carl Plemit Howard Trucking,748 Bass Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47100,1
-1970-01-01 00:00:00.020200715,3756958106,Joni Walker,907 East Garner,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13500,1
-1970-01-01 00:00:00.020200713,2489658110,Preston Moss,1504 Turner Ct Apt B,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9000,1
-1970-01-01 00:00:00.020200714,3250598108,Qetrucking Llc,301 Princess Ct,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200630,6658188002,Terrence Webb Truck,1409 Camellia Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200713,2597918102,Folsom Cleaning Enterprise,1204 Edgewood Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28000,1
-1970-01-01 00:00:00.020200708,9678978004,Desha H Jones,575 Pinewood Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",54000,1
-1970-01-01 00:00:00.020200714,3071918102,Chawn'S Salon,117 South Monroe St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15300,1
-1970-01-01 00:00:00.020200713,2884838105,Lakeshia Howard,102 Woodrow Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19300,1
-1970-01-01 00:00:00.020200630,6818478006,Waters Masonory,704 Waters Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200723,7466978101,Maurice L Johnson,1329 New Buckeye Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9500,1
-1970-01-01 00:00:00.020200706,8528118004,Kojack Lawn Services,845 Highway 80 East Lot 6,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8500,1
-1970-01-01 00:00:00.020200714,3334288106,Tangie Profit,509 Pine Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200711,2001458106,"J Cole Tax & Services, Llc",112 Shadow Pond,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5300,1
-1970-01-01 00:00:00.020200702,7875178000,Kreative Pieces Llc.,711 Victoria Circle,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10200,1
-1970-01-01 00:00:00.020200630,6155508000,Jason Hudson Jones,1178 Troup Lane,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",46800,1
-1970-01-01 00:00:00.020200706,8556638004,Living Our Best Lyfe,1265 Bellflower Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18400,1
-1970-01-01 00:00:00.020200721,6148428100,Dba Jeremy Manley,2208 Kings Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200701,7417208010,Curepoint Llc,2406 Bellevue Ave Ste. 7,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200723,7155808110,Glay Wright,536 Ralph Keen Extension,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9300,1
-1970-01-01 00:00:00.020200709,1131788104,Nishitkumar Patel,1003 Claxton Dairy Rd Apt 502B,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200706,9025738005,Whitney Oneal,214 B Plum Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
-1970-01-01 00:00:00.020200713,2093958110,Pictur This Catering Inc.,400 West Moore Street Suite B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",30000,1
-1970-01-01 00:00:00.020200723,7128878103,Rufus,805 Grace Wood Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22900,1
-1970-01-01 00:00:00.020200721,6187048107,Lee Coley Trucking,121 Lm Coley Rd,Montrose,13175,Laurens County,GA,,8.0,Central,20140.0,"Dublin, GA",48400,1
-1970-01-01 00:00:00.020200626,4734558010,"Gus' Home Improvements, Llc.",505 Witherington Cir,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",57000,1
-1970-01-01 00:00:00.020200711,1598828107,"Central Ga Lock & Safe, Llc",811 A N. Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25800,1
-1970-01-01 00:00:00.020200711,1983128105,"J Ricks Transportation, Llc",236 Highland Dr,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200707,9134418002,Wendy Nanerl Sterling,272 Buckingham Parc Circle,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",23000,1
-1970-01-01 00:00:00.020200713,2493548104,Courtney Dudley,1210 Telfair Street,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",9300,1
-1970-01-01 00:00:00.020200713,2694528105,Stacie Johnson,307 Princess Ct,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200717,4978778100,"Acs Cleaning Services, Llc",1509 Telfair Street,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200721,6161478109,Edges Aquatic Services Llc,2829 Briarcliff Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200714,3324398100,Orlando'S Lawn Care Services,810 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
-1970-01-01 00:00:00.020200714,3082568110,Live Travel Agency,2621 Barwick Ave,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2700,1
-1970-01-01 00:00:00.020200720,5518438107,John William Stevens,Po Box 86,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",36500,1
-1970-01-01 00:00:00.020200720,5523378107,Open Arms Patient Care,2480 Hwy 441 South Lot 16,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26500,1
-1970-01-01 00:00:00.020200720,5555718107,Wiggins Land Clearing And Lawn Service,73 Venson Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200714,3481068110,Natural Touch,"1101 Hillcrest Parkway, Suite I",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6700,1
-1970-01-01 00:00:00.020200711,1604058109,Anketrick Powell,"501North Franklin, 501 North Franklin",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200704,8340078003,"Tcm Trucking, Llc",1454 Harmony Ln,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14100,1
-1970-01-01 00:00:00.020200711,1897458103,Monterrio Devoe,132 Musgrove St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",69000,1
-1970-01-01 00:00:00.020200723,7518698103,Alvin'S Discount Cars,208 Grady St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8900,1
-1970-01-01 00:00:00.020200711,1551188108,Jalani And Company Inc.,1101-L Hillcrest Pkwy #320,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200723,7156308104,Dawson Trucking,626 Blue Jay Drive,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1800,1
-1970-01-01 00:00:00.020200713,2431158110,"Resource For Life Community Outreach Center, Inc.",6978 Ga Highway 46,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14700,1
-1970-01-01 00:00:00.020200711,1580158109,Tracey Stanley,306 East Mary Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11600,1
-1970-01-01 00:00:00.020200723,7155288109,Larry H. Dean,1423 Blackshear Ferry Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45300,1
-1970-01-01 00:00:00.020200630,6379388000,Hugh Veal,384 Tobie Veal Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",109900,1
-1970-01-01 00:00:00.020200713,2534888109,Joshua Whalian Tyson,406 Broad St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200714,3291778110,Tikish Whitfield,717 Cardinal Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2200,1
-1970-01-01 00:00:00.020200626,4768778004,"Bass Physical Therapy & Rehabilitation Center, Inc.",101 Fairview Park Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",130400,1
-1970-01-01 00:00:00.020200708,9623068005,Brantley Show Pigs,1565 Arline Chapel Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",11500,1
-1970-01-01 00:00:00.020200723,7192298100,Carrie A Sasnett,1940 Oak Valley Road,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2400,1
-1970-01-01 00:00:00.020200706,8513148010,Treeline,528 Made Cannon Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200723,7627458100,Money Power Loyalty,310 Allenwood Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14600,1
-1970-01-01 00:00:00.020200706,9011118006,Ever After Boutique,1396 Goins Rd.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",32500,1
-1970-01-01 00:00:00.020200723,7479748101,Wright Choice Cla,476 Wright Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
-1970-01-01 00:00:00.020200715,3987338105,Wise Masonry,1076 Ennis Court,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200706,8506208006,Stephens Consulting,205 Ray Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4400,1
-1970-01-01 00:00:00.020200708,9742898010,Richard Orozco,3359 Us Hwy 441 South,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",61200,1
-1970-01-01 00:00:00.020200706,8481258002,Eric Carswell,1796 Millville Church Rd.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200715,4020318104,Sherita Renee Fullwood,1620 Woodrow Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200702,7749488009,"Neel Investments, Inc",1237 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5200,1
-1970-01-01 00:00:00.020200713,2684418103,Sheila Denise Moore,312 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9100,1
-1970-01-01 00:00:00.020200714,3433548107,Mark Edward Hall,1062 Troups Tomb Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
-1970-01-01 00:00:00.020200713,2484978102,Victoria Walker,464 Wynnton Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200626,4594048007,Mason Concrete Llc,2573 Ga Hwy 257,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45000,1
-1970-01-01 00:00:00.020200713,2031788101,Longway Kustomz,51 Ralph Young Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",3300,1
-1970-01-01 00:00:00.020200715,4030718110,Whitfield Trucking,1180 Deer Field Ln,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18200,1
-1970-01-01 00:00:00.020200715,4005528110,Davis Vault & Monument Co Llc,1101 Hillcrest Pkwy Ste L #1015,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",24000,1
-1970-01-01 00:00:00.020200713,2075878106,Timothy Hall,1606 South Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13200,1
-1970-01-01 00:00:00.020200708,9581748009,Dba Mr. B,1106 South Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200720,5729038105,Purple Dog Properties,531 Valambrosia Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200711,2007818108,Emerald City Trucking Inc,200 South Decatur St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",93000,1
-1970-01-01 00:00:00.020200713,2722298106,Walter Warnock,1142 Old Savannah Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13800,1
-1970-01-01 00:00:00.020200707,9310368000,Hugh Veal,1447 Piney Mount Church Rd,Wrightsville,13167,Johnson County,GA,31096,10,East,20140.0,"Dublin, GA",123300,1
-1970-01-01 00:00:00.020200715,3650128106,The Computer Gal,229 Riverview Park Dr.,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200721,6085628103,Maurice Johnson,513 Hudson Drive,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200716,4200058106,Shae'S Sassy Shop,324 Sawmill Rd,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",21900,1
-1970-01-01 00:00:00.020200713,2585598105,Olinbell,1119 Greenway Dr,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",59900,1
-1970-01-01 00:00:00.020200716,4174238107,Tracie Holliman,304 Marion Street,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",2000,1
-1970-01-01 00:00:00.020200713,2267128109,"Smith Landscaping, Lawn Care & Firewood  Inc",2153 Smith Rd,Dexter,13175,Laurens County,GA,31019,12,Central,20140.0,"Dublin, GA",54000,1
-1970-01-01 00:00:00.020200715,3870178101,Vanessa'S Salon,403 Beech Rd,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",11000,1
-1970-01-01 00:00:00.020200718,5121958101,Tikeshia Gamble,74 Outlaw Rd Lot 14,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200708,9744218009,Michael Baggett,316 Duncan St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200721,6062558103,Wrightsville Family Dental Llc,2562 East Elm St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200721,6223238103,Keith Christie,218 James Grove Church Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",35000,1
-1970-01-01 00:00:00.020200720,5961098106,Herschell White,520 Pointe West Pl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200713,2409098109,Trekenya,212 Palisade Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200721,6358058105,"Bodai-Ma, Inc",1235 North Jefferson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",58100,1
-1970-01-01 00:00:00.020200713,2358168105,Hardens Tax & Bookkeeping Service,2309 Hwy 29 S,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9300,1
-1970-01-01 00:00:00.020200706,8642468008,Kenny Lewis,"204 Poplar Street East,",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200723,7283998104,Al Rowland Farm,5261 Ga Highway 57 E,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200714,3272768101,Laqueshia Luma,110 B Shuman Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3200,1
-1970-01-01 00:00:00.020200714,3295548108,Lawson Waters,210 Jackson Street,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15700,1
-1970-01-01 00:00:00.020200708,9766308002,Bruce Veal,230 Dry Creek Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",12100,1
-1970-01-01 00:00:00.020200714,3298528108,James Butler,205 E Trilby St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",7000,1
-1970-01-01 00:00:00.020200723,7499388108,Messenger Mobile Detailing,1682 Williams Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200701,7150788009,Dream Work Kennels,83 Pine Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200711,1902558104,"Hometown Grillz, Llc",1211 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",55900,1
-1970-01-01 00:00:00.020200702,7927978007,Tina Waters,699 Waters Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
-1970-01-01 00:00:00.020200720,5626128105,Curtis Davis Family Farm Llc,1274 Alice Brewer Rd,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200713,2845408102,Lliyah Harrison,108 Shadow Pond Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200713,2863248106,Felix Thomas,344 E Garner St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200713,2146668100,Yvonne  Murray,312 Folsom Drive,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200713,2265138108,G And W Trucking Llc,1403 Woodrow Ave,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",32500,1
-1970-01-01 00:00:00.020200717,4769468105,Mw Farm,8464 South Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",13500,1
-1970-01-01 00:00:00.020200704,8452438009,Nykeria Wells,248 Folsom Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",4500,1
-1970-01-01 00:00:00.020200701,7170568010,Soles Farm,1555 Bay Pullen Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8500,1
-1970-01-01 00:00:00.020200713,2774218106,Travis Spencer,110 Pamela Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200717,4799898106,Lakeisha Wright,74 Outlaw Road Lot 5,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5500,1
-1970-01-01 00:00:00.020200717,4812568107,Zays Family Restaurant Llc,50 Bb Steptoe Rd,Kite,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",3000,1
-1970-01-01 00:00:00.020200717,4774778109,"Middle Georgia Business Products, Inc.",909 Hillcrest Pkwy Ste C,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
-1970-01-01 00:00:00.020200701,7481478004,J Blackshear Llc,604 N Church St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9000,1
-1970-01-01 00:00:00.020200713,2055958109,"Brown'S Towing & Collision, Llc",1008 Russell Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
-1970-01-01 00:00:00.020200717,4939898109,Outlaws Cleaning Services,288 Shepherd Hill Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9100,1
-1970-01-01 00:00:00.020200701,7463508007,Owlwaystrue,312 Folsom Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1900,1
-1970-01-01 00:00:00.020200717,4798438106,Assist Health Care Staffing,200 Riverview Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200713,2564208105,Tuyen Ngoc Nguyen,1302 Evergreen Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11000,1
-1970-01-01 00:00:00.020200720,5567428100,Driskell Tabernacle Missionary Baptist Church,Po Box 4797,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8400,1
-1970-01-01 00:00:00.020200720,5569758109,D&N,116 Musgrove Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200703,8190358008,Crystal Martin,104 West Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",37500,1
-1970-01-01 00:00:00.020200706,8770788004,Nora'S Braids &More,116 Katie Dudley Village,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1300,1
-1970-01-01 00:00:00.020200717,4748458103,Soles Trucking Llc,916 West Tanglewood Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
-1970-01-01 00:00:00.020200702,7953628000,Donna Mills,1154 Deer Field Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4500,1
-1970-01-01 00:00:00.020200703,8217218002,Kourtney Johnson,2298 Harry Green Rx,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33500,1
-1970-01-01 00:00:00.020200702,8050778003,Tara J Salon & Hair Replacement Center,702B Academy Ave.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",21300,1
-1970-01-01 00:00:00.020200720,5970888109,Md Hauling,508 Kaitlyn Ct,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
-1970-01-01 00:00:00.020200717,5004118108,Rocking M Retreat Llc,867 Willis Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14500,1
-1970-01-01 00:00:00.020200720,5820418102,Brian Shirley,2185 Claxton Dairy Rd Apt 12,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22500,1
-1970-01-01 00:00:00.020200702,7629918002,Peggy Baisden,306 Lancelot Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
-1970-01-01 00:00:00.020200708,9537028008,Kh Avon,1070 Jackson Street,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",1500,1
-1970-01-01 00:00:00.020200706,9070908007,Peggy Oneal,1001 Village Circle,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200720,5439418103,James Eric Dykes,1908 Baker Church Rd,Rentz,13175,Laurens County,GA,31075,12.0,Central,20140.0,"Dublin, GA",10000,1
-1970-01-01 00:00:00.020200717,5093498107,Rt Construction,675 Jones Lane,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",100700,1
-1970-01-01 00:00:00.020200709,1332148107,Annie Carter,104 Derriso Lane,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",13500,1
-1970-01-01 00:00:00.020200717,4842958107,Wade Smith Trucking Llc,474 Turner Cir,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",60000,1
-1970-01-01 00:00:00.020200706,8621258005,Barbara Mosley,201 Fox Ridge,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3700,1
-1970-01-01 00:00:00.020200713,2532928104,Blade Richelle Tyson,229 Rex Miller Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
-1970-01-01 00:00:00.020200717,4650928104,Curnecia,1015 Mlk Jr Drive Apt604B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200720,5992178109,"Anj Express, Inc",1108 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",91600,1
-1970-01-01 00:00:00.020200716,4480528109,City Cuts,8703 North Marcus St.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6300,1
-1970-01-01 00:00:00.020200722,6613478100,Joyce Guyton Harden,320 Arch Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
-1970-01-01 00:00:00.020200717,4766078100,Glenn Sterling,110 Keen St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",91200,1
-1970-01-01 00:00:00.020200717,4825438102,Akiera Lattimore,103 Thomas Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200716,4314608103,Michael Taylor,581 Jamesgrove Church Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
-1970-01-01 00:00:00.020200722,7020108104,Matthew D Peebles,1409 Chestnut Dr,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",81200,1
-1970-01-01 00:00:00.020200716,4246928102,Kennys Barber Shop,119 South Lawrence St,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",16500,1
-1970-01-01 00:00:00.020200720,5648598107,Marshall Lawn Service,87 Arch Street,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200716,4268178103,"Tdp Safety Services, Llc",143 E Trilby Street,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",11000,1
-1970-01-01 00:00:00.020200716,4197888106,Jesse Lee Toole,981 Loyd Hester Rd,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",2600,1
-1970-01-01 00:00:00.020200722,7003968102,Lu Lu'S Cafe,946 Salter Square,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",2500,1
-1970-01-01 00:00:00.020200716,4607458110,K&R Counseling Services Llc,749 Pointe West Loop,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
-1970-01-01 00:00:00.020200716,4593728106,Monsters Inc Distribution,1101L Hillcrest Pkwy # 17,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",42000,1
-1970-01-01 00:00:00.020200716,4391058108,Vision Light Llc,119 Goler Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14200,1
-1970-01-01 00:00:00.020200718,5113078108,Zapporah'S Landscaping,318 Parker Dairy Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9500,1
-1970-01-01 00:00:00.020200718,5129538109,Stella Lynn Studdard,579 Valambromsia Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2000,1
-1970-01-01 00:00:00.020200718,5184678108,Milltix Llc,702 Second St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
-1970-01-01 00:00:00.020200718,5191898102,Shericko Haynes,104  Parker Dairy Rd Apt 16,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",16800,1
-1970-01-01 00:00:00.020200720,5477678101,"Clark & Veal, Llc",201 Hayes Point Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3900,1
-1970-01-01 00:00:00.020200718,5150788108,Carvins Carpet  Cleaning,4210 West Railroad Ave,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",18900,1
-1970-01-01 00:00:00.020200718,5413528103,Avanti Foreman,415 Jones Village,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
-1970-01-01 00:00:00.020200718,5197058109,Hair Blessing,955 Pridgen Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
-1970-01-01 00:00:00.020200718,5198878110,Tonya Michele Lumley,314 Raka Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
-1970-01-01 00:00:00.020200718,5388408110,Demetrianna Hall,1467 Goins Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",20000,1
-1970-01-01 00:00:00.020200718,5221258100,Casey Dolph,117 Mixon St,Kite,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",115000,1
-1970-01-01 00:00:00.020200722,6627448103,"Bracewell Repair, Llc",1101 Hillcrest Parkway,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",17800,1
+2020-04-20,3188287209,"Holy Smokes Barbecue, Llc",1100 Suite B9,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",188800,1
+2020-06-03,7590027807,Brent J. Redfern,2772 Old Eastman Rd,Cadwell,13175,Laurens County,GA,31009,12,Central,20140.0,"Dublin, GA",6500,1
+2020-04-08,8284377008,Mg Designs Llc,231 Waverly Drive,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",13200,1
+2020-06-03,7595057804,Kmh Transport Inc,11105 Hwy15,Soperton,13283,Treutlen County,GA,30457,12,Central,20140.0,"Dublin, GA",62800,1
+1970-01-01,8502497803,Shaffer Restaurant Group,112 West Jackson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9017077807,G&G Farms Of Dublin,1803 Knox Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
+1970-01-01,3462007210,Goolsby Services Llc,112 East Johnson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",102300,1
+1970-01-01,4760067808,The Lillie Home Inc.,437 Cypress Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,4899277806,Global Truck Group Llc,1044 Maid Marian Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34000,1
+1970-01-01,4349397802,Business Services International Corporation,793 Tobacco Trail,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9467847810,Ybn Trucking Llc,200 Tattnal St Lot 10,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30000,1
+1970-01-01,4583447802,Curry Trucking,1508 Stonewall Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",68000,1
+1970-01-01,3657627807,Neeva Nia Llc,"101 Travel Center Blvd.,",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2942337808,Phg Wrightsville Llc,337 W Court St,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,5851817808,"Quick Way Garage, Llc",2946 Calvary Church Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10500,1
+1970-01-01,4221097807,"Cac Management, Llc",115 W. Jackson St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",59900,1
+1970-01-01,3109027803,Ava'S Place Child Care Learning Center,1230 Ga Highway 19 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45000,1
+1970-01-01,8484607805,"Dtk Properties, Llc",617 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",41000,1
+1970-01-01,9668277801,Maandesh Limited Liability Company,2192 Us 441,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,8146027402,"Total Earth Services, Llc",110 South Church Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,5516097809,Tanner Environmental Inc.,223 Hillbridge Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5900,1
+1970-01-01,3124507803,Winslow Homes And Development Llc,578 Gumlog Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",33000,1
+1970-01-01,7704727804,Justin W Durden Enterprises Llc,1083 Wl Graham Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",60000,1
+1970-01-01,5779807810,Leah Mathis Photography,1670 Mount Olive Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,7689957804,The Mulberry Kitchen Llc,2384 Us Hwy 80,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14800,1
+1970-01-01,3356607209,"J.R. Graham Construction Company, Inc.",1017 J F Flanders Road,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",500000,1
+1970-01-01,7614567800,Buckeye Trucking Inc.,860 Walker Hill Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9635347802,Dublin Broadcasters Llc,717 East Jackson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2660707803,Denise Grubbs,395 Clark Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20200,1
+1970-01-01,5527347807,Braddy Performance,2030 Martin Luther King Jr Drive,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",54900,1
+1970-01-01,5770937807,Candace Transportation Llc,1214 N Jefferson St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12600,1
+1970-01-01,1588607808,Just Because... Floral & Gift,609A Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11000,1
+1970-01-01,6551407403,"Castaway Contractors, Inc.",475 John Vaughn Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,4676877409,Ivey'S Driving School,1908 Bellevue Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
+1970-01-01,2581307400,"Fgt Dublin, Llc",902 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",26500,1
+1970-01-01,7748197802,Dec Training Services,781 Lc Pope Rd.,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",19700,1
+1970-01-01,3885257805,Maa Fashions Inc.,120 West Jackson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",63800,1
+1970-01-01,6698987407,Melaina'S Flowers And Gifts,2302 Hwy 80 West,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4600,1
+1970-01-01,7997067810,"Shamrock Services, Llc",340 Trinity Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,5467617802,"Helo-Max, Llc",408 Allen Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,7321997807,Dublin Automation And Controls,2614 Moore Station Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,5259867802,Dlw Lawn Service,415 Shannon Drive,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8600,1
+1970-01-01,9826157807,"Jr Yuma Group, Llc",645 Hatchee Ridge Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,4296337801,Fordham Sisters Llc,1010 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,4813067410,Mg Designs Llc,231 Waverly Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",22200,1
+1970-01-01,5098337402,The Bellevue Salon & Spa,711 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7500,1
+1970-01-01,7358647800,"Meridian Construction, Llc",101 Shuman Ln,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2941927806,Webb'S Cleaning Services,5101 Us Hwy 319 North,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",5800,1
+1970-01-01,7324067805,"Colleen'S China & Collectibles, Inc.",1801 Rice Ave Ste C,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",36200,1
+1970-01-01,9878397800,"Tactical Trading Post, Llc",2210 Veterans Blvd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",76000,1
+1970-01-01,8531157402,K'S Electric Vapor,1505 Rice Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,3636717800,"Ellen G. Sumner, Llc",1302 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",33200,1
+1970-01-01,6912537806,Essentially Obsessed Life,129 Lakeview Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3900,1
+1970-01-01,3199427808,K&C Buckeye Trucking Llc,873 Shamrock Court,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12200,1
+1970-01-01,4044477801,"Seal Team, Llc",1395 David Mullis Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",2500,1
+1970-01-01,5409687803,Dublin Pipe Company Inc.,404 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",111000,1
+1970-01-01,6913057806,Super 8 By Wyndham,2150 Us Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9286117804,The Car Lot Of East Dublin Llc,208 Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",118000,1
+1970-01-01,3866007402,"Why Wait Travels, Llc",868 Union Hill Church Rd,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",109500,1
+1970-01-01,8228647807,Chucks Auto Transport,2160 Oconee Church Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",35800,1
+1970-01-01,2455257800,Southern Services Inc. Of  Dublin,2378 Us Hwy 80 W,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,5669547803,"Coshos, Llc Dba The Sign Store",216 S. Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",17300,1
+1970-01-01,9296567803,"Rowland Aviation Services, Llc",45 Rabbit Run,Kite,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",101500,1
+1970-01-01,5244967805,Arya Kush Llc,443 Second St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",28300,1
+1970-01-01,5605357806,"Harper Built Construction, Llc",101 Shuman Lane,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",149000,1
+1970-01-01,9407457809,J Vescuso Trucking Llc,298 Lauren Woods Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20300,1
+1970-01-01,2729867804,Infinity Trucking Co Llc,240 Deerwood Trl,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",87300,1
+1970-01-01,1700357806,Right On Time Expediting Services Llc,160 Carlos Snell Rd,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",30000,1
+1970-01-01,4218877804,"Meridian Property, Llc",1163 Old Toomsboro Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7488287405,"Pettis Family Sandwich Shop Of Laurens County, Inc.","2423 Hwy 80 W, Dublin, Ga 31021",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",58100,1
+1970-01-01,7414467408,Marie C Conner Dba,3393 E Main St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",20500,1
+1970-01-01,8866207809,Pooles Auctioneering Used Car Sales,1896 Highway 126,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7500,1
+1970-01-01,6738867804,Dublin Hematology & Oncology Care Pc,207 Fairview Park Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7644877800,Hope In Darkness Global Foundation,210 E Gaines St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",33000,1
+1970-01-01,8430767801,"Unicorn Works, Llc",1101 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",29600,1
+1970-01-01,3903777802,Jacks Enterprisellc,2301 Bellevue Rd Ste 100-200,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",98800,1
+1970-01-01,4672187406,"A. T. Speight, Sr. Farmers' Enterprise",1868 S Poplar Springs Ch Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,9995937403,Countyline Package,3391 Ga Hwy 117,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6000,1
+1970-01-01,1816697402,S-Team Llc,711 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",31900,1
+1970-01-01,8746037409,Matthew L. Waters,2325 Piney Mount Church Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",66700,1
+1970-01-01,3932897802,Leigh Anne Griggs Bennett Llc,1406 Bellevue Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",93400,1
+1970-01-01,6999447805,John Wells,100 Whipoorwill Way,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6500,1
+1970-01-01,8442597806,Dru Watson Construction,2064 Julianne Dr.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",16400,1
+1970-01-01,3785127804,Manning Holdings Llc,1603 Marley Cannon Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",26600,1
+1970-01-01,5902097807,Stuart R Stanley,1479 Chan Stanley Road,Wrightsville,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,3968067802,Morgan Coates,1101 Hillcrest Pkwy Ste I,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,2419557407,Piece Counseling And Consulting,877 Ga Hwy 338,Dudley,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,5930797802,Fulford And Sons Llc,1940 Hwy 278,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",136200,1
+1970-01-01,6536127807,Shree Hospitality Management Inc,304 Clyde Pl,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",80300,1
+1970-01-01,5296287401,Joshua C Claxton,,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",7000,1
+1970-01-01,2482177806,"Dhg, Llc",240 Woodland Way,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,5722867805,Jarvis Reeves,808 Euclid St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",2600,1
+1970-01-01,7413727804,Adam M. Raney,2996 Moore Station Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18200,1
+1970-01-01,6338867402,Montrose Production Co.,1917 Academy St,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,6497097807,Shree Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",109000,1
+1970-01-01,5129807808,"Bracewell Furniture, Llc",868 Robert Lewis Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",58900,1
+1970-01-01,1352007809,"God'S Way Learning Academy, Llc",115 Martin Luther King Dr.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11400,1
+1970-01-01,7497077806,King Builders Inc.,1545 Chuck Thompson Road,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",48900,1
+1970-01-01,6545337802,Vraj Sub Llc,2150 Us Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,7437177810,Bwj Solutions Llc,740 Clinton Branch Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",70000,1
+1970-01-01,6563367401,"Mudd Swamp Plantations, Llc",471 John Vaughn Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,9282747808,Bryans Auto & Equipment Repair,3742 Hwy 257,Dexter,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",64300,1
+1970-01-01,6510637809,Subh Laxmi Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",119400,1
+1970-01-01,7560707809,"Classic Equestrian Assisted Family Services, Inc.",715 James Currie Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",47800,1
+1970-01-01,1756897803,Hard Work Hands,1015Willie Way,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,4240567801,Sno Biz Llc,300 Pine Forest St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",21800,1
+1970-01-01,9218767809,"Middle Georgia Behavioral Services, Llc","101 Walke Dairy Road, Suite B",Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,8179927408,"Paul W. Calhoun, Iii, Llc",4097 West Main Street,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",48500,1
+1970-01-01,5160317409,Strickland Farms,2878 Old Louisville Rd,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",9000,1
+1970-01-01,8008357409,"Coastal Care Services, Inc",1628 College Streed,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",118600,1
+1970-01-01,5649237807,Southeast Gymnastics Academy,2166 College St,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",43000,1
+1970-01-01,2311757809,"M & P Pools, Llc",1201 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",65000,1
+1970-01-01,4769097410,"Rowland Air Chem, Llc",51 Rabbit Run,Kite,13167,Johnson County,GA,,12,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,9937867408,Established Furniture Co. Llc,226 S. Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",21800,1
+1970-01-01,2306507810,"Micah'S Playhouse, Inc.",1232 Hwy 19 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",115200,1
+1970-01-01,1858817802,"Classic Florist & Home Decor, Llc",913 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2962057804,"C&M Consulting And Training Services, Llc",1040 Pleasant Springs Church Road,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",35500,1
+1970-01-01,5996137806,"Jai & Jus Transportation,Llc",506 East Mary Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",69000,1
+1970-01-01,3400757805,Cashrow Tax Service,409 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3200,1
+1970-01-01,6191677801,The Big Bamboo Company,1338 3Rd St,Dudley,13175,Laurens County,GA,31022,12.0,Central,20140.0,"Dublin, GA",133500,1
+1970-01-01,6141637802,"Dublin Clearing And Grading, Llc",1103 Highway 29 South,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,6101747806,Meldi Sub Llc,2150 Us Highway 441 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",112900,1
+1970-01-01,8026577409,Simple Moving Solutions Llc,"702 Industrial Blvd, Suite D",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31400,1
+1970-01-01,6109567805,Dublin Motel,1115 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,6043097802,Ramco Refrigeration,418 Fairfield Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,7963157401,Dublin Kidney Institute,207 Industrial Blvd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,8506747400,Jayambe Motel Llc,2108 Highway 441 South,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,8454557410,Montrose Auction Inc.,1702 Second St,Montrose,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2063787807,"Cloverleaf Restaurant, Llc",425 Central Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",56000,1
+1970-01-01,8996687800,Pt Properties Of Dublin Llc,2018 S Poplar Springs Ch Rd,Rentz,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5300,1
+1970-01-01,1987577809,Luxe Boutique,1811-C Rice Avenue,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",6900,1
+1970-01-01,1658357801,"J&L Tire And Brake, Llc",1107 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",85000,1
+1970-01-01,6370607808,Langley Environmental Services,2359 Alvin Joiner Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",11500,1
+1970-01-01,1636367803,Central Crossing Llc,609 Central Drive,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9800,1
+1970-01-01,3000127805,La Charle' Salon,1097 North Jefferson St.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",52000,1
+1970-01-01,1403687804,Phong Nguyen,1101 Hillcrest Pkwy Ste-H,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2887347807,5 Points Barber And Beauty Shop,200 West Madison Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,8018627400,Clear Blue Crystal Inc,2013 Veterans Blvd Ste 23,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,8635417402,Charlotte J White,201 Kings Road,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9458717401,Laurens County Lockout And Towing Llc,406 E Gaines St,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",40500,1
+1970-01-01,7825367407,Lamed Management Llc,61 Ivy Circle,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,7843757410,"Dublin International Market, Llc",708 East Jackson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",15500,1
+2020-06-25,4120198004,K & J Land Clearing Llc,119 Tabernacle Rd,Soperton,13283,Treutlen County,GA,30457,12,Central,20140.0,"Dublin, GA",57400,1
+2020-06-22,1014448010,Jjld Trucking&Farm,2123 New Buckeye Road,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",25700,1
+2020-06-17,7366927910,Melvin Lester Coney,772 Campground Rd,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",3800,1
+1970-01-01,2740208007,Cannon Well Service,1497 Hwy 278,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",84000,1
+1970-01-01,1669157904,Robbie'S Paint & Body Llc,103 Mlk Jr Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47500,1
+1970-01-01,1069778001,Megaton,1035 Holly Lane,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,5360897903,"Dublin Country Club, Inc",689 Country Club Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,1961617908,Sweet T'S Bakery,126 W Madison Street Ste D,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",77700,1
+1970-01-01,4330677901,Wreath Works By Cathy,616 Scooter Rue Rd.,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3800,1
+1970-01-01,8905557900,John Travis Couch,1834 Jj Club Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12200,1
+1970-01-01,5337237906,"Sdi Of Lake City, Llc",1114 Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7133067900,Yates Insurance And Real Estate Of Wrightsville,8683 North Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
+1970-01-01,7356057905,Kids Crossing,207 North Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27500,1
+1970-01-01,3529228001,M&K Trucking,1607 Lance Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12800,1
+1970-01-01,4239588000,"The Villas At Bellevue, Llc",903 Bellevue Ave,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",77300,1
+1970-01-01,5623467906,Boynton'S More Trucking Llc,108 New Street,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
+1970-01-01,7157427906,Turtle Express  Inc.,Po Box 128,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,1982507909,Angie'S Nail Salon,310 Pine Forest Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",21300,1
+1970-01-01,5483317904,"Angels In Flight Recovery Center, Inc.",2041 West Elm Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",91500,1
+1970-01-01,6535107908,Graham Finer Foods Llc,3687 Mount Vernon Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",106000,1
+1970-01-01,2905468003,"Superior Drywall & Accoustical, Llc",1101-L Hillcrest Pkwy. Pmb 321,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,1352917909,Willie Mack Produce,1673 Railroad Street,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,5787127905,"Jerry B. Daniel, Lcsw",1395 David Mullis Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",70000,1
+1970-01-01,3783038009,Premier Properties Of Dublin Llc,608 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",96400,1
+1970-01-01,2833168007,"Cp North 2, Lp",1003 Claxton Dairy Rd Apt B1,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",39900,1
+1970-01-01,2235577909,"Tifara, Llc",2005 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",93600,1
+1970-01-01,6879317905,Robdricka Stanley,1051 Leon Brantley Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,5636177901,Cayce Cook Trucking Llc,504 Brookwood Dr Apt B1,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
+1970-01-01,9429857910,"Dublin Collision Center, Llc",506 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",35000,1
+1970-01-01,2064377902,Middle Georgia Female Firearms Training,105 Hampton Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12500,1
+1970-01-01,2148407906,Rm Couey Llc,366 Couey Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",76800,1
+1970-01-01,2175007910,Mcafee Packing Co Inc,490 N Valley St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,1523937910,Malpass Foods,637 E Court Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",9100,1
+1970-01-01,1123127904,"Daniel M. King, Jr. Llc",617 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9904377908,Gary Baggett,616 Scooter Rue Rd,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
+1970-01-01,1027997907,Vincent A Connell,362 Old Pine Rd,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44000,1
+1970-01-01,3006187900,"We-Touch Visiting Caregivers, Inc",1623 Rice Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",140000,1
+1970-01-01,7056317909,Bryan Seay,119 W Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,1616397902,"Mid State Investors, Llc",1825 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",108400,1
+1970-01-01,1119047901,Pureglow Technical Services,203 Pea Ridge Rd,Montrose,13175,Laurens County,GA,,8.0,Central,20140.0,"Dublin, GA",12000,1
+1970-01-01,1498227906,"Shannon Bridges, Ccr",372 Champion Ophelia Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",23400,1
+1970-01-01,7314307910,3G Brothers Llc,2103 Veterans Blvd Suite 5,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",29800,1
+1970-01-01,2288947906,The Penny Saver Llc,564 Kight St,Kite,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",4200,1
+1970-01-01,6543107908,Enchanted Bodies By Tricee,602 Hudson Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",3800,1
+1970-01-01,8730357907,Tpi Plus Inc,1959 Calvary Church Rd,Wrightsville,13167,Johnson County,GA,31096,10,East,20140.0,"Dublin, GA",5400,1
+1970-01-01,3417678002,Lois Jean Nash,1022 Friar Tuck Ct,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8600,1
+1970-01-01,2927677905,Modiddy Transport Llc,1905 Anderson Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44500,1
+1970-01-01,1248197907,"Harry Green & Sons, Inc.",2246 Harry Green Rd,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",68200,1
+1970-01-01,1228947910,Double R Trucking Llc,500 Marvin Church Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,3501297906,Dollar Cakes,1993 Snellbridge Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1300,1
+1970-01-01,3370087901,Lakestone Inc.,707 Kellam Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",146200,1
+1970-01-01,3539418003,William K Tanner,939 Donovan Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",114600,1
+1970-01-01,3313398007,Nicole Brazil,505 Bridgemill Dr.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,2360077900,Bhakti Z Llc,1201 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",94700,1
+1970-01-01,5962627900,Breaking The Chain,405 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4800,1
+1970-01-01,4419337900,"Dublin Rising, Inc",109 Martin Luther King Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12300,1
+1970-01-01,5020967904,Geegees Boutique,1115 Hillcrest Pkwy A,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
+1970-01-01,6387867910,Rowland & Sons Truck Repair Llc,102 South Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",100000,1
+1970-01-01,6008567904,"Ike'S Window Tinting And Detailing, Inc",133 Carter Cemetery Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",13500,1
+1970-01-01,1067427905,Premier Construction Associates,608 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",53000,1
+1970-01-01,4627417905,Elmer Wright,1565 Lexington Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",51500,1
+1970-01-01,7080797902,O'Neal'S Detailing Llc,911 Stewart St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
+1970-01-01,6318747905,Ellen Fielder,613 Old Macon Extension,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3100,1
+1970-01-01,6935477902,John Allen Rowland,312 Jh Rowland Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",49000,1
+1970-01-01,9275867909,Shivpre Llc,1011 Martin Luther King Jr. Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",46600,1
+1970-01-01,1174177908,Oconee Auto Auction Llc,702 East Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",48500,1
+1970-01-01,3385527905,Shawn Farnsworth Eastman,212 W Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12000,1
+1970-01-01,3912277905,Kreative Kreations,2552 E. Elm St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5300,1
+1970-01-01,2936338002,Hugh Hudson,505 North Decatur St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",35600,1
+1970-01-01,3476387906,Clarence Bubbie Stanley,524 Pointe West Pl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4700,1
+1970-01-01,3790797909,Law Officse Of Michael R. Lloyd,1508 Bellevue Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33200,1
+1970-01-01,3354127900,Shellter Property Solutions,1993 Snellbridge Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8600,1
+1970-01-01,3391467907,Tabatha Solorio,312 Brookdale Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,3863538006,Ronnie Holliman,304 Marion Street,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",49000,1
+1970-01-01,3784258007,Angels,442 Saint Charles Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,2986778003,Dynamic Woman Express Llc,213 Marion St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,3633817909,Hd Rentals,1993 Snellbridge Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31700,1
+1970-01-01,3124078006,Dublin Business Llc,403 S Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,3624257905,Sdc  Med Trans Llc,221 Savannah Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
+1970-01-01,2942278004,The Stepping Stone Child Advocacy Center,382 Woodland Trails Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,2909398003,"Atl Load Express, Llc",602 Hudson Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",42000,1
+1970-01-01,5008267903,"Highpoint Investment Holdings, Llc",217 Ridge Cir,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4200,1
+1970-01-01,4232198009,Lr Schrader Deliveries Llc,1339 Buckeye Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19000,1
+1970-01-01,8269227904,Orr Holdings Llc,904 Bellevue Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33000,1
+1970-01-01,3720848008,Redman Farms,8828 North Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
+1970-01-01,5766247907,Mbs Billing Solutions,2717 Old Eastman Rd,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",86500,1
+1970-01-01,8153767900,Bryan Keith Carr,1826 Sapp Christian Rd,Cadwell,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",36500,1
+1970-01-01,8813097907,Melissa Fields,1614 Bell Ave,Soperton,13283,Treutlen County,GA,,12,Central,20140.0,"Dublin, GA",5300,1
+1970-01-01,3497498006,Patrick Nathaniel Powers,312 Parker Dairy Road,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12300,1
+1970-01-01,5443227907,"R&G Farm, Llc",2504 Us Highway 441 N,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14300,1
+1970-01-01,3580157907,"Darsey Enterprises, Inc.",749 Blackshear Ferry Rd. W.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",98500,1
+1970-01-01,3142428008,E.C.S. Realty Llc,512 Saxon St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20500,1
+1970-01-01,2738758009,D&J Auto Brokerage And Sales Llc,101 S Franklin St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",20400,1
+1970-01-01,1281878004,Star Nails & Spa Dublin Llc,907-C Hillcrest Pkwy,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",65800,1
+1970-01-01,5990367902,"Central Georgia Landworx, Llc",1871 Ga Highway 29 S,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",32900,1
+1970-01-01,7133767909,Linder'S Transport Llc,139 Claxton Height Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17000,1
+1970-01-01,3093308010,"Whigham Construction, Ltd",211 Flanders St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",100300,1
+1970-01-01,3903307910,James J Caldwell,2400 Bellevue Rd/21B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2700,1
+1970-01-01,3179967907,Turkey Creek Tire Llc.,1327 N Jefferson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26000,1
+1970-01-01,3218967900,Kendall Johnson,430 Marvin Church Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",30000,1
+1970-01-01,7099467908,H C Rowland Trucking Llc,1135 Curl Ln,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
+1970-01-01,6613567902,"Harper Built/Meridian Construction, Llc",101 Shuman Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45500,1
+1970-01-01,3938158005,"Gprc,Llc",1901 West Elm Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",56500,1
+1970-01-01,8835347900,"Ganesh Ga, Llc",418 Bellevue Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",90700,1
+1970-01-01,7729137909,D D Trucking,2640 Scotland Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10100,1
+1970-01-01,3527268009,Skeet Cafe,701 Ridgewood Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",60000,1
+1970-01-01,5110867902,"G & J Uniforms, Llc",2216 Veterans Blvd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27300,1
+1970-01-01,4602587903,Nicholas Scott Campbell,2973 Idylwild Dr.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5200,1
+1970-01-01,8148647905,Kenneth C Rowland,1074 Beall Ln,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",135000,1
+1970-01-01,4812927907,Work @ Home Solutions Inc,1893 Coleman Register Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11300,1
+1970-01-01,3513838002,Kimberly Bailey,2025 Rentz Road,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,7449577907,Brown'S Automotive Llc,1601 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",36500,1
+1970-01-01,7815177906,Bestcare Counseling Pc,212 S Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,7681147901,Q.D. Trucking Co. Llc,207 Grady Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45700,1
+1970-01-01,9330817909,"Hidden Acres, Inc.",446 Fairfield Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
+1970-01-01,7614977903,"Dublin Motors, Inc",807 Telfair Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7856257902,Sree Hospitality,114 Walke Ridge Trl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",69000,1
+1970-01-01,7975777908,Lynda Hall,488 Second St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
+1970-01-01,9854927908,Dale Brown Performance Horses Inc,1064 Emily Currie Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",75000,1
+1970-01-01,9418937904,Thigpen Distributing,2085 Minter Blue Springs Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",27000,1
+1970-01-01,9737037902,Uncle Jeff Transport Llc,567 Ed Beckham Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
+1970-01-01,2444868001,Boyds Diesel Repair And Performance,2880 Ga Highway 117,Cadwell,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6000,1
+1970-01-01,2570768007,Timothy Andre Wells,66 Wyatt Martin Way,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22300,1
+1970-01-01,2888778010,"Seward Enterprises, Inc.",1101-L Hillcrest Parkway Ste 103,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9438747903,Tristar Aerial Lift & Equipment Sales Inc,219 East Madison Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,1627308006,Lowery Roofing & Construction,1437 Baker Church Rd.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,6962507904,Malabar Blueberry Farm Llc,192 Blizzard Road,Wrightsville,13167,Johnson County,GA,,,East,20140.0,"Dublin, GA",1000,1
+1970-01-01,2794228008,Ls Logistics Llc,681 Windcrest Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",49000,1
+1970-01-01,3912807909,"Cobalt Telecom, Inc.",1439 2Nd St.,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",77400,1
+1970-01-01,4683867905,Jody Ivey Trucking Dba,103 Mason Bridge Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",15000,1
+1970-01-01,3917667903,"Digital Systems Engineering, Llc",1439 2Nd St.,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13100,1
+1970-01-01,4258547902,Amanda Heath/Split Ends Hair Salon,4107 West Main Street,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2900,1
+1970-01-01,4369347904,Christine Clements,994 Bates Avenue,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
+1970-01-01,5356017905,James Horton,3161 Us Hwy 441 North,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
+1970-01-01,1436688001,Discount Repos Llc,1954 Us Hwy 441 S,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",48000,1
+1970-01-01,1325378010,Hot Wings And More,191 North Bradford Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",60000,1
+1970-01-01,1652388010,Passion Hair And Nails,2103 Veterans Blvd #19,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,4241937905,"Baggett Farms, Llc",616 Scooter Rue Rd,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",120900,1
+1970-01-01,6661857900,Pauldo Trucking,103 Helen Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,8222127901,"All American Septic Services, Llc",210 Savannah Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,4695457908,"Phillip G. Boatright, Jr., Llc",27 Chester Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",35000,1
+1970-01-01,4819457900,Ellington Transportation Llc,885 Chester Wilkes Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2751788001,Vontressa'S  Cakery,607 Village Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",61000,1
+1970-01-01,4005928003,Carol L Wiatrowski,7828 B Eastman Road,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",6900,1
+1970-01-01,4452677910,Shirley Martin,103 High Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,5542337900,Dahl Rogers,1943 Jj Club Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",70000,1
+1970-01-01,6820327903,"Durden Cattle Company, Llc",14763 Ga Highway 86,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",24000,1
+1970-01-01,9844657906,Viking Fitness,4033 E. Main St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
+1970-01-01,1080868005,Jarisus Donald Harvey,1620 Green Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,6508287910,"Apl Investments,Llc",1365 Edsel Senn Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9400,1
+1970-01-01,4269948002,Craigs Paint And Body,2653 Norristown Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,9016617910,"Hobbs Sporting Goods, Inc",2310 Highway 80 West,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7770217900,"Ann Logistics, Llc",2310 Scott Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7688637909,Beverly F Roberts,8657 South Marcus St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",8000,1
+1970-01-01,2680478004,Robert Daniel Walker,1863 Oconee Church Rd.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,7637897906,Christopher Sumner Trucking,503  Fulghum. Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",40000,1
+1970-01-01,5265267904,"Bhumika, Inc",601 E Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",80700,1
+1970-01-01,5960387907,James William Baggett,549 Whitaker Lane,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34500,1
+1970-01-01,6110587906,H & H Construction,877 Hwy 338,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
+1970-01-01,8984857904,Zion'S Place Llc,439 Barnes Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",57700,1
+1970-01-01,8936367905,Tesia'S Beauty Boutique,1410 Woodrow Ave.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,2660898004,Rodrigues Ricks,1305 Fourth Street Apt A,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",26900,1
+1970-01-01,5008057910,"Calyco, Inc",217 Ridge Cir,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",115000,1
+1970-01-01,1053098004,Jessica Leann Walker,1863 Oconee Church Rd,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",8500,1
+1970-01-01,4437427907,Wf Services Llc,507 Academy Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",95500,1
+2020-07-23,7346608101,The It Project Ooo,213 Lancelot Ln,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",73000,1
+2020-06-30,6762488009,Tumpies Roofing Company,720 Dale Cir,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",46100,1
+2020-07-06,8962098003,"God'S Divine Vision Ministry, Inc",600 Telfair Street,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",55500,1
+1970-01-01,7335818110,Sundown Cattle Company,1182 Rockledge Blue Springs Rd,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26500,1
+1970-01-01,8374838004,Phillips Pig Farms,518 Cauley Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20600,1
+1970-01-01,1086668103,Stal Partners Llc,8691 North Marcus St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,5347098008,Jonoliver Lowery,1433 Baker Church Road,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18400,1
+1970-01-01,5770438000,Alexander'S Office Center,517 Academy Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9158488006,Thomas M Tripp,1378 Possum Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4900,1
+1970-01-01,2415238110,Little Feet Learning Academy,1210 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",32500,1
+1970-01-01,5666968104,Starleigh Cherie Arnold,1456 Warren Mcclendon Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
+1970-01-01,2650718101,Phil Dudley Jr.,1705 Rice Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
+1970-01-01,1327358106,S&E Transport Llc,126 Sunset Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28500,1
+1970-01-01,7533668005,Khiry Kollections,1171 Deer Field Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,3242038104,Sheena One Llc,306 E Jackson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",78100,1
+1970-01-01,9178948010,Newkirk Trucking,910 Anderson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
+1970-01-01,3838478108,Pauline Waters,310 Allenwood Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19400,1
+1970-01-01,2530648110,Ahay Med Delivery Llc,1288 Belmont Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,8548488007,Billie Kitchens,718 Hawthorne Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,1651218101,Tyvoski Oneal,302 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11200,1
+1970-01-01,5473758006,Kbm Meats & Processing,511 North Line Street,Dexter,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
+1970-01-01,8742998000,"128 W. Jackson, Llc",128 W. Jackson St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28300,1
+1970-01-01,8114208007,Jaylan Montford,1003 Claxton Dairy Road Apt 500D,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4900,1
+1970-01-01,8637978003,Southern Par Llc,1511 Highland Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,1004808105,Keith Helton Dba Tom-A-Lama Farm And Land Management,286 Bw Webb Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",56000,1
+1970-01-01,7747658008,"Avery Law, Llc",1808 Bellevue Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",62800,1
+1970-01-01,1119918103,Vickies Cleaning Service,2819 Idylwild Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
+1970-01-01,8087158009,Thasten Johnson,507 Buckeye Rd Apt 6B,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
+1970-01-01,7503618000,A Watkins & Sons Trucking Llc,828 Fletcher Stanley Rd,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",37000,1
+1970-01-01,3763318100,Shannon Whipple,1507 Mount Olive Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
+1970-01-01,2031618107,Horton Transportation System Llc,1291 Jasmine Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,9920768010,Scott Russell Stephens,696 Tucker Grove Road,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",14000,1
+1970-01-01,2437568105,K & J Services Llc,106 Cedar Creek Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",12000,1
+1970-01-01,3880558101,"Ddlr, Llc",2110 Us Highway 441,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",108800,1
+1970-01-01,3749888100,D & D Auto Body,223 Valambrosia Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,2423398101,Kimberly Wilcox,209 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4400,1
+1970-01-01,8801898006,Kyler Lawn Care,701 Magnolia Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,7394018008,Robert Malone Bray,593 Bill Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",18100,1
+1970-01-01,3285758108,Areta Knight,121 Star Circle,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",12000,1
+1970-01-01,3215698108,O&K Trucking,211 Lakeside Dr,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,9506098004,Indescribly Sweet,946 Salter Sq,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,8881438007,K E Rowland Trucking Llc,467 Witherington Circle,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",100000,1
+1970-01-01,7364178009,"J & K Thompson Properties, Llc",141 Woodland Ridge Rd.,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",7300,1
+1970-01-01,9237458006,"Marty Thompson, Llc",8660 S Marcus St,Wrightsville,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",114800,1
+1970-01-01,2805058110,Jeffery Wright,544 Ralph Keen Ext,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10500,1
+1970-01-01,7706128006,Harold Rowland Enterprises,901 Telfair Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30000,1
+1970-01-01,3056108108,"Kbac Music, Llc",333 Cypress Pointe Dr,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",30700,1
+1970-01-01,8502538003,Georgia Outdoor Power Equipment Llc,905 Hillcrest Parkway,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",63900,1
+1970-01-01,8468618009,"Tdc Transportation, Llc",539 Denham Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,7341858009,Carnell Stanley,2095 Curtis Green Ext,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",67400,1
+1970-01-01,9954098008,"Ch Elite Properties, Llc",1365 Us Hwy 319 North,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9000,1
+1970-01-01,1686228104,Hollywood'S Trucking,1100 Rutland Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",38000,1
+1970-01-01,1059218102,Dantae Cheeks,511 Pine Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15400,1
+1970-01-01,8559528001,"Rb Pressure Washing, Llc",314 Horse Shoe Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
+1970-01-01,7329958001,Out The Box Outreach International Inc,500 Telfair Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,8140308006,Jb'S Goods And More Llc,1291 Third St,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2500,1
+1970-01-01,1543558101,Corey James Tyson,811 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,7835948001,Keshia Mayes,601 Simmons St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5500,1
+1970-01-01,1020208102,Southern Diversified Services Llc,6581 East College Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,4752178007,Rinesdi Banquets & Events Llc,1827 Hwy 19 South,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50700,1
+1970-01-01,7392088003,Charles Malone Bray Jr.,713 Bill Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10900,1
+1970-01-01,2683738103,L A Logistics,1121 Russell Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",59600,1
+1970-01-01,2567338104,Vigna Vinayaka Llc,602 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,5491118006,Majestic Burial Vault,631 Pine Cone Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47000,1
+1970-01-01,3280588106,Dylan Clark Mcdaniel,780 James Curry Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
+1970-01-01,2295228101,Glinder Atkins,118 W Garner Streer,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",44500,1
+1970-01-01,5147168000,J And G Custom Metals,235 Emilys Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6400,1
+1970-01-01,3324558100,Johnny Hubbard,756 Clinton Branch Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,9094788002,1St Step Transport,740 Victoria Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,1642558107,"Jag Farm & Trucking, Lllp",864 Outlaw Grove Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",125000,1
+1970-01-01,1413408104,Shuronica Walker,534 Soperton Ave,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13200,1
+1970-01-01,1460418110,Dustin C. Baggett,827 Holiday Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",79600,1
+1970-01-01,9550608010,Murray Boston,2101 James Evans Rd.,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3500,1
+1970-01-01,3476198109,Kaneka Thomas,1603 Lance Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28000,1
+1970-01-01,5988548001,Quality Tank Installers,266 Spearhead Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2497868103,Beauty&Nature,304 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
+1970-01-01,2911248101,Dollface Collections,605 North Franklin Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,5190818000,Thomas Income Tax Service,312 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6500,1
+1970-01-01,9917698001,Boys Rising Into New Talent,740 Victoria Circle,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,8453718001,Tony Edward Lattimore Dba Lattimore Trucking,1020 Towson Drive,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,3933278105,Juslexia Daniels,43 Shurling Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10500,1
+1970-01-01,3308198110,Tyrone Austin,3249 Moore Station Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17900,1
+1970-01-01,1183138110,Breit Landscaping,115 Pamela Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,5216228010,Amy Beauty Supply Store,204 Sunny Ln,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1500,1
+1970-01-01,3855508106,D Wright Home Development,201 Marion St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18500,1
+1970-01-01,9775848002,K Coleman Trucking,879 Blarney Ct,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",18000,1
+1970-01-01,5187638004,Restoration Church Ministries Inc.,318 Pineforest Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6600,1
+1970-01-01,9614298002,Ae Trucking,819 Old Macon Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,7168028002,Hao Van Dao,2150 Academy Ave Ext,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8400,1
+1970-01-01,9800028006,Kristian Wilcox,70 Chester Dr,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",1000,1
+1970-01-01,3161928109,Dixon Farms & Services Llc,135 Wildwood Ln,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",22200,1
+1970-01-01,7669068001,Richard Smiley,3749 New Buckeye Rd,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",61500,1
+1970-01-01,1071618107,Towanna Johnson,451 Rountree Dr,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",2000,1
+1970-01-01,5948938006,Tracy'S Beauty Shop,989 Brewton-Lovett Rd,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,5599068006,Q-Nails,2421 Us Highway 80 W Ste 105,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",118800,1
+1970-01-01,1428348102,Bridgeton Retrievers Llc,515 Ga Hwy 338,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",34700,1
+1970-01-01,3724028104,1St  Impression,946 Salter Sq,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6200,1
+1970-01-01,8764308004,"Darsey Transport, Llc.",387 Gettys Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4700,1
+1970-01-01,9904318004,Spruceup & Trim,1684 U. S. Hwy 319 South,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",4500,1
+1970-01-01,1935258104,Thomas Backhoe,402 Barnes Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",31500,1
+1970-01-01,9070708006,Ruby Wyche,308 Moore Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2900,1
+1970-01-01,2361838106,Billy Hazley,126 Sunset Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,1289418109,Monica D Smith,304 Parker Dairy Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",17500,1
+1970-01-01,5982298008,John Johnson,Po Box 4784,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2280868102,Heather Marie Burnett,174 Parkway Drive,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,8444078008,Carl Plemit Howard Trucking,748 Bass Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",47100,1
+1970-01-01,3756958106,Joni Walker,907 East Garner,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13500,1
+1970-01-01,2489658110,Preston Moss,1504 Turner Ct Apt B,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9000,1
+1970-01-01,3250598108,Qetrucking Llc,301 Princess Ct,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,6658188002,Terrence Webb Truck,1409 Camellia Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,2597918102,Folsom Cleaning Enterprise,1204 Edgewood Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",28000,1
+1970-01-01,9678978004,Desha H Jones,575 Pinewood Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",54000,1
+1970-01-01,3071918102,Chawn'S Salon,117 South Monroe St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15300,1
+1970-01-01,2884838105,Lakeshia Howard,102 Woodrow Court,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",19300,1
+1970-01-01,6818478006,Waters Masonory,704 Waters Rd.,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7466978101,Maurice L Johnson,1329 New Buckeye Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9500,1
+1970-01-01,8528118004,Kojack Lawn Services,845 Highway 80 East Lot 6,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8500,1
+1970-01-01,3334288106,Tangie Profit,509 Pine Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,2001458106,"J Cole Tax & Services, Llc",112 Shadow Pond,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5300,1
+1970-01-01,7875178000,Kreative Pieces Llc.,711 Victoria Circle,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",10200,1
+1970-01-01,6155508000,Jason Hudson Jones,1178 Troup Lane,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",46800,1
+1970-01-01,8556638004,Living Our Best Lyfe,1265 Bellflower Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18400,1
+1970-01-01,6148428100,Dba Jeremy Manley,2208 Kings Drive,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,7417208010,Curepoint Llc,2406 Bellevue Ave Ste. 7,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7155808110,Glay Wright,536 Ralph Keen Extension,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",9300,1
+1970-01-01,1131788104,Nishitkumar Patel,1003 Claxton Dairy Rd Apt 502B,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,9025738005,Whitney Oneal,214 B Plum Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
+1970-01-01,2093958110,Pictur This Catering Inc.,400 West Moore Street Suite B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",30000,1
+1970-01-01,7128878103,Rufus,805 Grace Wood Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22900,1
+1970-01-01,6187048107,Lee Coley Trucking,121 Lm Coley Rd,Montrose,13175,Laurens County,GA,,8.0,Central,20140.0,"Dublin, GA",48400,1
+1970-01-01,4734558010,"Gus' Home Improvements, Llc.",505 Witherington Cir,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",57000,1
+1970-01-01,1598828107,"Central Ga Lock & Safe, Llc",811 A N. Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25800,1
+1970-01-01,1983128105,"J Ricks Transportation, Llc",236 Highland Dr,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,9134418002,Wendy Nanerl Sterling,272 Buckingham Parc Circle,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",23000,1
+1970-01-01,2493548104,Courtney Dudley,1210 Telfair Street,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",9300,1
+1970-01-01,2694528105,Stacie Johnson,307 Princess Ct,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,4978778100,"Acs Cleaning Services, Llc",1509 Telfair Street,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,6161478109,Edges Aquatic Services Llc,2829 Briarcliff Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,3324398100,Orlando'S Lawn Care Services,810 Smith Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
+1970-01-01,3082568110,Live Travel Agency,2621 Barwick Ave,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2700,1
+1970-01-01,5518438107,John William Stevens,Po Box 86,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",36500,1
+1970-01-01,5523378107,Open Arms Patient Care,2480 Hwy 441 South Lot 16,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",26500,1
+1970-01-01,5555718107,Wiggins Land Clearing And Lawn Service,73 Venson Oliver Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
+1970-01-01,3481068110,Natural Touch,"1101 Hillcrest Parkway, Suite I",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",6700,1
+1970-01-01,1604058109,Anketrick Powell,"501North Franklin, 501 North Franklin",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,8340078003,"Tcm Trucking, Llc",1454 Harmony Ln,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14100,1
+1970-01-01,1897458103,Monterrio Devoe,132 Musgrove St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",69000,1
+1970-01-01,7518698103,Alvin'S Discount Cars,208 Grady St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8900,1
+1970-01-01,1551188108,Jalani And Company Inc.,1101-L Hillcrest Pkwy #320,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,7156308104,Dawson Trucking,626 Blue Jay Drive,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1800,1
+1970-01-01,2431158110,"Resource For Life Community Outreach Center, Inc.",6978 Ga Highway 46,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",14700,1
+1970-01-01,1580158109,Tracey Stanley,306 East Mary Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11600,1
+1970-01-01,7155288109,Larry H. Dean,1423 Blackshear Ferry Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45300,1
+1970-01-01,6379388000,Hugh Veal,384 Tobie Veal Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",109900,1
+1970-01-01,2534888109,Joshua Whalian Tyson,406 Broad St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,3291778110,Tikish Whitfield,717 Cardinal Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2200,1
+1970-01-01,4768778004,"Bass Physical Therapy & Rehabilitation Center, Inc.",101 Fairview Park Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",130400,1
+1970-01-01,9623068005,Brantley Show Pigs,1565 Arline Chapel Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",11500,1
+1970-01-01,7192298100,Carrie A Sasnett,1940 Oak Valley Road,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",2400,1
+1970-01-01,8513148010,Treeline,528 Made Cannon Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,7627458100,Money Power Loyalty,310 Allenwood Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14600,1
+1970-01-01,9011118006,Ever After Boutique,1396 Goins Rd.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",32500,1
+1970-01-01,7479748101,Wright Choice Cla,476 Wright Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
+1970-01-01,3987338105,Wise Masonry,1076 Ennis Court,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,8506208006,Stephens Consulting,205 Ray Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4400,1
+1970-01-01,9742898010,Richard Orozco,3359 Us Hwy 441 South,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",61200,1
+1970-01-01,8481258002,Eric Carswell,1796 Millville Church Rd.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,4020318104,Sherita Renee Fullwood,1620 Woodrow Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,7749488009,"Neel Investments, Inc",1237 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5200,1
+1970-01-01,2684418103,Sheila Denise Moore,312 Woods Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9100,1
+1970-01-01,3433548107,Mark Edward Hall,1062 Troups Tomb Rd,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",4000,1
+1970-01-01,2484978102,Victoria Walker,464 Wynnton Way,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,4594048007,Mason Concrete Llc,2573 Ga Hwy 257,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",45000,1
+1970-01-01,2031788101,Longway Kustomz,51 Ralph Young Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",3300,1
+1970-01-01,4030718110,Whitfield Trucking,1180 Deer Field Ln,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",18200,1
+1970-01-01,4005528110,Davis Vault & Monument Co Llc,1101 Hillcrest Pkwy Ste L #1015,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",24000,1
+1970-01-01,2075878106,Timothy Hall,1606 South Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13200,1
+1970-01-01,9581748009,Dba Mr. B,1106 South Jefferson Street,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,5729038105,Purple Dog Properties,531 Valambrosia Rd,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2007818108,Emerald City Trucking Inc,200 South Decatur St,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",93000,1
+1970-01-01,2722298106,Walter Warnock,1142 Old Savannah Rd,East Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",13800,1
+1970-01-01,9310368000,Hugh Veal,1447 Piney Mount Church Rd,Wrightsville,13167,Johnson County,GA,31096,10,East,20140.0,"Dublin, GA",123300,1
+1970-01-01,3650128106,The Computer Gal,229 Riverview Park Dr.,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,6085628103,Maurice Johnson,513 Hudson Drive,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,4200058106,Shae'S Sassy Shop,324 Sawmill Rd,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",21900,1
+1970-01-01,2585598105,Olinbell,1119 Greenway Dr,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",59900,1
+1970-01-01,4174238107,Tracie Holliman,304 Marion Street,East Dublin,13175,Laurens County,GA,31027,12,Central,20140.0,"Dublin, GA",2000,1
+1970-01-01,2267128109,"Smith Landscaping, Lawn Care & Firewood  Inc",2153 Smith Rd,Dexter,13175,Laurens County,GA,31019,12,Central,20140.0,"Dublin, GA",54000,1
+1970-01-01,3870178101,Vanessa'S Salon,403 Beech Rd,Dublin,13175,Laurens County,GA,31021,12,Central,20140.0,"Dublin, GA",11000,1
+1970-01-01,5121958101,Tikeshia Gamble,74 Outlaw Rd Lot 14,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1000,1
+1970-01-01,9744218009,Michael Baggett,316 Duncan St.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,6062558103,Wrightsville Family Dental Llc,2562 East Elm St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,6223238103,Keith Christie,218 James Grove Church Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",35000,1
+1970-01-01,5961098106,Herschell White,520 Pointe West Pl,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",7000,1
+1970-01-01,2409098109,Trekenya,212 Palisade Dr.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,6358058105,"Bodai-Ma, Inc",1235 North Jefferson Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",58100,1
+1970-01-01,2358168105,Hardens Tax & Bookkeeping Service,2309 Hwy 29 S,Rockledge,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9300,1
+1970-01-01,8642468008,Kenny Lewis,"204 Poplar Street East,",Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,7283998104,Al Rowland Farm,5261 Ga Highway 57 E,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",150000,1
+1970-01-01,3272768101,Laqueshia Luma,110 B Shuman Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3200,1
+1970-01-01,3295548108,Lawson Waters,210 Jackson Street,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15700,1
+1970-01-01,9766308002,Bruce Veal,230 Dry Creek Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",12100,1
+1970-01-01,3298528108,James Butler,205 E Trilby St,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",7000,1
+1970-01-01,7499388108,Messenger Mobile Detailing,1682 Williams Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,7150788009,Dream Work Kennels,83 Pine Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",10000,1
+1970-01-01,1902558104,"Hometown Grillz, Llc",1211 Telfair St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",55900,1
+1970-01-01,7927978007,Tina Waters,699 Waters Road,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14000,1
+1970-01-01,5626128105,Curtis Davis Family Farm Llc,1274 Alice Brewer Rd,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,2845408102,Lliyah Harrison,108 Shadow Pond Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,2863248106,Felix Thomas,344 E Garner St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,2146668100,Yvonne  Murray,312 Folsom Drive,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",10000,1
+1970-01-01,2265138108,G And W Trucking Llc,1403 Woodrow Ave,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",32500,1
+1970-01-01,4769468105,Mw Farm,8464 South Marcus Street,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",13500,1
+1970-01-01,8452438009,Nykeria Wells,248 Folsom Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",4500,1
+1970-01-01,7170568010,Soles Farm,1555 Bay Pullen Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8500,1
+1970-01-01,2774218106,Travis Spencer,110 Pamela Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,4799898106,Lakeisha Wright,74 Outlaw Road Lot 5,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",5500,1
+1970-01-01,4812568107,Zays Family Restaurant Llc,50 Bb Steptoe Rd,Kite,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",3000,1
+1970-01-01,4774778109,"Middle Georgia Business Products, Inc.",909 Hillcrest Pkwy Ste C,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",150000,1
+1970-01-01,7481478004,J Blackshear Llc,604 N Church St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9000,1
+1970-01-01,2055958109,"Brown'S Towing & Collision, Llc",1008 Russell Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",25000,1
+1970-01-01,4939898109,Outlaws Cleaning Services,288 Shepherd Hill Road,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9100,1
+1970-01-01,7463508007,Owlwaystrue,312 Folsom Drive,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",1900,1
+1970-01-01,4798438106,Assist Health Care Staffing,200 Riverview Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,2564208105,Tuyen Ngoc Nguyen,1302 Evergreen Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",11000,1
+1970-01-01,5567428100,Driskell Tabernacle Missionary Baptist Church,Po Box 4797,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8400,1
+1970-01-01,5569758109,D&N,116 Musgrove Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,8190358008,Crystal Martin,104 West Avenue,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",37500,1
+1970-01-01,8770788004,Nora'S Braids &More,116 Katie Dudley Village,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1300,1
+1970-01-01,4748458103,Soles Trucking Llc,916 West Tanglewood Dr,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",50000,1
+1970-01-01,7953628000,Donna Mills,1154 Deer Field Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",4500,1
+1970-01-01,8217218002,Kourtney Johnson,2298 Harry Green Rx,Montrose,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",33500,1
+1970-01-01,8050778003,Tara J Salon & Hair Replacement Center,702B Academy Ave.,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",21300,1
+1970-01-01,5970888109,Md Hauling,508 Kaitlyn Ct,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",13000,1
+1970-01-01,5004118108,Rocking M Retreat Llc,867 Willis Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14500,1
+1970-01-01,5820418102,Brian Shirley,2185 Claxton Dairy Rd Apt 12,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",22500,1
+1970-01-01,7629918002,Peggy Baisden,306 Lancelot Lane,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",40000,1
+1970-01-01,9537028008,Kh Avon,1070 Jackson Street,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",1500,1
+1970-01-01,9070908007,Peggy Oneal,1001 Village Circle,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,5439418103,James Eric Dykes,1908 Baker Church Rd,Rentz,13175,Laurens County,GA,31075,12.0,Central,20140.0,"Dublin, GA",10000,1
+1970-01-01,5093498107,Rt Construction,675 Jones Lane,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",100700,1
+1970-01-01,1332148107,Annie Carter,104 Derriso Lane,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",13500,1
+1970-01-01,4842958107,Wade Smith Trucking Llc,474 Turner Cir,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",60000,1
+1970-01-01,8621258005,Barbara Mosley,201 Fox Ridge,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3700,1
+1970-01-01,2532928104,Blade Richelle Tyson,229 Rex Miller Rd,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3000,1
+1970-01-01,4650928104,Curnecia,1015 Mlk Jr Drive Apt604B,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,5992178109,"Anj Express, Inc",1108 N Jefferson St,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",91600,1
+1970-01-01,4480528109,City Cuts,8703 North Marcus St.,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6300,1
+1970-01-01,6613478100,Joyce Guyton Harden,320 Arch Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",15000,1
+1970-01-01,4766078100,Glenn Sterling,110 Keen St,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",91200,1
+1970-01-01,4825438102,Akiera Lattimore,103 Thomas Street,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,4314608103,Michael Taylor,581 Jamesgrove Church Road,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",6500,1
+1970-01-01,7020108104,Matthew D Peebles,1409 Chestnut Dr,Dudley,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",81200,1
+1970-01-01,4246928102,Kennys Barber Shop,119 South Lawrence St,Dublin,13175,Laurens County,GA,31021,12.0,Central,20140.0,"Dublin, GA",16500,1
+1970-01-01,5648598107,Marshall Lawn Service,87 Arch Street,Soperton,13283,Treutlen County,GA,30457,12.0,Central,20140.0,"Dublin, GA",20000,1
+1970-01-01,4268178103,"Tdp Safety Services, Llc",143 E Trilby Street,Wrightsville,13167,Johnson County,GA,31096,10.0,East,20140.0,"Dublin, GA",11000,1
+1970-01-01,4197888106,Jesse Lee Toole,981 Loyd Hester Rd,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",2600,1
+1970-01-01,7003968102,Lu Lu'S Cafe,946 Salter Square,East Dublin,13175,Laurens County,GA,31027,12.0,Central,20140.0,"Dublin, GA",2500,1
+1970-01-01,4607458110,K&R Counseling Services Llc,749 Pointe West Loop,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",1000,1
+1970-01-01,4593728106,Monsters Inc Distribution,1101L Hillcrest Pkwy # 17,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",42000,1
+1970-01-01,4391058108,Vision Light Llc,119 Goler Ave,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",14200,1
+1970-01-01,5113078108,Zapporah'S Landscaping,318 Parker Dairy Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",9500,1
+1970-01-01,5129538109,Stella Lynn Studdard,579 Valambromsia Rd,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2000,1
+1970-01-01,5184678108,Milltix Llc,702 Second St,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",7500,1
+1970-01-01,5191898102,Shericko Haynes,104  Parker Dairy Rd Apt 16,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",16800,1
+1970-01-01,5477678101,"Clark & Veal, Llc",201 Hayes Point Drive,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",3900,1
+1970-01-01,5150788108,Carvins Carpet  Cleaning,4210 West Railroad Ave,Soperton,13283,Treutlen County,GA,,12.0,Central,20140.0,"Dublin, GA",18900,1
+1970-01-01,5413528103,Avanti Foreman,415 Jones Village,Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",8000,1
+1970-01-01,5197058109,Hair Blessing,955 Pridgen Rd,Rentz,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",5000,1
+1970-01-01,5198878110,Tonya Michele Lumley,314 Raka Dr,East Dublin,13175,Laurens County,GA,,12.0,Central,20140.0,"Dublin, GA",2800,1
+1970-01-01,5388408110,Demetrianna Hall,1467 Goins Rd,Wrightsville,13167,Johnson County,GA,,10.0,East,20140.0,"Dublin, GA",20000,1
+1970-01-01,5221258100,Casey Dolph,117 Mixon St,Kite,13167,Johnson County,GA,,10,East,20140.0,"Dublin, GA",115000,1
+1970-01-01,6627448103,"Bracewell Repair, Llc",1101 Hillcrest Parkway,Dublin,13175,Laurens County,GA,,12,Central,20140.0,"Dublin, GA",17800,1

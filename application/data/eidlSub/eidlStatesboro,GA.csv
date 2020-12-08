@@ -1,616 +1,616 @@
 Date,FAIN,Recipient,Address,City,FIPS,County,State,ZCTA,Congress,CDRegion,CBSA,MSA,Amount,Loans
-2020-06-02 00:00:00.000000000,6559967804,Wingz University,407 Fair Rd,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",49300,1
-2020-04-20 00:00:00.000000000,3257337205,"Tormenta Fc, Llc",2704 Old Register Road,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",349200,1
-2020-04-22 00:00:00.000000000,3323557200,"Custom Fiberglass Manufacturing, Inc",104 Rushing Lane,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
-2020-04-20 00:00:00.000000000,3216837206,"Bvt Enterprises, Inc.",2704 Old Register Road,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
-2020-06-03 00:00:00.000000000,7590177806,Steve'S Lawn & Landscape Services Llc.,508 Colquitt Ln,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
-2020-04-17 00:00:00.000000000,3151947202,Whitfield Signs Llc,91 South College Street,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
-1970-01-01 00:00:00.020200422,3326437205,"Marcella'S Community Safehouse, Inc",1286 Shuman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",137600,1
-1970-01-01 00:00:00.020200608,9103307800,Underwood Restaurant And Store Equipment,17708 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200530,5264087809,Vision Financial Holdings Llc,506 Gentilly Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200422,3358527202,Statesboro Powersports Inc,22681 Hwy 80 East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",500000,1
-1970-01-01 00:00:00.020200605,8492437802,"Fluffy Clean, Llc",100 Brampton Avenue Suite 1B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26500,1
-1970-01-01 00:00:00.020200528,4564537810,"B&R Accounting & Taxes, Llc",345 S Walnut St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200421,3307837201,"Heavy Equipment Services, Inc",10341 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",277200,1
-1970-01-01 00:00:00.020200608,9528867810,Ishver Investment Group Inc,17870 Highway 67,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200525,3103807800,V.I.P Nails,1525 Fair Rd Ste 100,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10500,1
-1970-01-01 00:00:00.020200525,3060377801,Technique Dance Company,23324 Highway 80 East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
-1970-01-01 00:00:00.020200530,5359037808,"Bowtreader, Llc",23320 Highway 80 East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",80400,1
-1970-01-01 00:00:00.020200514,6205417403,Scratchmade Catering,888 Seaborn Proctor Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14200,1
-1970-01-01 00:00:00.020200530,5861127806,"Gibson Technology Consulting, Llc","430 Northside Dr E, Suite 160 #132",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200525,3174617810,"Norman Transportation Service, Llc",2059 Pinemount Bvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200609,9622187803,Night Hawk Auto Detail,2 Church St,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200518,8185587409,J.P.O.V. Inc.,2330 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200530,5323107803,"Versahealth, Llc",913 Monarch Circle,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200515,7077617403,Twe Llc,9211 Ga Hwy 24,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9100,1
-1970-01-01 00:00:00.020200525,3118107805,Hodges Equipment Repair,1872 Akins Pond Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",11400,1
-1970-01-01 00:00:00.020200525,3142727803,Lettuce Eat Catering Llc,434 S Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",41300,1
-1970-01-01 00:00:00.020200420,3211367208,Cm City Inc.,1662 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",500000,1
-1970-01-01 00:00:00.020200529,5136617808,Tlt Trucking Llc,1213 Merchant Way Ste 103,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200530,5760007806,"Statesboro Dental Associates, Pc",225 S Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200609,9657327808,Georgia Premier Academy,831 Miller Street Ext,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200513,6073597408,Georgia Health Club Partners,609 Brannen Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18700,1
-1970-01-01 00:00:00.020200514,6394797410,Joshua Fincher,131 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
-1970-01-01 00:00:00.020200530,5435777810,Statesboro Agency Inc,102 Langston Chapel Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200508,3844217405,Gwendolyn White,101 Lester Road Apt. 36,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200530,5548387807,"Unified Physical Therapy Solutions, Llc",430 Northside Dr E. Ste 160 #336,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",2100,1
-1970-01-01 00:00:00.020200521,1415577803,Party Harbor,10863 Hwy 80 West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200530,5244577806,Big Step Solutions Inc,"1100 Brampton Ave., Suite M",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",5300,1
-1970-01-01 00:00:00.020200509,4555187407,Taft & Harding On Park Avenue Llc,115 Park Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",27100,1
-1970-01-01 00:00:00.020200522,2168077802,"The Property Mart, Llc",1800 Chandler Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200511,5132627400,Budget Inn Of Cochran Llc,316 South Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3600,1
-1970-01-01 00:00:00.020200530,5260337804,Mary C Riccio,139 Shiloh Dr,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",48200,1
-1970-01-01 00:00:00.020200508,4211317405,Southern Family Dental Group Llc,108 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200529,5100177805,Lg Management Group Llc,380 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",119200,1
-1970-01-01 00:00:00.020200511,4729537406,Jimmy Goines Signs,1515 Mike Brannen Rd,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200511,4681957403,D'S Friendly Diner,7 Lester Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",40500,1
-1970-01-01 00:00:00.020200603,7175087806,"Humane Society Of Statesboro & Bulloch County, Inc.",105 N College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",99900,1
-1970-01-01 00:00:00.020200522,2166307806,Short Putt Ent. Inc,1590 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200526,3365887802,"Techsavvy Computer Services, Llc",708 Northside Dr E Ste 106,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",30000,1
-1970-01-01 00:00:00.020200527,3815007805,Youth Career Camp Inc.,138 Plantation Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",8800,1
-1970-01-01 00:00:00.020200525,2716207806,"Lewis Color Lithographers, Inc.",30 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",500000,1
-1970-01-01 00:00:00.020200511,5056717400,Regenia Bragg Hamel,813 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",71500,1
-1970-01-01 00:00:00.020200530,5665217801,Jeffrey Gremer Llc,2610 Old Mill Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",5300,1
-1970-01-01 00:00:00.020200530,5682467808,R&G Logistics Llc,127 Turkey Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",109700,1
-1970-01-01 00:00:00.020200603,6932057801,"Boro Subs, Inc","701 Piedmont Loop, Suite 500",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",87600,1
-1970-01-01 00:00:00.020200518,7987437407,Neon Design And Sign Llc,824 Deer Rd.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11500,1
-1970-01-01 00:00:00.020200608,9342447804,Samantha Lindley,1 South College Street. #3055,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19800,1
-1970-01-01 00:00:00.020200608,9399407804,Jkmd 7 Inc,9651 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",103500,1
-1970-01-01 00:00:00.020200603,6973607807,"Southern Insulation Company Of Ga, Inc",505 Aden Lanier Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",16400,1
-1970-01-01 00:00:00.020200603,6976557800,S R Fashion Inc,1525 Fair Rd Ste 102,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",35900,1
-1970-01-01 00:00:00.020200506,2808457405,Salon 609,609 Brannen Street Suite 2,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200605,8083987802,"C G & B Enterprises,Inc",417 Deer Crossing Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",58400,1
-1970-01-01 00:00:00.020200530,5665507805,"Southern Aquatic Services,Llc",102 Lakeland Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22800,1
-1970-01-01 00:00:00.020200603,6956307809,Andrew A. Burns,"124 Savannah Avenue, #Ste 2D",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",41000,1
-1970-01-01 00:00:00.020200519,8648657403,Blake Edenfield Farms Inc.,13701 Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",110500,1
-1970-01-01 00:00:00.020200608,9407557804,Northwestern Mutual,1233 Old Leefield Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",88200,1
-1970-01-01 00:00:00.020200608,9306947804,"Southern Home Theater Systems, Inc",607 Brannen St Ste 6D,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10900,1
-1970-01-01 00:00:00.020200509,4448297410,Hopeulikit Farms Llc,4195 Williams Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200525,2710507801,"Amberwood Water Systems, Inc",1800 Chandler Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",112500,1
-1970-01-01 00:00:00.020200529,4976407802,"Commodity Transportation Service, Llc",1213 Merchant Way Ste. 103,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200530,5838087809,"Edwards Events, Llc",111 Parker Avenue S.,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18500,1
-1970-01-01 00:00:00.020200528,4465847803,Jake'S Creative Communications,404 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",43700,1
-1970-01-01 00:00:00.020200527,3853597808,"Catalyst Innovations, Inc.",17642 Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200528,4657907802,"Eagle Creek Brewing Company, Llc","106 Savannah Ave, Ste B",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200507,3356607405,"Dx Print, Llc",30 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200529,4831067806,Southside Cleaners Llc,244 North College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200527,3725737808,Brave Tomorrow Counseling And Consulting,27 S. Main St.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200528,4323917805,"Signature Ambulance Of Statesboro, Llc",9 Allen Cail Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200516,7228877409,"Bumblebees Childcare Learning Center, Llc",1049 Ga Highway 24,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200603,7500337803,"Denise Meeks, Inc.",151 Rolling Hills Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19300,1
-1970-01-01 00:00:00.020200529,4846937810,"Burns World Travel, Ltd, Llc",124 Savannah Ave Ste 1A,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",95400,1
-1970-01-01 00:00:00.020200527,3728757809,Taylors Tanning And Boutique,22312 Hwy 80 East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",90000,1
-1970-01-01 00:00:00.020200516,7391457401,Blessed Hands Barbershop,9 Lester Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18000,1
-1970-01-01 00:00:00.020200603,7487457809,Real Soil Foods Llc,701 Piedmont Loop Ste 200,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24900,1
-1970-01-01 00:00:00.020200529,4847377810,Rolling Monkey,"430 Northside Dr E, Suite 166",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200605,8403187809,Burnsed Contracting Inc.,2031 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",80100,1
-1970-01-01 00:00:00.020200508,4214407403,Jep Reallty Llc,225 Highpoint Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200525,3126767804,Garland L. Nessmith,Po Box 1400,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200519,8662427400,Mj Webb Trucking Llc,6302 C T Pl,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15100,1
-1970-01-01 00:00:00.020200605,8353167804,Whyrocklawns,335 Conley St,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13500,1
-1970-01-01 00:00:00.020200603,7014607806,Chesley Enterprises Inc.,1292 Jim Waters Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200525,2722387810,Melissa'S Hair Designs,8 Simmons Center,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200529,5138107801,Diamond Rentals Llc,216 Dewpoint Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15800,1
-1970-01-01 00:00:00.020200530,5367267807,"Atlas In Wonderland, Llc",22 West Vine Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200526,3205167810,Madame Couture'S Consignment,3 North Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",57400,1
-1970-01-01 00:00:00.020200514,6423487400,T Lanes Tots Llc,196A Zetterower Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",135900,1
-1970-01-01 00:00:00.020200530,5924237802,Red Hill Farms Llc,19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200507,3444627400,"Nicole Guarino Insurance Agency, Inc",100 Brampton Ave Ste 1D,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200602,6525847805,"Lily Pad Printing, Inc",62 East Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200506,2394097403,Jct Investments Llc,2555 Harville Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",14000,1
-1970-01-01 00:00:00.020200530,5367117808,"Holiday'S Merit, Llc",406 Fair Rd Ste 11,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200603,7039337804,"Berkshire Village, Llc",220 Lanier Dr,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",52600,1
-1970-01-01 00:00:00.020200421,3297567209,Bourbon Grill And More,325 Northside Dr East,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",141000,1
-1970-01-01 00:00:00.020200420,3204677209,Battlbox Llc,3425 Old Dill Road,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",500000,1
-1970-01-01 00:00:00.020200514,6341057407,Wise Choice Realty,813 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200603,7093687805,Juan'S Lawn Service,935 Pointer Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",8700,1
-1970-01-01 00:00:00.020200520,9421977405,"Burkesouth, Inc.",17067 Ga Hwy 67 Suite B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200528,4195787808,"Newmark Homes, Llc",710 West Lane Street,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",66000,1
-1970-01-01 00:00:00.020200603,7544707809,"Daniel Long Agency, Inc.",504 Gentilly Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200602,6481907807,"Clark Medical Group, Llc",117 Hill Pond Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200528,4537987810,"Cinos Iii, Inc",880 Buckhead Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200514,6315837401,"Southeastern Eye Care Clinics, Pc",214 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200527,4077887802,Cinos Incorporated,322 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200515,7143927401,Thompson'S Garden Llc,6175 Georgia Highway 67,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",55000,1
-1970-01-01 00:00:00.020200528,4225487803,Sourceone Inc.,113 Hunters Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",14000,1
-1970-01-01 00:00:00.020200525,2971077801,Sherwin Llc,1602 Catlyn Ln,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",125000,1
-1970-01-01 00:00:00.020200525,3003307806,"Shah Realty, Llc",1206 Plantation Cir,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",119900,1
-1970-01-01 00:00:00.020200521,1620717807,"Statesboro Golf Carts, Llc",19225 Hwy. 80 West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200523,2396437805,Blessings Beauty Salon,65 East Main Suite 3,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200521,1736437808,Eagle Hauling Inc,500 Lee Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200521,9990507404,Ugga Dugga Tools,1012 Bradford Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200522,2242597804,Market Pointe Llc,211 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",94300,1
-1970-01-01 00:00:00.020200527,4178007806,"Southern Accounting & Financial Consulting, Llc",430 Northside Dr E Ste 160-301,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33700,1
-1970-01-01 00:00:00.020200608,9283837802,The Hair Masters,2680 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19700,1
-1970-01-01 00:00:00.020200511,4744727402,"South Paws Dog Resort,Llc",2056 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",107800,1
-1970-01-01 00:00:00.020200518,8129777402,Smith Lank Inc.,367 Savannah Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200521,9943467402,Acupuncture Angels Llc,116 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
-1970-01-01 00:00:00.020200606,8796117810,"Jay Robert Clarke Farms, Llc",2683 Dekle Road,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200608,8871107808,Harvey'S Paint And Body Shop,178 Mcphatters Ln,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200608,8924287810,"J Clarke Cattle, Llc",2683 Dekle Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",57600,1
-1970-01-01 00:00:00.020200521,1454387808,Buck Creek Commercial Cleaning,1596 W C Hodges Rd,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
-1970-01-01 00:00:00.020200601,6003047804,Southern Legacy Management,1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",79000,1
-1970-01-01 00:00:00.020200523,2301217807,"Wm Sheppard Lumber Co, Inc",15175 Us Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200601,5996217806,Down 2 Earth Irrigation And Landscaping Llc,1866 Groover Old Mill Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",42500,1
-1970-01-01 00:00:00.020200522,2167967807,Town & Country Dry Cleaners Inc,244 N College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33000,1
-1970-01-01 00:00:00.020200601,5937417807,"Law Contracting Solutions, Llc",1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
-1970-01-01 00:00:00.020200518,8098907400,"Exodus Management & Consulting, Llc",120 Summer Wind Pl,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
-1970-01-01 00:00:00.020200608,8886657801,"Munger Emergency Doctors, Llc",106 Iron Gate Pl,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200519,8787857404,Woody'S Shirts And Scrubs,601 Brannen Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",30000,1
-1970-01-01 00:00:00.020200601,5968847810,Water On Tap,1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",29700,1
-1970-01-01 00:00:00.020200511,4732747400,Powell Organic Citrus,4334 Stilson Leefield Rd,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
-1970-01-01 00:00:00.020200601,6051777805,New Life Chiropractic,1342 Northside Dr,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200512,5551897405,C And R Farms,4919 Rocky Ford Rd,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
-1970-01-01 00:00:00.020200522,1945307800,"Serenity Day Spa & Salon, Inc.",1100 Brampton Ave Ste D,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200511,5170187400,"Stump Branch Farms, Inc.",3298 Old Dill Rd.,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200608,8907607808,"Charleston Entertainment Services, Llc",106 Lancaster Pt,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200518,7932877402,Sleeping Booty Llc,2000 Pippin Pl.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26900,1
-1970-01-01 00:00:00.020200608,8885137807,"The Branch Law Firm, Llc",217 Savannah Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",40800,1
-1970-01-01 00:00:00.020200523,2428217804,East Georgia Urologic Clinic,614 E Grady Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9100,1
-1970-01-01 00:00:00.020200521,1331347807,"Dark Cycle, Llc",804 Baytree Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10100,1
-1970-01-01 00:00:00.020200515,6547547407,Francys Johnson P.C.,51 East Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",70000,1
-1970-01-01 00:00:00.020200525,2803377809,Mtw Medical Solutions Llc,2619 Joe Hodges Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",65000,1
-1970-01-01 00:00:00.020200601,6132547808,Victoria Lynn Parker,407 Bruce Groover Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13100,1
-1970-01-01 00:00:00.020200525,2927057809,Jamie Creasy Brannen,3320 Old Dill Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200525,2797257800,Swim By Jurnee,130 Lanier Dr Apt 420,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200518,8137067401,Dazzle Nails,430 Northside Dr #162,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200522,2204317800,"180 Fitness, Llc",4A College Plaza,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200525,2763697805,Jennifer P Sikes,19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200515,7111947402,Victoria Family Practice,23 Lester Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200519,8519527403,"Boro Martial Arts Centers, Inc.",977 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22300,1
-1970-01-01 00:00:00.020200522,2108887807,Northside Lawn Care,310 Eight Point Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18200,1
-1970-01-01 00:00:00.020200519,8700867405,"Backwoods Armory, Llc",17849 Us Hwy 80 E,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",27500,1
-1970-01-01 00:00:00.020200518,7888087403,El Dixon'S Algorthim Llc.,138 Peachtree Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6000,1
-1970-01-01 00:00:00.020200519,8970587404,John A Dotson Jr,776 Westside Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200521,1480457809,"Up Market Media, Inc.",100 Brampton Ave Suite 2 F-B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",30000,1
-1970-01-01 00:00:00.020200518,8231287404,"Tam Con, Llc",124 Savannah Ave Suite 1B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22100,1
-1970-01-01 00:00:00.020200518,7916297405,Bleu Blush Boutique,100 Brampton Avenue Suite 1 E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",56000,1
-1970-01-01 00:00:00.020200526,3548097804,Grill Masters Pig Rig,2787 Ball Park Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200518,7694267400,"Melissa A. Rhodes, Cpa, Pc",3111 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
-1970-01-01 00:00:00.020200521,1638017807,J Barnes And Associates Llc,27 Hill Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",44000,1
-1970-01-01 00:00:00.020200606,8769907805,Jones Concrete Constuction,4165 Banks Creek Church Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",36500,1
-1970-01-01 00:00:00.020200606,8670257800,Built By Pioneer Llc,19 Courtland Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",97700,1
-1970-01-01 00:00:00.020200516,7467837405,Brians Diesel Performance,19397 Highway 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200518,7915977406,Cain'S Dairy Barn Llc,108 E Lee Street,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",21000,1
-1970-01-01 00:00:00.020200606,8740967808,"Strickland Concrete, Llc",3048 Nessmith Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",42900,1
-1970-01-01 00:00:00.020200518,7643297409,Big Time Events,375 Pretoria Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7900,1
-1970-01-01 00:00:00.020200606,8741127805,Weswolf Transportation,17 Henry St.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9600,1
-1970-01-01 00:00:00.020200525,2652407807,Edwin J. Graham,1535 Northside Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6000,1
-1970-01-01 00:00:00.020200518,7637547405,"An Thanh, Vo",6403 Marissa Ct,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",97500,1
-1970-01-01 00:00:00.020200606,8768277804,Reynolds Property Holdings Llc,406 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11000,1
-1970-01-01 00:00:00.020200518,8163807402,Frederick A Johnson Jr,301 Pretoria Rushing Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7400,1
-1970-01-01 00:00:00.020200519,8636687404,Sugar Magnolia Bakery & Cafe Inc,106-C Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200525,2913247806,Sacred Space Yogi Llc,116 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24500,1
-1970-01-01 00:00:00.020200519,8805527404,"Brannen Millwork Corporation, Inc.",3379 Ga Highway 46,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200518,8111357407,Justin Peay Productions Llc,19 Courtland Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",102500,1
-1970-01-01 00:00:00.020200518,7662837400,"Just Scott Designs, Inc.",1 S Main St,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200520,9605377407,Carnivore Club Llc,2603 Old Mill Way,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",67100,1
-1970-01-01 00:00:00.020200518,7848237406,"Statesboro Hospitality, Llc",126 Rushing Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",149500,1
-1970-01-01 00:00:00.020200518,7802897410,Vishu Inc,225 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200518,7856777404,Kamden Realty And Associates Inc,1827 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3500,1
-1970-01-01 00:00:00.020200519,8813787401,Misyte.Com,314 Pebble Stone Trl,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11900,1
-1970-01-01 00:00:00.020200526,3539447800,"Right Lane Transportation, Llc",108 Hendrix St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",44000,1
-2020-06-23 00:00:00.000000000,1789798005,"Blair & Hitchens, Llc",4A College Plaza,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",1200,1
-2020-06-11 00:00:00.000000000,2296107901,"Statesboro Woodfire, Llc",807 S Main St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",150000,1
-2020-06-24 00:00:00.000000000,2206888001,Mr. Randy'S Beauty  & Barbar,141 West Parrish St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",7200,1
-2020-06-20 00:00:00.000000000,9572507902,Jdc  Transport Enterprises Llc,16253 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,30461,12,Coastal,44340.0,"Statesboro, GA",55500,1
-1970-01-01 00:00:00.020200617,6551387900,Ashley N Webb,9695 Clito Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200622,9890207901,Canoochee Cabin Rentals,3399 Nevils Daisy Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13800,1
-1970-01-01 00:00:00.020200616,4826747902,"Cannon Contracting, Inc.",812 Kennedy Bridge Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58800,1
-1970-01-01 00:00:00.020200612,2665197902,The Flowergirl,25 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
-1970-01-01 00:00:00.020200612,3552407902,"Lapond Holdings, Llc","1221 Merchants Way, Suite 301",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",88800,1
-1970-01-01 00:00:00.020200611,2087617905,"Srs Developers, Llc",8823 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19800,1
-1970-01-01 00:00:00.020200616,3897157905,"University Tire & Service Center, Inc",1723 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,7132237901,Paradox Studios,130 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7400,1
-1970-01-01 00:00:00.020200611,1851427909,"Red Barn Rentals, Llc",318 Nevils-Denmark Road,Nevils,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200617,7509797906,Joseph Harrell,840 Buckhead Drive Suite E.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
-1970-01-01 00:00:00.020200611,1844337908,"Love'S Childcare Services, Inc.",503 Denmark Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
-1970-01-01 00:00:00.020200616,5317847904,Murphy'S Construction,585 Foxboro Ln,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21600,1
-1970-01-01 00:00:00.020200617,6282037901,Vickers Enterprises Ltd,1015 Cobb Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63700,1
-1970-01-01 00:00:00.020200617,6333807908,David Pierson,60 Hawthorne Apts,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6200,1
-1970-01-01 00:00:00.020200617,5865217904,Leasha Mccollum,8005 Kennedy Bridge Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4100,1
-1970-01-01 00:00:00.020200625,3569468008,Fourteen Llc,62 East Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33000,1
-1970-01-01 00:00:00.020200624,2948848010,B&B Industrail Llc,1346 Rabbit Run,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200616,3973227905,Franklin Foods Llc,"127 North Main Street, Ste 101",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24800,1
-1970-01-01 00:00:00.020200625,4183338006,Michael Mercer,500 Acorn Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1900,1
-1970-01-01 00:00:00.020200611,1854967902,"Tru Source Contracting, Llc",622 Waverly Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",90000,1
-1970-01-01 00:00:00.020200624,3237228010,The Spirit And Truth Worship Center,63 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200611,2028437910,Sgbs Holdings Llc,606B Brannen St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200625,4249328007,Rideau Enterprise,331 Broad Street Apt A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200625,3339288007,Shannon Heard,2306 Franklin Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200616,3722367907,Market District Center Msb Llv,106 Lancaster Point,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39600,1
-1970-01-01 00:00:00.020200618,7722977900,Gary Bustle Painting,1540 Adabelle Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200625,3990358003,"Jebs, Inc",8550 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,3710557908,Academy Of Hope,831 Miller Street Extension,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,7195737906,"Greg Sikes, Llc",19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",136100,1
-1970-01-01 00:00:00.020200620,9528617903,Explore Inc,2760 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200617,7260187904,Vpt Enterprises Llc,110 Pineneedle Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200610,1453957909,"Golden Rule Construction, Llc",1221 Merchants Way-Suite 301,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200624,2460868001,"Amerimex Masonry, Inc.",302 Donehoo St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",88100,1
-1970-01-01 00:00:00.020200611,2184987902,"Joan Elizabeth  (Beth) Hall, Realtor",18 Lindberg St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
-1970-01-01 00:00:00.020200622,1606458006,"He & Le Transport, Llc",35 Hagin Connector,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",27800,1
-1970-01-01 00:00:00.020200618,7655167903,"Crisis Support Solutions, Llc",326 Myrtle Crossing Dr Ste 200,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22900,1
-1970-01-01 00:00:00.020200612,2824027906,"G8, Llc",421 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",56000,1
-1970-01-01 00:00:00.020200612,2833117900,Southern City Lounge Inc,25 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12900,1
-1970-01-01 00:00:00.020200616,5286347903,Lkp Investments Llc,308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",67000,1
-1970-01-01 00:00:00.020200617,5556897905,Shake Group Llc,2603 Old Mill Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
-1970-01-01 00:00:00.020200624,2794148008,Sonya Sapp,105 Westlake Dr # I,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15300,1
-1970-01-01 00:00:00.020200610,1076727903,"Southern Legacy Holdings, Llc",1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200611,2101497903,"Statesboro Rental Systems, Inc.",8823 Hwy 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200611,2154537906,"Cason Enterprises, Llc",16789 Us Hwy 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",86900,1
-1970-01-01 00:00:00.020200610,1577277908,Sai Jarv Llc,2875 U.S. Hwy 301 S.,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
-1970-01-01 00:00:00.020200619,8998137901,"Statesboro Children'S Dental Center, Pc",1501 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
-1970-01-01 00:00:00.020200618,7981847901,Deal Farms Inc,13487 Clito Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200625,3414838007,"Nelson Forestry & Appraisal, Llc",909 Monaarch Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6800,1
-1970-01-01 00:00:00.020200616,5344677907,"Holloway Law Firm, Pc",3268 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",77500,1
-1970-01-01 00:00:00.020200616,4834627901,Precise Kutz,406 Fair Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
-1970-01-01 00:00:00.020200610,1010017910,"Residential Venture Group, Llc.",108 Towhee Trl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
-1970-01-01 00:00:00.020200611,2152877910,"Cason'S Auto Service, Inc.",16789 Us Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,6153657903,"Georgia'S Hauling, Llc",1266 Lanes Church Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",59200,1
-1970-01-01 00:00:00.020200620,9531227905,Georgia'S Best Transportation Llc,9019 Oakfield Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
-1970-01-01 00:00:00.020200612,3148737905,Jj And L Logistic Specialist Llc,110 Becky Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16000,1
-1970-01-01 00:00:00.020200625,4103498009,"Stafford Law Group, Llc",117 South Zetterower Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,6042007904,Bold Transit Llc,20 Henry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18500,1
-1970-01-01 00:00:00.020200618,7615207908,"Blair & His Sacks, Llc",121 Debbie Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6600,1
-1970-01-01 00:00:00.020200617,6552437904,Bet Black Enterprise Trucking Llc,3057 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",80100,1
-1970-01-01 00:00:00.020200619,9193397906,Statesboro'S Best Running,"1098 Bermuda Run, Suite 5",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",53700,1
-1970-01-01 00:00:00.020200610,1020677902,The Painted Chef,300 Rocky Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30500,1
-1970-01-01 00:00:00.020200610,1001937902,"Long Company Limited, Llc.",108 Towhee Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3000,1
-1970-01-01 00:00:00.020200612,2932217901,Juliette Hart,3767 Rushing Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",2900,1
-1970-01-01 00:00:00.020200624,2598668003,Brooke Mercer,309 Denmark St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29500,1
-1970-01-01 00:00:00.020200617,6031317908,Hello Cellular Llc,22925 U.S. Highway 80 E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39300,1
-1970-01-01 00:00:00.020200610,1291817909,Wre Enterprises,18129 Us Highway 301 N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",85000,1
-1970-01-01 00:00:00.020200612,2946597900,G8 State Llc,240 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",81000,1
-1970-01-01 00:00:00.020200610,1155347905,William Craig Dba Craig Construction,67 Lagoon Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200610,1157767906,Integrated Power Connections Llc,2062 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",20000,1
-1970-01-01 00:00:00.020200611,2264887907,"Sci Construction, Inc.",151 Rolling Hills Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",67300,1
-1970-01-01 00:00:00.020200619,9083317903,The Barn Mobile Home Estates,12161 Hwy 301 South,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
-1970-01-01 00:00:00.020200616,3833317906,Marsha Foster Warren - Counseling Associates  Of Statesboro,13 B South Mulberry Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200610,1253747900,Om And Eva Inc,10907 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68400,1
-1970-01-01 00:00:00.020200617,7057937909,Coastal Georgia Real Estate Llc,3047 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24500,1
-1970-01-01 00:00:00.020200610,1259167904,"Mattco Forestry Services, Llc",30130 U.S. Hwy. 80 West,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200610,1159277905,"Qcf Construction, Inc.",137 Middle Ground Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38000,1
-1970-01-01 00:00:00.020200625,3537358005,Kingdom Transportation & Logistics L.L.C.,63 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38000,1
-1970-01-01 00:00:00.020200617,5717087900,Salon Arreis,210 S Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
-1970-01-01 00:00:00.020200612,3484197908,Ronald A Jackson,4932 Old River Rd N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73300,1
-1970-01-01 00:00:00.020200616,3862007906,Big Bad Wolf Inc,505 N Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40100,1
-1970-01-01 00:00:00.020200625,4241008000,Daeshon Figaro,727 Ogeechee Drive East Lot B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",27600,1
-1970-01-01 00:00:00.020200616,4489957904,Meraki Artistik Hair Gallery,304 S Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12000,1
-1970-01-01 00:00:00.020200625,4225728004,God'S Way Trucking Llc,806 Maple Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200616,4555067907,Shelistens,100 S Jackson Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200617,5937517900,Tranzboro Consultants Llc,104 Wilburn Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18000,1
-1970-01-01 00:00:00.020200617,6891837900,Little-Steps Llc,113 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25600,1
-1970-01-01 00:00:00.020200624,2525928008,"Byron Davis Trucking, Llc",4209 Two Chop Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,6558077904,Linda'S Salon,101 Parker Ave.,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7900,1
-1970-01-01 00:00:00.020200616,3988917903,"Beasley Well Drilling And Pump Service, Inc",375 Gordon Beasley Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63500,1
-1970-01-01 00:00:00.020200612,3456247902,"Accutaxusa, Llc",418 S Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",95500,1
-1970-01-01 00:00:00.020200612,3466767909,"Hodges Painting Plus, Inc.",206 Skye View Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6200,1
-1970-01-01 00:00:00.020200622,1042288007,Florence  &  Son Trucking,12800  Burkhalter Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58000,1
-1970-01-01 00:00:00.020200616,4067777909,"Fresh Start Counseling Service, Llc","320 Myrtle Crossing Drive, Suite 200",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6800,1
-1970-01-01 00:00:00.020200624,2471098001,Jarvis R. Barnes,27 Hill St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
-1970-01-01 00:00:00.020200625,3974178008,Drb-Believes Llc,1 S. College St #132,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200612,3527967904,"Seaworthy Investments, Llc",1221 Merchants Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",56000,1
-1970-01-01 00:00:00.020200625,4283758000,Get Fly Supply Shop Llc,1401 Statesboro Place Cir Apt 480Y,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
-1970-01-01 00:00:00.020200625,3438948010,Shanika Childers,115 Garfield Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",23700,1
-1970-01-01 00:00:00.020200625,3619888004,City Campus Llc,62 E Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
-1970-01-01 00:00:00.020200617,6394627906,Terence R. Stephens Jr.,2026 Glen Oaks Drive,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",77000,1
-1970-01-01 00:00:00.020200625,3336498005,Swaine H Nichols Jr,618 Pear Orchard Ln,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
-1970-01-01 00:00:00.020200625,4139818000,Spot 73 Llc,62 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
-1970-01-01 00:00:00.020200618,8680437908,Ekc Trucking Llc,16253 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200624,2318968006,"Kayce Williams, Inc.",127 Alexander Farms Road East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26000,1
-1970-01-01 00:00:00.020200622,1069528007,Level Up Sports Academy,1191 Sarahlyn Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200616,4296047906,Marty Beasley Farms,375 Gordon Beasley Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7900,1
-1970-01-01 00:00:00.020200616,5293647908,Contract Provider,9006 Oakfield Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200619,8791517900,Anthony Schubert,416 Small Pond Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200617,5561027907,Precision Machine & Indexable Tool Inc,1221 Bell Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200616,5122537905,Regina Graham,2680 Northside Dr W,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12300,1
-1970-01-01 00:00:00.020200622,1368238003,"Lee'S Plumbing, Inc",4083 Mill Creek Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,5631107903,Pro-Tech'S Toolbox,2899 J S Nesmith Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30400,1
-1970-01-01 00:00:00.020200625,3769628002,Arlene Johnson,125 Gentilly Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29600,1
-1970-01-01 00:00:00.020200617,6088427907,Ms Tire Company,26351 Us Hwy 80 West,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19900,1
-1970-01-01 00:00:00.020200623,1862118008,Magnolia South Photography,118 Turkey Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
-1970-01-01 00:00:00.020200620,9700627909,Kingdom Cuts Shop & Salon,63 East Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
-1970-01-01 00:00:00.020200618,8205207910,Tina'S Haircuts Llc,35 West Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9900,1
-1970-01-01 00:00:00.020200617,7386627900,Nicole Donaldson,675 Martin Luther King Jr Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
-1970-01-01 00:00:00.020200618,8268907905,Jeffery Lee Deal,13487 Clito Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200625,3364698003,Charlene Nunnally,10 Henry St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",35000,1
-1970-01-01 00:00:00.020200617,6921287903,B&B Masonary,253 Trog Polk Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",36000,1
-1970-01-01 00:00:00.020200616,4277487903,C N C Contruction,108 Stratford St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11400,1
-1970-01-01 00:00:00.020200616,4036037907,"South Georgia Family Medicine Associates, Pc",1203 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200612,3240537907,"Coffey Realty, Llc",5440 Sinkhole Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7200,1
-1970-01-01 00:00:00.020200616,4845857906,Magnolia Baptist Church,720 Magnolia Church Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",47000,1
-1970-01-01 00:00:00.020200619,8980877902,"Hunter Cattle Company, L.L.C.",934 Driggers Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,5362457904,Todd A Sarratt Inc,106 Ramblewood Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10900,1
-1970-01-01 00:00:00.020200612,3321967909,Salon Solstice,829 Buckhead Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20200,1
-1970-01-01 00:00:00.020200617,7311407910,Aurelia Creatives Llc,45 Courtland St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5900,1
-1970-01-01 00:00:00.020200624,2743658008,Flamekissed Enterprises Llc,2120 Aaron Station Rd # 1,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",100300,1
-1970-01-01 00:00:00.020200616,3951457903,Statesboro Medical Group,1176 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200617,5517897902,Southern Bars Llc,125 Gata Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200622,1228838004,"Advanced Valve & Instrument, Inc",106 Rayborn Anderson Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,5252987909,Michael M. Horn,141 Hazelwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4200,1
-1970-01-01 00:00:00.020200622,9965377901,Trinity Revival Worship Center,110 Parker Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
-1970-01-01 00:00:00.020200612,2637547903,Mcwindows,744 Brookwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17800,1
-1970-01-01 00:00:00.020200624,3201578008,Three Tree Coffee Llc,441 S Main St Ste 1A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",182100,1
-1970-01-01 00:00:00.020200624,2187318009,"Bak Builders, Llc",450 Mathews Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200617,6569607903,Franklin Farms & Apiary,388 Old Thorn Pond Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",70900,1
-1970-01-01 00:00:00.020200616,3838327908,South Georgia Framers Inc,3041 Williams Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200618,8274637903,"Lis Enterprises, Llc",314 Pebble Stone Trl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60100,1
-1970-01-01 00:00:00.020200617,6478757907,Signature Home Solutions Llc,9029 Whispering Pine Blvd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14800,1
-1970-01-01 00:00:00.020200624,2193668005,"B&T Transportation,Llc",1405 Seagull Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
-1970-01-01 00:00:00.020200619,8964117908,Ginger Dianne Barnard,6931 Mud Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6400,1
-1970-01-01 00:00:00.020200618,7861437902,Sportsman'S Safari Llc,501 St Andrews Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19500,1
-1970-01-01 00:00:00.020200617,6487067903,Ryan Family Chiropractic,303 Donehoo St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200619,8828467903,Marsh Cabon Bakery,105 Deer Crossing Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",35700,1
-1970-01-01 00:00:00.020200616,4160597908,"Bj Adventures, Inc.",415 West Parrish Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200622,1574988006,"Ricky Lane, Dds Pc",1066 Bermuda Run,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200625,3364568010,Victoria Howard,303 Aldred Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",32800,1
-1970-01-01 00:00:00.020200616,5132797906,First Source Logistics Llc,462 Youngblood Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,4343437909,"Pulaski Villas, Llc",2095 Hood Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",121800,1
-1970-01-01 00:00:00.020200624,2962738008,No Talk White Chalk Publishing Llc,204 Canterberry Pl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",103200,1
-1970-01-01 00:00:00.020200616,4751507905,"Klt Flooring, Inc.",9015 Whispering Pines Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200624,3171688004,Billy Prescott,563 Kendricks Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58700,1
-1970-01-01 00:00:00.020200616,4772907906,Logan Lin Enterprises,430 Northside Drive East #168,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,4136357906,"Edenfield Law, Llc","201 S. Main St., Suite C",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
-1970-01-01 00:00:00.020200616,3703667908,"Blount Property Group, Llc",106 Lancaster Pt,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
-1970-01-01 00:00:00.020200616,4448517905,Baby Grand Music,18 Carver St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
-1970-01-01 00:00:00.020200619,9173197908,Ana L Escutia,520 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8200,1
-1970-01-01 00:00:00.020200619,8912017900,Mpressive Slayz N Fadez,35 East Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6000,1
-1970-01-01 00:00:00.020200618,7790847909,Vlfg Statesboro Llc,1525 Fair Rd Ste 101,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38200,1
-1970-01-01 00:00:00.020200616,4355787906,Reema Inc,1495 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73700,1
-1970-01-01 00:00:00.020200619,8729877902,Thegoodsarehere15,100 Bermuda Run Apt A1,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
-1970-01-01 00:00:00.020200620,9667587907,William Ellis,3007 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5100,1
-1970-01-01 00:00:00.020200617,6182967901,Legree-Parks Business Services,205 Maple Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2800,1
-1970-01-01 00:00:00.020200622,1416148006,Southeast Turf Equipment Inc,1005 Cobb Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200616,5416647909,"Oleander Management, Llc",308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7700,1
-1970-01-01 00:00:00.020200616,3835197900,"Titan Turf, Llc",321 Sam Tilman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,4819657901,Fire Cannon Llc,812 Kennedy Bridge Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,4316567907,Blue Phoenix Tattoos & Piercings Llc.,2098 Northside Drive E.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
-1970-01-01 00:00:00.020200617,5933317902,D & H Auto Detail,508 East Olliff St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19100,1
-1970-01-01 00:00:00.020200616,4231407906,Sharp Engineering Llc,27175 Hwy 80,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7300,1
-1970-01-01 00:00:00.020200616,4203367910,Hammond Freight Llc,723 Brookwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200617,6002987900,Kelly Harrigan,"1818 Chandler Road, #48",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8300,1
-1970-01-01 00:00:00.020200617,7325467907,Ogeechee Area Hospice Inc,200 Donehoo St.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200620,9617987900,"East Georgia Civil, Inc.",9384 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200617,6556967907,Southern Sound Inc.,607 Brannen St Ste 6B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2700,1
-1970-01-01 00:00:00.020200620,9607697903,"Tippins-Polk Construction, Inc.",9384 Hwy 301 South,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,3678687900,"357 Global Logistics, Llc",10 Henry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",45900,1
-1970-01-01 00:00:00.020200617,6461007909,"Cottonham Plantation, Llc",280 Sinkhole Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9900,1
-1970-01-01 00:00:00.020200618,7737717906,"Mercer Tax Solutions, Llc",309 Denamark Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200617,7404957910,Foundry Broadcasting Llc,561 East Olliff Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79600,1
-1970-01-01 00:00:00.020200618,7795677905,Tilltrans Llc,2205 Rocky Ford Rd,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",49000,1
-1970-01-01 00:00:00.020200617,6095077907,"Elite Cnc Routing & Woodworks, Llc",4841 Emit Grove Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7600,1
-1970-01-01 00:00:00.020200618,8333537909,D Phenomenal Transportation,4549 Mud Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26700,1
-1970-01-01 00:00:00.020200616,5165917901,J Robinson Construction Inc,209 Church St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200622,9969347900,Ladonna Mccollum,440 Wigfall Rd,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1900,1
-1970-01-01 00:00:00.020200616,4699387908,"J L J Robinson, Llc",209 Church St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38400,1
-1970-01-01 00:00:00.020200617,7026797901,"Akins Farms, Inc.",7171 Mud Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",61400,1
-1970-01-01 00:00:00.020200616,5101777908,Dwb Services Llc,2031 Cypress Lake Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200617,5895767906,Covey Rise Enterprises Llc,241 Sawgrass Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5500,1
-1970-01-01 00:00:00.020200617,6350137910,Simply Movin 13 Llc,100 Becky Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17500,1
-1970-01-01 00:00:00.020200622,1599448004,"Jb Kennedy & Associates, Llc",314 S. Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200619,8984147903,No Talk White Chalk Llc,204 Canterberry Place,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",36700,1
-1970-01-01 00:00:00.020200616,4442517904,Ralph Geech Company,3154 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200616,4257597904,Miranda Fincher,131 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16900,1
-1970-01-01 00:00:00.020200623,1948348008,Dc Roofing Inc,1 South College  St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7300,1
-1970-01-01 00:00:00.020200624,2749898000,Southern Billiards And Burgers Inc.,200 Lanier Dr Ste 2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200623,1702398001,"Kat Clearing And Excavation, Llc",73 Nessmith Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
-2020-06-26 00:00:00.000000000,4708338010,"Eve'S Shanty, Llc","1100 Brampton Avenue, Suite J",Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",150000,1
-2020-07-23 00:00:00.000000000,7252908107,Ksk Trucking And Logistics,1868 Mike Brannen Rd,Register,13031,Bulloch County,GA,30452,12,Coastal,44340.0,"Statesboro, GA",7000,1
-2020-07-16 00:00:00.000000000,4563018104,Masters Den Barbershop,28 Easy St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
-2020-07-06 00:00:00.000000000,9047598001,Psm14 Inc,898 Lakeview Rd,Statesboro,13031,Bulloch County,GA,30461,12,Coastal,44340.0,"Statesboro, GA",58000,1
-2020-06-29 00:00:00.000000000,5730228002,Stouthouse Media,139 Hazelwood Drive,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",20000,1
-1970-01-01 00:00:00.020200702,7606968003,Lewis & Sons Auto & Towing Inc,410 Marin Luther King Jr. Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",44700,1
-1970-01-01 00:00:00.020200716,4347168109,"Raven Construction & Consulting, Inc.",928 Lillie Hagan Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",100300,1
-1970-01-01 00:00:00.020200630,6815208000,Gulimed,100 Lanier Dr Unit 24,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",125000,1
-1970-01-01 00:00:00.020200702,7605648010,Sabrina Hunter,36 Cypress Lake Mtp,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
-1970-01-01 00:00:00.020200714,2991648102,Keenan Lewis-Jolly,130 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26500,1
-1970-01-01 00:00:00.020200627,5095278006,Ddb Trucking,23 Woodrow Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200715,4006728102,Osaze Okunbor,"10 Packinghouse Road, Apt 404",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1900,1
-1970-01-01 00:00:00.020200711,1901708110,"Coastal Equities, Inc.",127 N Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50700,1
-1970-01-01 00:00:00.020200722,6778938105,"Kendall M. Griffith Md, Llc","1497 Fair Rd, Suite 311",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200701,7378638006,Tyra Jones,59 Chance Trlr Park,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",20500,1
-1970-01-01 00:00:00.020200715,3992558106,Mosley'S Solutions Llc,317 North College St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
-1970-01-01 00:00:00.020200713,2856048107,"Statesboro Motor Lodge, Inc.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79100,1
-1970-01-01 00:00:00.020200715,3637118109,Ken Lynch,125 Melrose Pond Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200707,9247268001,Professional Mobile Repair,1826 Old Carriage Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200715,4078168110,Lil Trawler Seafood Llc,19204 Highway 46,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",70000,1
-1970-01-01 00:00:00.020200723,7207628107,Carlos Ramon Grant,636 Anderson Parrish Rd,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",125700,1
-1970-01-01 00:00:00.020200711,1766188105,"Alpha Southern Downs, Llc",710 Georgia Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200630,6183338005,Delandry Tanner,6986 Rushing Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
-1970-01-01 00:00:00.020200706,8811728005,Frank  Lott,106 A West Inman Streetgreen Fot,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200702,7658328001,Dina Diefenbach,2795 Brooklet Denmark Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7500,1
-1970-01-01 00:00:00.020200708,9607538004,"Statesboro Psychiatric Associates, Pc",116 Hill Pond Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200709,1309908101,2Jtechnology Inc,1 S College St # 132,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200715,4096118110,"67 Styles Salon, Inc.",25 N Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",58900,1
-1970-01-01 00:00:00.020200708,9924438002,Richard Murray Inc.,95 Creasyville Ln,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",39000,1
-1970-01-01 00:00:00.020200707,9468268005,Sai Ram Managment Inc,1870 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",126300,1
-1970-01-01 00:00:00.020200703,8161308005,D.O.N.  Systems Inc,59 Golf Club Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",69800,1
-1970-01-01 00:00:00.020200706,8548018006,Kar Kings,102  Lynda Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200708,9810128005,Selah Underwood,596 Kyle Sorrell Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
-1970-01-01 00:00:00.020200706,9024288010,Russ Lanier Cpa Pc,201 S. Zetterower Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",85000,1
-1970-01-01 00:00:00.020200706,8960918007,Rjt Ventures Inc,1513 Sugarberry Court,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",55400,1
-1970-01-01 00:00:00.020200713,2864968101,Denmark & Brown Pc,123 N Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200707,9132618010,Shamika Jackie,1150 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200713,2645518106,"Crossfit Boro, Llc",1263 Ss Railroad Bed Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200713,2866948110,"Will Anderson Farms, Inc.",21 W Anderson Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200629,5759608002,Donnell Jackson,238 Frink Rd  Lot 15,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
-1970-01-01 00:00:00.020200701,7426528003,J D Heating And Air Inc,21249 Hwy 301 North,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",110000,1
-1970-01-01 00:00:00.020200708,9883978003,April Fletcher,114 Nottingham Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
-1970-01-01 00:00:00.020200627,5134918001,Dazha'S Cleaning Service,112 College Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200701,7576578002,Dabbs-Williams General Contractors Llc,319 S. Walnut Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",101200,1
-1970-01-01 00:00:00.020200706,8841868002,South Georgia Pediatrics Pc,1230 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200715,3962358104,Benoit Janvier Jr.,1 S College St Unit 2487,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2600,1
-1970-01-01 00:00:00.020200702,7619008007,Trent Grooms Trucking,4357 Mallard Pond Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
-1970-01-01 00:00:00.020200703,8136358007,Hendrix Auto Machine Shop,233 N. Zetterower,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",35500,1
-1970-01-01 00:00:00.020200715,3997148100,Tps Maintenance Solutions,9998 Akins Pond Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17800,1
-1970-01-01 00:00:00.020200715,3988858110,Sherier Harris,6 Cypress Lake Trailer Park,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6900,1
-1970-01-01 00:00:00.020200713,2740168106,"Anjk, Inc",3443 Middle Ground Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68300,1
-1970-01-01 00:00:00.020200714,3464878104,Chanelle Barnes-Scott,3211 Pike Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
-1970-01-01 00:00:00.020200706,8764728001,Maria Miller Dba: Baby Steps Intervention,9017 Oakfield Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9400,1
-1970-01-01 00:00:00.020200706,8969868001,Michelle Zeanah Md Pc,406 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200714,3408148103,Xtremeteam Kleening Llc,910 Hawk Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13500,1
-1970-01-01 00:00:00.020200714,3485668110,"H. Lehman Franklin, P. C.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200703,8138188008,Jacorey Foy,130 Lanier Dr Apt 311,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
-1970-01-01 00:00:00.020200708,9550788007,Holly Hamilton Dba Ralph'S Diner,3059 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",42100,1
-1970-01-01 00:00:00.020200713,2649498110,Stacey Grant,202 Stillwater Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2800,1
-1970-01-01 00:00:00.020200627,5164118009,Prossers Seafood,110 Railroad Street,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200629,5971038005,Dennis Bennett,113 Garfield St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",46200,1
-1970-01-01 00:00:00.020200713,2311568110,"Davis Duggan Real Estate, Llc.",22 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200629,5413388000,Lindsey Morgan Photography Llc,200 Tavern Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200706,8814678009,Nickson Filistin,218 Cone St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5600,1
-1970-01-01 00:00:00.020200714,3192338101,The Islands Of Statesboro Llc,104 Aruba Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",53800,1
-1970-01-01 00:00:00.020200629,5716378005,China Braiding And Styles,1822 Chandler Road Apt 54,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200629,5960218005,Jeremy O'Brian Bell Sr,600 Ogeechee Dr W,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63000,1
-1970-01-01 00:00:00.020200703,8213458007,Carolyn J Schmidt,2301 Glen Brook Xing,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41300,1
-1970-01-01 00:00:00.020200704,8383058008,K And M Hauling,316 Longwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",34000,1
-1970-01-01 00:00:00.020200629,6058268009,Todd Bridges,62 E. Main Suite 1027,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",32000,1
-1970-01-01 00:00:00.020200714,3472848106,Jacob Boan,8 Pate Place,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",23200,1
-1970-01-01 00:00:00.020200702,7697378008,Leobardo Nevarez,719 S Main St #200,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200629,6009828004,"Tab'S Tires, Llc",173 Jimps Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200702,7643468005,Eugene Jr Gatson,219 Stonebrook Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4200,1
-1970-01-01 00:00:00.020200709,1259748102,Deloach Diesel Service,8983 Us Hwy 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",93700,1
-1970-01-01 00:00:00.020200701,7301658003,Simplified Flooring Llc,135 Kent Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",55500,1
-1970-01-01 00:00:00.020200703,8323138006,Adarson Farm,227 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200629,5707498004,Lonnie Gaines,416 T Perkins Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
-1970-01-01 00:00:00.020200715,3669688110,"Flynt Logistics, Inc.",2202 Madisea Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68800,1
-1970-01-01 00:00:00.020200626,4988578005,Jada Scott,91 Wilma Brown Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200701,7362898009,Coastal Taxes & Business Solutions,14 Mcphatters Lane,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",8600,1
-1970-01-01 00:00:00.020200629,5885498007,Crystal M Clarke,1280 Williams Road,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",5800,1
-1970-01-01 00:00:00.020200715,4106998110,Shalonda Raymond,804 Crane Lane,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",7700,1
-1970-01-01 00:00:00.020200626,4559158010,Plan C Investments,308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
-1970-01-01 00:00:00.020200715,3672098100,Its All About The South Clothing Llc,212 Spotted Fawn Rd N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7800,1
-1970-01-01 00:00:00.020200715,4071478106,Asia Lonon,620 E Olliff St Apt 11,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200626,4354468005,Randy Chambers,806 Maple Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
-1970-01-01 00:00:00.020200715,3734938110,"Dj Investment Properties, Llc",430 Bohdler Rimes Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200711,1590228110,Unpopular Chic,409 Canary Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200701,7449838005,Hue Doan,99 Grady Johnson Road #48,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6000,1
-1970-01-01 00:00:00.020200707,9266698007,Victoria Mikell,566 E Main St Apt H2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
-1970-01-01 00:00:00.020200702,7964138001,Donald Ashton Jones,212 Bel Air Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200709,1055478102,Whw Group Llc,3154 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",33600,1
-1970-01-01 00:00:00.020200713,2466218104,Youngs Paint And Body,109 Harvey Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200713,2882758101,Douglas Reid Anderson,21 W. Anderson Rd.,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200711,1731158107,One Man & A Truck Llc,208 Stonebrook Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19500,1
-1970-01-01 00:00:00.020200702,7655618010,Kendra Mack,104 B Lindsay Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16000,1
-1970-01-01 00:00:00.020200708,9994638009,Wilpro Preservation Llc,7101 Stilson Leefield Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
-1970-01-01 00:00:00.020200711,1823028100,In Home Living Assistant,18 Braswell  Homes,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
-1970-01-01 00:00:00.020200713,2181138100,Georgia Epsilon Southeast Georgia Phi Delta Theta Alumni Association,103 Cambridge Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12500,1
-1970-01-01 00:00:00.020200706,8882848003,"New South Development, Llc",9384 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13800,1
-1970-01-01 00:00:00.020200715,3871028104,Robinson Electric,4872 Blue Driggers Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",53300,1
-1970-01-01 00:00:00.020200713,2434208107,Welch Photography,625 Bragan Rd Lot 13,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
-1970-01-01 00:00:00.020200630,6475338007,Patricia Dussie,727 Ogeechee Dr East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73200,1
-1970-01-01 00:00:00.020200703,8112138006,Wkdk Trucking Inc,11 Allen Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
-1970-01-01 00:00:00.020200702,7797748009,Keystone Heavy Equipment Inc,1955 Woodyard Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200702,7734998006,Bennett Transportation And  Supply,1115 Southbend Dr Apt A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4500,1
-1970-01-01 00:00:00.020200702,7718728006,"Jlw Holdings One, Llc","1219 Merchants Way, Suite 101",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24600,1
-1970-01-01 00:00:00.020200706,8821508002,"Holloway Family Properties, Llc",780 Mcelveen Pond Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79000,1
-1970-01-01 00:00:00.020200707,9273208009,Susan Harrison,503 Ansley Ct.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29700,1
-1970-01-01 00:00:00.020200702,7956778005,Chris Deloach Trucking,2000 Oakridge Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39500,1
-1970-01-01 00:00:00.020200716,3323557200,"Custom Fiberglass Manufacturing, Inc",104 Rushing Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",-500000,1
-1970-01-01 00:00:00.020200707,9223418004,Evans Express Llc,812 Woods Hole Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",116600,1
-1970-01-01 00:00:00.020200713,2454468101,Sharmonique Easterling,23387 Highway 80 E  Apt. A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",11500,1
-1970-01-01 00:00:00.020200630,6763708005,Jennifer Tatum Cpa Llc,1207 Shasta Ct,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9300,1
-1970-01-01 00:00:00.020200703,8168118010,Hollywood'S Barbershop,703A Pats Ln,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",31000,1
-1970-01-01 00:00:00.020200709,1405168104,Ulanda Jenkins,100 Woodland Dr Apt 624,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1300,1
-1970-01-01 00:00:00.020200701,7104678010,Debra Lovett,238 Frink Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200713,2063018109,Dba Scott'S Floor Covering,507 Marvin Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",55700,1
-1970-01-01 00:00:00.020200629,5831848010,"Fairy Tale Tents, Inc",1547 Morgan Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
-1970-01-01 00:00:00.020200711,1550158108,Victor Ray Hockaday 11,133 Laner Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200721,6186278104,Couture Formalwear Llc,430 Northside Dr E Ste 160,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24900,1
-1970-01-01 00:00:00.020200721,6205438100,Maria A Proctor,607 Waverly Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18500,1
-1970-01-01 00:00:00.020200721,6178438104,Manor Landscaping,377 Everett Ln,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200709,1293988108,Sell House To Us Llc,129 E Lee St # 831,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200720,5530078109,"Bethany Assisted Living, Inc",77 Bethany Way,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200713,2854978100,Diamonds And Pearls,801 Crane Lane,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",17500,1
-1970-01-01 00:00:00.020200717,4820708101,"Yolo Foods, Llc",52 Aspen Heights Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200706,8883848005,"Gmd Services, Inc.",44 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200717,4869938101,Unforgettable Edibles,408 Granade St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200701,7327528008,Rare Ivy,2048 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200723,7635078104,Tru Hair Palace Inc,3 Simmons Shopping Center,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",47600,1
-1970-01-01 00:00:00.020200709,1141188105,Larita & Company,14 Fairway Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",94000,1
-1970-01-01 00:00:00.020200711,1531888109,Magenta Minkz,435 South Main St. Apt. 115,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200706,8742328009,Ayrik Merritt Dunbar,122 Lanier Dr Apt 1021,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14500,1
-1970-01-01 00:00:00.020200630,6552388005,Eric Bishop,1252 Shuman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13500,1
-1970-01-01 00:00:00.020200711,1723788108,Akeem Grant,202 Stillwater Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2300,1
-1970-01-01 00:00:00.020200722,6692288110,Jack N Tran,129B Nature Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15100,1
-1970-01-01 00:00:00.020200711,1599208100,Victor Ovoke Omotor,1150 Brampton Ave Apt 223,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200711,1647408107,Valerie Bailey Hearns,322 Turner Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
-1970-01-01 00:00:00.020200723,7170868104,L And D Hotdog Services,6290 Us Highway 25,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
-1970-01-01 00:00:00.020200713,2468848109,Detric Chance,216 West Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200713,2865748107,"Living Well - Therapeutic Massage, Llc",202 East Lane Street,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
-1970-01-01 00:00:00.020200702,7951908008,Newman Building Services,104 Oak Ridge  Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200720,5857408103,"Automotive Solutions Of Statesboro, Llc",202 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24400,1
-1970-01-01 00:00:00.020200722,6572978100,"Mal-Ad Promotions, Inc",34 Joseph E Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200706,9023628003,Wiggd By Tnashay Llc,9041 Whispering Pines Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
-1970-01-01 00:00:00.020200711,1647668104,29Five,1699 Statesboro Place Circle Apt 708 C,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
-1970-01-01 00:00:00.020200708,9532508000,Crecy Robins,110 Riggs Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
-1970-01-01 00:00:00.020200722,6732058106,"Candler Properties, L.P.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",65800,1
-1970-01-01 00:00:00.020200704,8397638006,Terrance Micourt,242 Sunview Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",86000,1
-1970-01-01 00:00:00.020200715,3798238100,Melinda Robins,110 Riggs Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
-1970-01-01 00:00:00.020200720,5978948108,Ulysses Johnson,125 Gentilly Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19000,1
-1970-01-01 00:00:00.020200720,5936038108,Hendley Trucking Inc,133 Wilson Wise Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",14500,1
-1970-01-01 00:00:00.020200716,4199478105,James T Mcdonald,6467 Swallowtail Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200715,3662088104,Roots 317,3357 Northside Drive West,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",8000,1
-1970-01-01 00:00:00.020200715,3631288102,Bark Marketing Llc,9985 Hwy 80 E,Brooklet,13031,Bulloch County,GA,30415,12,Coastal,44340.0,"Statesboro, GA",18000,1
-1970-01-01 00:00:00.020200720,5950528109,Nishera'S Artistry Llc,1818 Chandler Rd #78,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
-1970-01-01 00:00:00.020200706,8500688009,Latoya Bacon,710 Georgia Ave Apt 10,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12700,1
-1970-01-01 00:00:00.020200715,3613048107,Younique Worship,24 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200713,2300148107,Kenneth Roberts,2000 Stambuk Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1400,1
-1970-01-01 00:00:00.020200721,6239958101,Lgm Consulting Group Llc,519 Harville Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
-1970-01-01 00:00:00.020200626,4721238009,J L Deal Farms Inc,13487 Clito Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200721,6024658108,Natarsha Brown,401 Old Kennedy Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30000,1
-1970-01-01 00:00:00.020200720,6005948106,On The Go Auto And Diesle,156 Sunny Hagins Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3300,1
-1970-01-01 00:00:00.020200721,6240878109,Badie Moving Company,58 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17000,1
-1970-01-01 00:00:00.020200721,6400948106,Mitchell Chavers,362 Moore Chavers Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
-1970-01-01 00:00:00.020200714,3483478108,Misty Burnsed,304 Four Seasons Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200721,6450898102,Paines Limo Service,137 Sweet Briar Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
-1970-01-01 00:00:00.020200708,9825978005,Jordan Lawson,1150 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200721,6483688105,Giovanna Heindel,1401 A Crossway Cottages Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",33500,1
-1970-01-01 00:00:00.020200721,6489048102,Rawls Auto Paint And Body Works,117 Cone Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
-1970-01-01 00:00:00.020200714,3314608109,Chris Event Planning,2000 Stambuk Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
-1970-01-01 00:00:00.020200706,8579538001,"Concierge Senior Service, Llc",330 Tranquil Bridge Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2100,1
-1970-01-01 00:00:00.020200722,7008228102,J And M Ag Inc,401 Blackberry Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17000,1
-1970-01-01 00:00:00.020200701,7583958007,Uber Contractor,1822 Chandler Rd Apt 2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10800,1
-1970-01-01 00:00:00.020200709,1177038108,The Glam Bar Salon Llc,35 East Main Street Suite 12,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8500,1
-1970-01-01 00:00:00.020200713,2606908102,Pink Huddle Inc,515 Denmark Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200706,8502908007,The Gem Fairy,19 W Grady St Apt 7,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200714,3283888108,Eric Davis,1801 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
-1970-01-01 00:00:00.020200709,1293548105,"Coastal Truck & Trailer Equipment, Llc",16148 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200717,4825708100,Gr Comrade Llc,230 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200709,1477358101,Nyochembeng Nkengbeza,710 Georgia Ave Apt 155A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3900,1
-1970-01-01 00:00:00.020200723,7511918105,"New Life Tree And Landscape, Llc","670 Robert Franklin Rd, 670 Robert Franklin Road",Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
-1970-01-01 00:00:00.020200714,3105498106,"Forest Heights Country Club, Inc",3772 Country Club Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200717,4850528107,Joesea Ransburg,222 Lanier Dr Apt 86,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4800,1
-1970-01-01 00:00:00.020200717,4854018104,Franks Painting,101 Cherry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
-1970-01-01 00:00:00.020200702,7912428003,,109A West Inman Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200701,7520548005,"Lambert Rentals, Llc",211 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
-1970-01-01 00:00:00.020200723,7073288105,Whitesville Full Gospel Church,306 Shelby St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
-1970-01-01 00:00:00.020200702,7862298002,"Lambscapes South, Llc",1600 Rock Point Road,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",45000,1
-1970-01-01 00:00:00.020200720,6011148109,Jackson Construction,230 Lanier Dr Unit 251,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200713,2393798101,"Lockhart Trucking,Llc",10313 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",84000,1
-1970-01-01 00:00:00.020200720,5763198100,Trinety Byrd,211 Jamaica Way,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
-1970-01-01 00:00:00.020200720,5527868109,Phyllis Anthony,141 Lake Ridge Drive,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",3400,1
-1970-01-01 00:00:00.020200709,1070538105,Eric Winfree,142 Nature Way Apt A,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200711,1982408104,Fornesha Arenas,225 E Main St,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200701,7168858004,Levaughn Hunt,1400 Statesboro Place Circle K283,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200717,4980998106,Alpha Loads,124 Raleigh Ct,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
-1970-01-01 00:00:00.020200717,4983158107,Devine Logistics Llc,1210 B Beaver Creek Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
-1970-01-01 00:00:00.020200701,7484238008,Kristian Designs,140 Lanier Drive Apartment 102,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
-1970-01-01 00:00:00.020200716,4288768100,Robert Larry Allen,604 Sweetheart Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
-1970-01-01 00:00:00.020200706,8532038007,Kimberly Hardwick,215 Circle Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6400,1
-1970-01-01 00:00:00.020200717,5034778108,Jessica Hall,108 Success Court,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
-1970-01-01 00:00:00.020200716,4273928108,Nevil Farms Inc.,2585 Sinkhole Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200721,6399718109,Black Trucking Company Llc,102 Pleasant Ave # A,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",29000,1
-1970-01-01 00:00:00.020200716,4392088108,"67, Inc",7041 Ga Hwy 67,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
-1970-01-01 00:00:00.020200716,4284838100,Susan Nevil Farms Llc,2585 Sinkhole Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
-1970-01-01 00:00:00.020200716,4219358102,Reco Johnson,110A Marsham Drive,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",7500,1
-1970-01-01 00:00:00.020200721,6342098101,Nakia Hagins,120 College Lane,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
-1970-01-01 00:00:00.020200716,4620168100,"Kvr Rentals, Llc",707 Anna Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",129800,1
-1970-01-01 00:00:00.020200718,5195328103,Goddess To Goddess Tress Llc,206 Westlake Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
-1970-01-01 00:00:00.020200718,5187998105,Andrew Dodge,311 Tranquil Bridge Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
-1970-01-01 00:00:00.020200718,5191338109,Ladybugs,251 West Jones Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2400,1
-1970-01-01 00:00:00.020200720,5448468109,Latoya Wadley,103 Echo Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
-1970-01-01 00:00:00.020200718,5108098109,Jacquelyn Johnson,2049 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
-1970-01-01 00:00:00.020200718,5208588100,Shakieta Mcbride,503 Heatherwood Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63200,1
-1970-01-01 00:00:00.020200718,5155208108,Dontate Cooper,2000 Stambuk Lane Apt 325C,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6700,1
-1970-01-01 00:00:00.020200718,5137908102,Shontay Jones,431 Fair Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30500,1
-1970-01-01 00:00:00.020200716,4557448108,"Statesboro Neurosurgery,Llc",1211 Merchants Way #401,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
+2020-06-02,6559967804,Wingz University,407 Fair Rd,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",49300,1
+2020-04-20,3257337205,"Tormenta Fc, Llc",2704 Old Register Road,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",349200,1
+2020-04-22,3323557200,"Custom Fiberglass Manufacturing, Inc",104 Rushing Lane,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
+2020-04-20,3216837206,"Bvt Enterprises, Inc.",2704 Old Register Road,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
+2020-06-03,7590177806,Steve'S Lawn & Landscape Services Llc.,508 Colquitt Ln,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
+2020-04-17,3151947202,Whitfield Signs Llc,91 South College Street,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",500000,1
+1970-01-01,3326437205,"Marcella'S Community Safehouse, Inc",1286 Shuman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",137600,1
+1970-01-01,9103307800,Underwood Restaurant And Store Equipment,17708 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,5264087809,Vision Financial Holdings Llc,506 Gentilly Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,3358527202,Statesboro Powersports Inc,22681 Hwy 80 East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",500000,1
+1970-01-01,8492437802,"Fluffy Clean, Llc",100 Brampton Avenue Suite 1B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26500,1
+1970-01-01,4564537810,"B&R Accounting & Taxes, Llc",345 S Walnut St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,3307837201,"Heavy Equipment Services, Inc",10341 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",277200,1
+1970-01-01,9528867810,Ishver Investment Group Inc,17870 Highway 67,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3103807800,V.I.P Nails,1525 Fair Rd Ste 100,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10500,1
+1970-01-01,3060377801,Technique Dance Company,23324 Highway 80 East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
+1970-01-01,5359037808,"Bowtreader, Llc",23320 Highway 80 East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",80400,1
+1970-01-01,6205417403,Scratchmade Catering,888 Seaborn Proctor Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14200,1
+1970-01-01,5861127806,"Gibson Technology Consulting, Llc","430 Northside Dr E, Suite 160 #132",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,3174617810,"Norman Transportation Service, Llc",2059 Pinemount Bvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9622187803,Night Hawk Auto Detail,2 Church St,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,8185587409,J.P.O.V. Inc.,2330 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5323107803,"Versahealth, Llc",913 Monarch Circle,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7077617403,Twe Llc,9211 Ga Hwy 24,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9100,1
+1970-01-01,3118107805,Hodges Equipment Repair,1872 Akins Pond Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",11400,1
+1970-01-01,3142727803,Lettuce Eat Catering Llc,434 S Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",41300,1
+1970-01-01,3211367208,Cm City Inc.,1662 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",500000,1
+1970-01-01,5136617808,Tlt Trucking Llc,1213 Merchant Way Ste 103,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5760007806,"Statesboro Dental Associates, Pc",225 S Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,9657327808,Georgia Premier Academy,831 Miller Street Ext,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6073597408,Georgia Health Club Partners,609 Brannen Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18700,1
+1970-01-01,6394797410,Joshua Fincher,131 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
+1970-01-01,5435777810,Statesboro Agency Inc,102 Langston Chapel Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3844217405,Gwendolyn White,101 Lester Road Apt. 36,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,5548387807,"Unified Physical Therapy Solutions, Llc",430 Northside Dr E. Ste 160 #336,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",2100,1
+1970-01-01,1415577803,Party Harbor,10863 Hwy 80 West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5244577806,Big Step Solutions Inc,"1100 Brampton Ave., Suite M",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",5300,1
+1970-01-01,4555187407,Taft & Harding On Park Avenue Llc,115 Park Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",27100,1
+1970-01-01,2168077802,"The Property Mart, Llc",1800 Chandler Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5132627400,Budget Inn Of Cochran Llc,316 South Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3600,1
+1970-01-01,5260337804,Mary C Riccio,139 Shiloh Dr,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",48200,1
+1970-01-01,4211317405,Southern Family Dental Group Llc,108 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,5100177805,Lg Management Group Llc,380 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",119200,1
+1970-01-01,4729537406,Jimmy Goines Signs,1515 Mike Brannen Rd,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,4681957403,D'S Friendly Diner,7 Lester Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",40500,1
+1970-01-01,7175087806,"Humane Society Of Statesboro & Bulloch County, Inc.",105 N College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",99900,1
+1970-01-01,2166307806,Short Putt Ent. Inc,1590 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3365887802,"Techsavvy Computer Services, Llc",708 Northside Dr E Ste 106,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",30000,1
+1970-01-01,3815007805,Youth Career Camp Inc.,138 Plantation Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",8800,1
+1970-01-01,2716207806,"Lewis Color Lithographers, Inc.",30 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",500000,1
+1970-01-01,5056717400,Regenia Bragg Hamel,813 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",71500,1
+1970-01-01,5665217801,Jeffrey Gremer Llc,2610 Old Mill Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",5300,1
+1970-01-01,5682467808,R&G Logistics Llc,127 Turkey Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",109700,1
+1970-01-01,6932057801,"Boro Subs, Inc","701 Piedmont Loop, Suite 500",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",87600,1
+1970-01-01,7987437407,Neon Design And Sign Llc,824 Deer Rd.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11500,1
+1970-01-01,9342447804,Samantha Lindley,1 South College Street. #3055,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19800,1
+1970-01-01,9399407804,Jkmd 7 Inc,9651 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",103500,1
+1970-01-01,6973607807,"Southern Insulation Company Of Ga, Inc",505 Aden Lanier Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",16400,1
+1970-01-01,6976557800,S R Fashion Inc,1525 Fair Rd Ste 102,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",35900,1
+1970-01-01,2808457405,Salon 609,609 Brannen Street Suite 2,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,8083987802,"C G & B Enterprises,Inc",417 Deer Crossing Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",58400,1
+1970-01-01,5665507805,"Southern Aquatic Services,Llc",102 Lakeland Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22800,1
+1970-01-01,6956307809,Andrew A. Burns,"124 Savannah Avenue, #Ste 2D",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",41000,1
+1970-01-01,8648657403,Blake Edenfield Farms Inc.,13701 Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",110500,1
+1970-01-01,9407557804,Northwestern Mutual,1233 Old Leefield Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",88200,1
+1970-01-01,9306947804,"Southern Home Theater Systems, Inc",607 Brannen St Ste 6D,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10900,1
+1970-01-01,4448297410,Hopeulikit Farms Llc,4195 Williams Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,2710507801,"Amberwood Water Systems, Inc",1800 Chandler Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",112500,1
+1970-01-01,4976407802,"Commodity Transportation Service, Llc",1213 Merchant Way Ste. 103,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5838087809,"Edwards Events, Llc",111 Parker Avenue S.,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18500,1
+1970-01-01,4465847803,Jake'S Creative Communications,404 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",43700,1
+1970-01-01,3853597808,"Catalyst Innovations, Inc.",17642 Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4657907802,"Eagle Creek Brewing Company, Llc","106 Savannah Ave, Ste B",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3356607405,"Dx Print, Llc",30 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4831067806,Southside Cleaners Llc,244 North College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3725737808,Brave Tomorrow Counseling And Consulting,27 S. Main St.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4323917805,"Signature Ambulance Of Statesboro, Llc",9 Allen Cail Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7228877409,"Bumblebees Childcare Learning Center, Llc",1049 Ga Highway 24,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,7500337803,"Denise Meeks, Inc.",151 Rolling Hills Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19300,1
+1970-01-01,4846937810,"Burns World Travel, Ltd, Llc",124 Savannah Ave Ste 1A,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",95400,1
+1970-01-01,3728757809,Taylors Tanning And Boutique,22312 Hwy 80 East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",90000,1
+1970-01-01,7391457401,Blessed Hands Barbershop,9 Lester Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18000,1
+1970-01-01,7487457809,Real Soil Foods Llc,701 Piedmont Loop Ste 200,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24900,1
+1970-01-01,4847377810,Rolling Monkey,"430 Northside Dr E, Suite 166",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8403187809,Burnsed Contracting Inc.,2031 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",80100,1
+1970-01-01,4214407403,Jep Reallty Llc,225 Highpoint Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,3126767804,Garland L. Nessmith,Po Box 1400,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8662427400,Mj Webb Trucking Llc,6302 C T Pl,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15100,1
+1970-01-01,8353167804,Whyrocklawns,335 Conley St,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13500,1
+1970-01-01,7014607806,Chesley Enterprises Inc.,1292 Jim Waters Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2722387810,Melissa'S Hair Designs,8 Simmons Center,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,5138107801,Diamond Rentals Llc,216 Dewpoint Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15800,1
+1970-01-01,5367267807,"Atlas In Wonderland, Llc",22 West Vine Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3205167810,Madame Couture'S Consignment,3 North Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",57400,1
+1970-01-01,6423487400,T Lanes Tots Llc,196A Zetterower Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",135900,1
+1970-01-01,5924237802,Red Hill Farms Llc,19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3444627400,"Nicole Guarino Insurance Agency, Inc",100 Brampton Ave Ste 1D,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6525847805,"Lily Pad Printing, Inc",62 East Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,2394097403,Jct Investments Llc,2555 Harville Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",14000,1
+1970-01-01,5367117808,"Holiday'S Merit, Llc",406 Fair Rd Ste 11,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7039337804,"Berkshire Village, Llc",220 Lanier Dr,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",52600,1
+1970-01-01,3297567209,Bourbon Grill And More,325 Northside Dr East,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",141000,1
+1970-01-01,3204677209,Battlbox Llc,3425 Old Dill Road,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",500000,1
+1970-01-01,6341057407,Wise Choice Realty,813 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7093687805,Juan'S Lawn Service,935 Pointer Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",8700,1
+1970-01-01,9421977405,"Burkesouth, Inc.",17067 Ga Hwy 67 Suite B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4195787808,"Newmark Homes, Llc",710 West Lane Street,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",66000,1
+1970-01-01,7544707809,"Daniel Long Agency, Inc.",504 Gentilly Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6481907807,"Clark Medical Group, Llc",117 Hill Pond Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4537987810,"Cinos Iii, Inc",880 Buckhead Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6315837401,"Southeastern Eye Care Clinics, Pc",214 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4077887802,Cinos Incorporated,322 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7143927401,Thompson'S Garden Llc,6175 Georgia Highway 67,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",55000,1
+1970-01-01,4225487803,Sourceone Inc.,113 Hunters Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",14000,1
+1970-01-01,2971077801,Sherwin Llc,1602 Catlyn Ln,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",125000,1
+1970-01-01,3003307806,"Shah Realty, Llc",1206 Plantation Cir,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",119900,1
+1970-01-01,1620717807,"Statesboro Golf Carts, Llc",19225 Hwy. 80 West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2396437805,Blessings Beauty Salon,65 East Main Suite 3,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,1736437808,Eagle Hauling Inc,500 Lee Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,9990507404,Ugga Dugga Tools,1012 Bradford Way,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,2242597804,Market Pointe Llc,211 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",94300,1
+1970-01-01,4178007806,"Southern Accounting & Financial Consulting, Llc",430 Northside Dr E Ste 160-301,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33700,1
+1970-01-01,9283837802,The Hair Masters,2680 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19700,1
+1970-01-01,4744727402,"South Paws Dog Resort,Llc",2056 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",107800,1
+1970-01-01,8129777402,Smith Lank Inc.,367 Savannah Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9943467402,Acupuncture Angels Llc,116 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
+1970-01-01,8796117810,"Jay Robert Clarke Farms, Llc",2683 Dekle Road,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8871107808,Harvey'S Paint And Body Shop,178 Mcphatters Ln,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,8924287810,"J Clarke Cattle, Llc",2683 Dekle Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",57600,1
+1970-01-01,1454387808,Buck Creek Commercial Cleaning,1596 W C Hodges Rd,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
+1970-01-01,6003047804,Southern Legacy Management,1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",79000,1
+1970-01-01,2301217807,"Wm Sheppard Lumber Co, Inc",15175 Us Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5996217806,Down 2 Earth Irrigation And Landscaping Llc,1866 Groover Old Mill Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",42500,1
+1970-01-01,2167967807,Town & Country Dry Cleaners Inc,244 N College St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33000,1
+1970-01-01,5937417807,"Law Contracting Solutions, Llc",1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
+1970-01-01,8098907400,"Exodus Management & Consulting, Llc",120 Summer Wind Pl,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
+1970-01-01,8886657801,"Munger Emergency Doctors, Llc",106 Iron Gate Pl,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8787857404,Woody'S Shirts And Scrubs,601 Brannen Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",30000,1
+1970-01-01,5968847810,Water On Tap,1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",29700,1
+1970-01-01,4732747400,Powell Organic Citrus,4334 Stilson Leefield Rd,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
+1970-01-01,6051777805,New Life Chiropractic,1342 Northside Dr,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5551897405,C And R Farms,4919 Rocky Ford Rd,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
+1970-01-01,1945307800,"Serenity Day Spa & Salon, Inc.",1100 Brampton Ave Ste D,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5170187400,"Stump Branch Farms, Inc.",3298 Old Dill Rd.,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8907607808,"Charleston Entertainment Services, Llc",106 Lancaster Pt,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7932877402,Sleeping Booty Llc,2000 Pippin Pl.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26900,1
+1970-01-01,8885137807,"The Branch Law Firm, Llc",217 Savannah Avenue,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",40800,1
+1970-01-01,2428217804,East Georgia Urologic Clinic,614 E Grady Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9100,1
+1970-01-01,1331347807,"Dark Cycle, Llc",804 Baytree Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10100,1
+1970-01-01,6547547407,Francys Johnson P.C.,51 East Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",70000,1
+1970-01-01,2803377809,Mtw Medical Solutions Llc,2619 Joe Hodges Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",65000,1
+1970-01-01,6132547808,Victoria Lynn Parker,407 Bruce Groover Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13100,1
+1970-01-01,2927057809,Jamie Creasy Brannen,3320 Old Dill Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2797257800,Swim By Jurnee,130 Lanier Dr Apt 420,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,8137067401,Dazzle Nails,430 Northside Dr #162,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2204317800,"180 Fitness, Llc",4A College Plaza,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2763697805,Jennifer P Sikes,19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7111947402,Victoria Family Practice,23 Lester Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8519527403,"Boro Martial Arts Centers, Inc.",977 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22300,1
+1970-01-01,2108887807,Northside Lawn Care,310 Eight Point Drive,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",18200,1
+1970-01-01,8700867405,"Backwoods Armory, Llc",17849 Us Hwy 80 E,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",27500,1
+1970-01-01,7888087403,El Dixon'S Algorthim Llc.,138 Peachtree Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6000,1
+1970-01-01,8970587404,John A Dotson Jr,776 Westside Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,1480457809,"Up Market Media, Inc.",100 Brampton Ave Suite 2 F-B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",30000,1
+1970-01-01,8231287404,"Tam Con, Llc",124 Savannah Ave Suite 1B,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",22100,1
+1970-01-01,7916297405,Bleu Blush Boutique,100 Brampton Avenue Suite 1 E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",56000,1
+1970-01-01,3548097804,Grill Masters Pig Rig,2787 Ball Park Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,7694267400,"Melissa A. Rhodes, Cpa, Pc",3111 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20000,1
+1970-01-01,1638017807,J Barnes And Associates Llc,27 Hill Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",44000,1
+1970-01-01,8769907805,Jones Concrete Constuction,4165 Banks Creek Church Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",36500,1
+1970-01-01,8670257800,Built By Pioneer Llc,19 Courtland Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",97700,1
+1970-01-01,7467837405,Brians Diesel Performance,19397 Highway 80 East,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7915977406,Cain'S Dairy Barn Llc,108 E Lee Street,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",21000,1
+1970-01-01,8740967808,"Strickland Concrete, Llc",3048 Nessmith Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",42900,1
+1970-01-01,7643297409,Big Time Events,375 Pretoria Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7900,1
+1970-01-01,8741127805,Weswolf Transportation,17 Henry St.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9600,1
+1970-01-01,2652407807,Edwin J. Graham,1535 Northside Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6000,1
+1970-01-01,7637547405,"An Thanh, Vo",6403 Marissa Ct,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",97500,1
+1970-01-01,8768277804,Reynolds Property Holdings Llc,406 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11000,1
+1970-01-01,8163807402,Frederick A Johnson Jr,301 Pretoria Rushing Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7400,1
+1970-01-01,8636687404,Sugar Magnolia Bakery & Cafe Inc,106-C Savannah Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2913247806,Sacred Space Yogi Llc,116 S Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24500,1
+1970-01-01,8805527404,"Brannen Millwork Corporation, Inc.",3379 Ga Highway 46,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8111357407,Justin Peay Productions Llc,19 Courtland Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",102500,1
+1970-01-01,7662837400,"Just Scott Designs, Inc.",1 S Main St,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9605377407,Carnivore Club Llc,2603 Old Mill Way,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",67100,1
+1970-01-01,7848237406,"Statesboro Hospitality, Llc",126 Rushing Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",149500,1
+1970-01-01,7802897410,Vishu Inc,225 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7856777404,Kamden Realty And Associates Inc,1827 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3500,1
+1970-01-01,8813787401,Misyte.Com,314 Pebble Stone Trl,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11900,1
+1970-01-01,3539447800,"Right Lane Transportation, Llc",108 Hendrix St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",44000,1
+2020-06-23,1789798005,"Blair & Hitchens, Llc",4A College Plaza,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",1200,1
+2020-06-11,2296107901,"Statesboro Woodfire, Llc",807 S Main St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",150000,1
+2020-06-24,2206888001,Mr. Randy'S Beauty  & Barbar,141 West Parrish St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",7200,1
+2020-06-20,9572507902,Jdc  Transport Enterprises Llc,16253 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,30461,12,Coastal,44340.0,"Statesboro, GA",55500,1
+1970-01-01,6551387900,Ashley N Webb,9695 Clito Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,9890207901,Canoochee Cabin Rentals,3399 Nevils Daisy Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13800,1
+1970-01-01,4826747902,"Cannon Contracting, Inc.",812 Kennedy Bridge Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58800,1
+1970-01-01,2665197902,The Flowergirl,25 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
+1970-01-01,3552407902,"Lapond Holdings, Llc","1221 Merchants Way, Suite 301",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",88800,1
+1970-01-01,2087617905,"Srs Developers, Llc",8823 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19800,1
+1970-01-01,3897157905,"University Tire & Service Center, Inc",1723 Northside Drive East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7132237901,Paradox Studios,130 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7400,1
+1970-01-01,1851427909,"Red Barn Rentals, Llc",318 Nevils-Denmark Road,Nevils,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,7509797906,Joseph Harrell,840 Buckhead Drive Suite E.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
+1970-01-01,1844337908,"Love'S Childcare Services, Inc.",503 Denmark Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
+1970-01-01,5317847904,Murphy'S Construction,585 Foxboro Ln,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21600,1
+1970-01-01,6282037901,Vickers Enterprises Ltd,1015 Cobb Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63700,1
+1970-01-01,6333807908,David Pierson,60 Hawthorne Apts,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6200,1
+1970-01-01,5865217904,Leasha Mccollum,8005 Kennedy Bridge Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4100,1
+1970-01-01,3569468008,Fourteen Llc,62 East Main Street,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",33000,1
+1970-01-01,2948848010,B&B Industrail Llc,1346 Rabbit Run,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,3973227905,Franklin Foods Llc,"127 North Main Street, Ste 101",Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",24800,1
+1970-01-01,4183338006,Michael Mercer,500 Acorn Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1900,1
+1970-01-01,1854967902,"Tru Source Contracting, Llc",622 Waverly Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",90000,1
+1970-01-01,3237228010,The Spirit And Truth Worship Center,63 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,2028437910,Sgbs Holdings Llc,606B Brannen St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4249328007,Rideau Enterprise,331 Broad Street Apt A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,3339288007,Shannon Heard,2306 Franklin Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,3722367907,Market District Center Msb Llv,106 Lancaster Point,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39600,1
+1970-01-01,7722977900,Gary Bustle Painting,1540 Adabelle Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,3990358003,"Jebs, Inc",8550 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3710557908,Academy Of Hope,831 Miller Street Extension,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7195737906,"Greg Sikes, Llc",19363 U S Hwy 46,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",136100,1
+1970-01-01,9528617903,Explore Inc,2760 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,7260187904,Vpt Enterprises Llc,110 Pineneedle Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,1453957909,"Golden Rule Construction, Llc",1221 Merchants Way-Suite 301,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2460868001,"Amerimex Masonry, Inc.",302 Donehoo St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",88100,1
+1970-01-01,2184987902,"Joan Elizabeth  (Beth) Hall, Realtor",18 Lindberg St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
+1970-01-01,1606458006,"He & Le Transport, Llc",35 Hagin Connector,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",27800,1
+1970-01-01,7655167903,"Crisis Support Solutions, Llc",326 Myrtle Crossing Dr Ste 200,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22900,1
+1970-01-01,2824027906,"G8, Llc",421 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",56000,1
+1970-01-01,2833117900,Southern City Lounge Inc,25 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12900,1
+1970-01-01,5286347903,Lkp Investments Llc,308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",67000,1
+1970-01-01,5556897905,Shake Group Llc,2603 Old Mill Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
+1970-01-01,2794148008,Sonya Sapp,105 Westlake Dr # I,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15300,1
+1970-01-01,1076727903,"Southern Legacy Holdings, Llc",1800 Chandler Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2101497903,"Statesboro Rental Systems, Inc.",8823 Hwy 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2154537906,"Cason Enterprises, Llc",16789 Us Hwy 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",86900,1
+1970-01-01,1577277908,Sai Jarv Llc,2875 U.S. Hwy 301 S.,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
+1970-01-01,8998137901,"Statesboro Children'S Dental Center, Pc",1501 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
+1970-01-01,7981847901,Deal Farms Inc,13487 Clito Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3414838007,"Nelson Forestry & Appraisal, Llc",909 Monaarch Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6800,1
+1970-01-01,5344677907,"Holloway Law Firm, Pc",3268 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",77500,1
+1970-01-01,4834627901,Precise Kutz,406 Fair Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
+1970-01-01,1010017910,"Residential Venture Group, Llc.",108 Towhee Trl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
+1970-01-01,2152877910,"Cason'S Auto Service, Inc.",16789 Us Hwy 80 East,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6153657903,"Georgia'S Hauling, Llc",1266 Lanes Church Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",59200,1
+1970-01-01,9531227905,Georgia'S Best Transportation Llc,9019 Oakfield Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9000,1
+1970-01-01,3148737905,Jj And L Logistic Specialist Llc,110 Becky Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16000,1
+1970-01-01,4103498009,"Stafford Law Group, Llc",117 South Zetterower Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6042007904,Bold Transit Llc,20 Henry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18500,1
+1970-01-01,7615207908,"Blair & His Sacks, Llc",121 Debbie Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6600,1
+1970-01-01,6552437904,Bet Black Enterprise Trucking Llc,3057 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",80100,1
+1970-01-01,9193397906,Statesboro'S Best Running,"1098 Bermuda Run, Suite 5",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",53700,1
+1970-01-01,1020677902,The Painted Chef,300 Rocky Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30500,1
+1970-01-01,1001937902,"Long Company Limited, Llc.",108 Towhee Trail,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",3000,1
+1970-01-01,2932217901,Juliette Hart,3767 Rushing Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",2900,1
+1970-01-01,2598668003,Brooke Mercer,309 Denmark St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29500,1
+1970-01-01,6031317908,Hello Cellular Llc,22925 U.S. Highway 80 E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39300,1
+1970-01-01,1291817909,Wre Enterprises,18129 Us Highway 301 N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",85000,1
+1970-01-01,2946597900,G8 State Llc,240 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",81000,1
+1970-01-01,1155347905,William Craig Dba Craig Construction,67 Lagoon Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1157767906,Integrated Power Connections Llc,2062 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",20000,1
+1970-01-01,2264887907,"Sci Construction, Inc.",151 Rolling Hills Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",67300,1
+1970-01-01,9083317903,The Barn Mobile Home Estates,12161 Hwy 301 South,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
+1970-01-01,3833317906,Marsha Foster Warren - Counseling Associates  Of Statesboro,13 B South Mulberry Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,1253747900,Om And Eva Inc,10907 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68400,1
+1970-01-01,7057937909,Coastal Georgia Real Estate Llc,3047 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24500,1
+1970-01-01,1259167904,"Mattco Forestry Services, Llc",30130 U.S. Hwy. 80 West,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1159277905,"Qcf Construction, Inc.",137 Middle Ground Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38000,1
+1970-01-01,3537358005,Kingdom Transportation & Logistics L.L.C.,63 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38000,1
+1970-01-01,5717087900,Salon Arreis,210 S Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
+1970-01-01,3484197908,Ronald A Jackson,4932 Old River Rd N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73300,1
+1970-01-01,3862007906,Big Bad Wolf Inc,505 N Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40100,1
+1970-01-01,4241008000,Daeshon Figaro,727 Ogeechee Drive East Lot B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",27600,1
+1970-01-01,4489957904,Meraki Artistik Hair Gallery,304 S Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12000,1
+1970-01-01,4225728004,God'S Way Trucking Llc,806 Maple Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,4555067907,Shelistens,100 S Jackson Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,5937517900,Tranzboro Consultants Llc,104 Wilburn Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18000,1
+1970-01-01,6891837900,Little-Steps Llc,113 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25600,1
+1970-01-01,2525928008,"Byron Davis Trucking, Llc",4209 Two Chop Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6558077904,Linda'S Salon,101 Parker Ave.,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7900,1
+1970-01-01,3988917903,"Beasley Well Drilling And Pump Service, Inc",375 Gordon Beasley Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63500,1
+1970-01-01,3456247902,"Accutaxusa, Llc",418 S Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",95500,1
+1970-01-01,3466767909,"Hodges Painting Plus, Inc.",206 Skye View Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6200,1
+1970-01-01,1042288007,Florence  &  Son Trucking,12800  Burkhalter Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58000,1
+1970-01-01,4067777909,"Fresh Start Counseling Service, Llc","320 Myrtle Crossing Drive, Suite 200",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6800,1
+1970-01-01,2471098001,Jarvis R. Barnes,27 Hill St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
+1970-01-01,3974178008,Drb-Believes Llc,1 S. College St #132,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,3527967904,"Seaworthy Investments, Llc",1221 Merchants Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",56000,1
+1970-01-01,4283758000,Get Fly Supply Shop Llc,1401 Statesboro Place Cir Apt 480Y,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
+1970-01-01,3438948010,Shanika Childers,115 Garfield Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",23700,1
+1970-01-01,3619888004,City Campus Llc,62 E Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
+1970-01-01,6394627906,Terence R. Stephens Jr.,2026 Glen Oaks Drive,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",77000,1
+1970-01-01,3336498005,Swaine H Nichols Jr,618 Pear Orchard Ln,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
+1970-01-01,4139818000,Spot 73 Llc,62 E Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25500,1
+1970-01-01,8680437908,Ekc Trucking Llc,16253 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,2318968006,"Kayce Williams, Inc.",127 Alexander Farms Road East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26000,1
+1970-01-01,1069528007,Level Up Sports Academy,1191 Sarahlyn Lane,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,4296047906,Marty Beasley Farms,375 Gordon Beasley Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7900,1
+1970-01-01,5293647908,Contract Provider,9006 Oakfield Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,8791517900,Anthony Schubert,416 Small Pond Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,5561027907,Precision Machine & Indexable Tool Inc,1221 Bell Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,5122537905,Regina Graham,2680 Northside Dr W,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12300,1
+1970-01-01,1368238003,"Lee'S Plumbing, Inc",4083 Mill Creek Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5631107903,Pro-Tech'S Toolbox,2899 J S Nesmith Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30400,1
+1970-01-01,3769628002,Arlene Johnson,125 Gentilly Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29600,1
+1970-01-01,6088427907,Ms Tire Company,26351 Us Hwy 80 West,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19900,1
+1970-01-01,1862118008,Magnolia South Photography,118 Turkey Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
+1970-01-01,9700627909,Kingdom Cuts Shop & Salon,63 East Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
+1970-01-01,8205207910,Tina'S Haircuts Llc,35 West Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9900,1
+1970-01-01,7386627900,Nicole Donaldson,675 Martin Luther King Jr Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
+1970-01-01,8268907905,Jeffery Lee Deal,13487 Clito Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3364698003,Charlene Nunnally,10 Henry St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",35000,1
+1970-01-01,6921287903,B&B Masonary,253 Trog Polk Rd,Portal,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",36000,1
+1970-01-01,4277487903,C N C Contruction,108 Stratford St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",11400,1
+1970-01-01,4036037907,"South Georgia Family Medicine Associates, Pc",1203 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3240537907,"Coffey Realty, Llc",5440 Sinkhole Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",7200,1
+1970-01-01,4845857906,Magnolia Baptist Church,720 Magnolia Church Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",47000,1
+1970-01-01,8980877902,"Hunter Cattle Company, L.L.C.",934 Driggers Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5362457904,Todd A Sarratt Inc,106 Ramblewood Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10900,1
+1970-01-01,3321967909,Salon Solstice,829 Buckhead Dr.,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",20200,1
+1970-01-01,7311407910,Aurelia Creatives Llc,45 Courtland St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5900,1
+1970-01-01,2743658008,Flamekissed Enterprises Llc,2120 Aaron Station Rd # 1,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",100300,1
+1970-01-01,3951457903,Statesboro Medical Group,1176 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,5517897902,Southern Bars Llc,125 Gata Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1228838004,"Advanced Valve & Instrument, Inc",106 Rayborn Anderson Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5252987909,Michael M. Horn,141 Hazelwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4200,1
+1970-01-01,9965377901,Trinity Revival Worship Center,110 Parker Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
+1970-01-01,2637547903,Mcwindows,744 Brookwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17800,1
+1970-01-01,3201578008,Three Tree Coffee Llc,441 S Main St Ste 1A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",182100,1
+1970-01-01,2187318009,"Bak Builders, Llc",450 Mathews Rd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,6569607903,Franklin Farms & Apiary,388 Old Thorn Pond Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",70900,1
+1970-01-01,3838327908,South Georgia Framers Inc,3041 Williams Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8274637903,"Lis Enterprises, Llc",314 Pebble Stone Trl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60100,1
+1970-01-01,6478757907,Signature Home Solutions Llc,9029 Whispering Pine Blvd.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14800,1
+1970-01-01,2193668005,"B&T Transportation,Llc",1405 Seagull Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
+1970-01-01,8964117908,Ginger Dianne Barnard,6931 Mud Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6400,1
+1970-01-01,7861437902,Sportsman'S Safari Llc,501 St Andrews Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19500,1
+1970-01-01,6487067903,Ryan Family Chiropractic,303 Donehoo St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8828467903,Marsh Cabon Bakery,105 Deer Crossing Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",35700,1
+1970-01-01,4160597908,"Bj Adventures, Inc.",415 West Parrish Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1574988006,"Ricky Lane, Dds Pc",1066 Bermuda Run,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3364568010,Victoria Howard,303 Aldred Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",32800,1
+1970-01-01,5132797906,First Source Logistics Llc,462 Youngblood Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4343437909,"Pulaski Villas, Llc",2095 Hood Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",121800,1
+1970-01-01,2962738008,No Talk White Chalk Publishing Llc,204 Canterberry Pl,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",103200,1
+1970-01-01,4751507905,"Klt Flooring, Inc.",9015 Whispering Pines Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,3171688004,Billy Prescott,563 Kendricks Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",58700,1
+1970-01-01,4772907906,Logan Lin Enterprises,430 Northside Drive East #168,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4136357906,"Edenfield Law, Llc","201 S. Main St., Suite C",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",60000,1
+1970-01-01,3703667908,"Blount Property Group, Llc",106 Lancaster Pt,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
+1970-01-01,4448517905,Baby Grand Music,18 Carver St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
+1970-01-01,9173197908,Ana L Escutia,520 Gentilly Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8200,1
+1970-01-01,8912017900,Mpressive Slayz N Fadez,35 East Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6000,1
+1970-01-01,7790847909,Vlfg Statesboro Llc,1525 Fair Rd Ste 101,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38200,1
+1970-01-01,4355787906,Reema Inc,1495 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73700,1
+1970-01-01,8729877902,Thegoodsarehere15,100 Bermuda Run Apt A1,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
+1970-01-01,9667587907,William Ellis,3007 Mccall Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5100,1
+1970-01-01,6182967901,Legree-Parks Business Services,205 Maple Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2800,1
+1970-01-01,1416148006,Southeast Turf Equipment Inc,1005 Cobb Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,5416647909,"Oleander Management, Llc",308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7700,1
+1970-01-01,3835197900,"Titan Turf, Llc",321 Sam Tilman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4819657901,Fire Cannon Llc,812 Kennedy Bridge Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4316567907,Blue Phoenix Tattoos & Piercings Llc.,2098 Northside Drive E.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
+1970-01-01,5933317902,D & H Auto Detail,508 East Olliff St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19100,1
+1970-01-01,4231407906,Sharp Engineering Llc,27175 Hwy 80,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7300,1
+1970-01-01,4203367910,Hammond Freight Llc,723 Brookwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,6002987900,Kelly Harrigan,"1818 Chandler Road, #48",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8300,1
+1970-01-01,7325467907,Ogeechee Area Hospice Inc,200 Donehoo St.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9617987900,"East Georgia Civil, Inc.",9384 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6556967907,Southern Sound Inc.,607 Brannen St Ste 6B,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2700,1
+1970-01-01,9607697903,"Tippins-Polk Construction, Inc.",9384 Hwy 301 South,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3678687900,"357 Global Logistics, Llc",10 Henry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",45900,1
+1970-01-01,6461007909,"Cottonham Plantation, Llc",280 Sinkhole Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9900,1
+1970-01-01,7737717906,"Mercer Tax Solutions, Llc",309 Denamark Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,7404957910,Foundry Broadcasting Llc,561 East Olliff Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79600,1
+1970-01-01,7795677905,Tilltrans Llc,2205 Rocky Ford Rd,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",49000,1
+1970-01-01,6095077907,"Elite Cnc Routing & Woodworks, Llc",4841 Emit Grove Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7600,1
+1970-01-01,8333537909,D Phenomenal Transportation,4549 Mud Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26700,1
+1970-01-01,5165917901,J Robinson Construction Inc,209 Church St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,9969347900,Ladonna Mccollum,440 Wigfall Rd,Register,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1900,1
+1970-01-01,4699387908,"J L J Robinson, Llc",209 Church St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",38400,1
+1970-01-01,7026797901,"Akins Farms, Inc.",7171 Mud Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",61400,1
+1970-01-01,5101777908,Dwb Services Llc,2031 Cypress Lake Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,5895767906,Covey Rise Enterprises Llc,241 Sawgrass Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5500,1
+1970-01-01,6350137910,Simply Movin 13 Llc,100 Becky Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17500,1
+1970-01-01,1599448004,"Jb Kennedy & Associates, Llc",314 S. Zetterower Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,8984147903,No Talk White Chalk Llc,204 Canterberry Place,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",36700,1
+1970-01-01,4442517904,Ralph Geech Company,3154 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4257597904,Miranda Fincher,131 Hunters Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16900,1
+1970-01-01,1948348008,Dc Roofing Inc,1 South College  St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7300,1
+1970-01-01,2749898000,Southern Billiards And Burgers Inc.,200 Lanier Dr Ste 2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1702398001,"Kat Clearing And Excavation, Llc",73 Nessmith Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
+2020-06-26,4708338010,"Eve'S Shanty, Llc","1100 Brampton Avenue, Suite J",Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",150000,1
+2020-07-23,7252908107,Ksk Trucking And Logistics,1868 Mike Brannen Rd,Register,13031,Bulloch County,GA,30452,12,Coastal,44340.0,"Statesboro, GA",7000,1
+2020-07-16,4563018104,Masters Den Barbershop,28 Easy St,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
+2020-07-06,9047598001,Psm14 Inc,898 Lakeview Rd,Statesboro,13031,Bulloch County,GA,30461,12,Coastal,44340.0,"Statesboro, GA",58000,1
+2020-06-29,5730228002,Stouthouse Media,139 Hazelwood Drive,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",20000,1
+1970-01-01,7606968003,Lewis & Sons Auto & Towing Inc,410 Marin Luther King Jr. Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",44700,1
+1970-01-01,4347168109,"Raven Construction & Consulting, Inc.",928 Lillie Hagan Road,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",100300,1
+1970-01-01,6815208000,Gulimed,100 Lanier Dr Unit 24,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",125000,1
+1970-01-01,7605648010,Sabrina Hunter,36 Cypress Lake Mtp,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
+1970-01-01,2991648102,Keenan Lewis-Jolly,130 Lanier Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",26500,1
+1970-01-01,5095278006,Ddb Trucking,23 Woodrow Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,4006728102,Osaze Okunbor,"10 Packinghouse Road, Apt 404",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1900,1
+1970-01-01,1901708110,"Coastal Equities, Inc.",127 N Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50700,1
+1970-01-01,6778938105,"Kendall M. Griffith Md, Llc","1497 Fair Rd, Suite 311",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7378638006,Tyra Jones,59 Chance Trlr Park,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",20500,1
+1970-01-01,3992558106,Mosley'S Solutions Llc,317 North College St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
+1970-01-01,2856048107,"Statesboro Motor Lodge, Inc.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79100,1
+1970-01-01,3637118109,Ken Lynch,125 Melrose Pond Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,9247268001,Professional Mobile Repair,1826 Old Carriage Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,4078168110,Lil Trawler Seafood Llc,19204 Highway 46,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",70000,1
+1970-01-01,7207628107,Carlos Ramon Grant,636 Anderson Parrish Rd,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",125700,1
+1970-01-01,1766188105,"Alpha Southern Downs, Llc",710 Georgia Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6183338005,Delandry Tanner,6986 Rushing Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
+1970-01-01,8811728005,Frank  Lott,106 A West Inman Streetgreen Fot,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,7658328001,Dina Diefenbach,2795 Brooklet Denmark Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7500,1
+1970-01-01,9607538004,"Statesboro Psychiatric Associates, Pc",116 Hill Pond Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,1309908101,2Jtechnology Inc,1 S College St # 132,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,4096118110,"67 Styles Salon, Inc.",25 N Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",58900,1
+1970-01-01,9924438002,Richard Murray Inc.,95 Creasyville Ln,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",39000,1
+1970-01-01,9468268005,Sai Ram Managment Inc,1870 Northside Dr E,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",126300,1
+1970-01-01,8161308005,D.O.N.  Systems Inc,59 Golf Club Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",69800,1
+1970-01-01,8548018006,Kar Kings,102  Lynda Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,9810128005,Selah Underwood,596 Kyle Sorrell Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
+1970-01-01,9024288010,Russ Lanier Cpa Pc,201 S. Zetterower Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",85000,1
+1970-01-01,8960918007,Rjt Ventures Inc,1513 Sugarberry Court,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",55400,1
+1970-01-01,2864968101,Denmark & Brown Pc,123 N Main St,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9132618010,Shamika Jackie,1150 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,2645518106,"Crossfit Boro, Llc",1263 Ss Railroad Bed Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,2866948110,"Will Anderson Farms, Inc.",21 W Anderson Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,5759608002,Donnell Jackson,238 Frink Rd  Lot 15,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
+1970-01-01,7426528003,J D Heating And Air Inc,21249 Hwy 301 North,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",110000,1
+1970-01-01,9883978003,April Fletcher,114 Nottingham Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
+1970-01-01,5134918001,Dazha'S Cleaning Service,112 College Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,7576578002,Dabbs-Williams General Contractors Llc,319 S. Walnut Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",101200,1
+1970-01-01,8841868002,South Georgia Pediatrics Pc,1230 Brampton Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,3962358104,Benoit Janvier Jr.,1 S College St Unit 2487,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2600,1
+1970-01-01,7619008007,Trent Grooms Trucking,4357 Mallard Pond Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
+1970-01-01,8136358007,Hendrix Auto Machine Shop,233 N. Zetterower,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",35500,1
+1970-01-01,3997148100,Tps Maintenance Solutions,9998 Akins Pond Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17800,1
+1970-01-01,3988858110,Sherier Harris,6 Cypress Lake Trailer Park,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6900,1
+1970-01-01,2740168106,"Anjk, Inc",3443 Middle Ground Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68300,1
+1970-01-01,3464878104,Chanelle Barnes-Scott,3211 Pike Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
+1970-01-01,8764728001,Maria Miller Dba: Baby Steps Intervention,9017 Oakfield Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9400,1
+1970-01-01,8969868001,Michelle Zeanah Md Pc,406 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,3408148103,Xtremeteam Kleening Llc,910 Hawk Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13500,1
+1970-01-01,3485668110,"H. Lehman Franklin, P. C.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8138188008,Jacorey Foy,130 Lanier Dr Apt 311,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1500,1
+1970-01-01,9550788007,Holly Hamilton Dba Ralph'S Diner,3059 Northside Drive West,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",42100,1
+1970-01-01,2649498110,Stacey Grant,202 Stillwater Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2800,1
+1970-01-01,5164118009,Prossers Seafood,110 Railroad Street,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,5971038005,Dennis Bennett,113 Garfield St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",46200,1
+1970-01-01,2311568110,"Davis Duggan Real Estate, Llc.",22 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,5413388000,Lindsey Morgan Photography Llc,200 Tavern Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,8814678009,Nickson Filistin,218 Cone St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5600,1
+1970-01-01,3192338101,The Islands Of Statesboro Llc,104 Aruba Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",53800,1
+1970-01-01,5716378005,China Braiding And Styles,1822 Chandler Road Apt 54,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,5960218005,Jeremy O'Brian Bell Sr,600 Ogeechee Dr W,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63000,1
+1970-01-01,8213458007,Carolyn J Schmidt,2301 Glen Brook Xing,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41300,1
+1970-01-01,8383058008,K And M Hauling,316 Longwood Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",34000,1
+1970-01-01,6058268009,Todd Bridges,62 E. Main Suite 1027,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",32000,1
+1970-01-01,3472848106,Jacob Boan,8 Pate Place,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",23200,1
+1970-01-01,7697378008,Leobardo Nevarez,719 S Main St #200,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,6009828004,"Tab'S Tires, Llc",173 Jimps Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,7643468005,Eugene Jr Gatson,219 Stonebrook Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4200,1
+1970-01-01,1259748102,Deloach Diesel Service,8983 Us Hwy 301 S,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",93700,1
+1970-01-01,7301658003,Simplified Flooring Llc,135 Kent Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",55500,1
+1970-01-01,8323138006,Adarson Farm,227 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,5707498004,Lonnie Gaines,416 T Perkins Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21500,1
+1970-01-01,3669688110,"Flynt Logistics, Inc.",2202 Madisea Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",68800,1
+1970-01-01,4988578005,Jada Scott,91 Wilma Brown Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,7362898009,Coastal Taxes & Business Solutions,14 Mcphatters Lane,Portal,13031,Bulloch County,GA,30450,12.0,Coastal,44340.0,"Statesboro, GA",8600,1
+1970-01-01,5885498007,Crystal M Clarke,1280 Williams Road,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",5800,1
+1970-01-01,4106998110,Shalonda Raymond,804 Crane Lane,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",7700,1
+1970-01-01,4559158010,Plan C Investments,308 Palomino Path,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
+1970-01-01,3672098100,Its All About The South Clothing Llc,212 Spotted Fawn Rd N,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7800,1
+1970-01-01,4071478106,Asia Lonon,620 E Olliff St Apt 11,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,4354468005,Randy Chambers,806 Maple Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24000,1
+1970-01-01,3734938110,"Dj Investment Properties, Llc",430 Bohdler Rimes Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,1590228110,Unpopular Chic,409 Canary Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,7449838005,Hue Doan,99 Grady Johnson Road #48,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6000,1
+1970-01-01,9266698007,Victoria Mikell,566 E Main St Apt H2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
+1970-01-01,7964138001,Donald Ashton Jones,212 Bel Air Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,1055478102,Whw Group Llc,3154 Cypress Lake Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",33600,1
+1970-01-01,2466218104,Youngs Paint And Body,109 Harvey Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,2882758101,Douglas Reid Anderson,21 W. Anderson Rd.,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1731158107,One Man & A Truck Llc,208 Stonebrook Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",19500,1
+1970-01-01,7655618010,Kendra Mack,104 B Lindsay Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16000,1
+1970-01-01,9994638009,Wilpro Preservation Llc,7101 Stilson Leefield Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
+1970-01-01,1823028100,In Home Living Assistant,18 Braswell  Homes,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
+1970-01-01,2181138100,Georgia Epsilon Southeast Georgia Phi Delta Theta Alumni Association,103 Cambridge Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12500,1
+1970-01-01,8882848003,"New South Development, Llc",9384 Us Highway 301 S,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",13800,1
+1970-01-01,3871028104,Robinson Electric,4872 Blue Driggers Rd,Brooklet,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",53300,1
+1970-01-01,2434208107,Welch Photography,625 Bragan Rd Lot 13,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
+1970-01-01,6475338007,Patricia Dussie,727 Ogeechee Dr East,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",73200,1
+1970-01-01,8112138006,Wkdk Trucking Inc,11 Allen Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",41000,1
+1970-01-01,7797748009,Keystone Heavy Equipment Inc,1955 Woodyard Rd,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,7734998006,Bennett Transportation And  Supply,1115 Southbend Dr Apt A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4500,1
+1970-01-01,7718728006,"Jlw Holdings One, Llc","1219 Merchants Way, Suite 101",Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24600,1
+1970-01-01,8821508002,"Holloway Family Properties, Llc",780 Mcelveen Pond Road,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",79000,1
+1970-01-01,9273208009,Susan Harrison,503 Ansley Ct.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",29700,1
+1970-01-01,7956778005,Chris Deloach Trucking,2000 Oakridge Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39500,1
+1970-01-01,3323557200,"Custom Fiberglass Manufacturing, Inc",104 Rushing Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",-500000,1
+1970-01-01,9223418004,Evans Express Llc,812 Woods Hole Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",116600,1
+1970-01-01,2454468101,Sharmonique Easterling,23387 Highway 80 E  Apt. A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",11500,1
+1970-01-01,6763708005,Jennifer Tatum Cpa Llc,1207 Shasta Ct,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",9300,1
+1970-01-01,8168118010,Hollywood'S Barbershop,703A Pats Ln,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",31000,1
+1970-01-01,1405168104,Ulanda Jenkins,100 Woodland Dr Apt 624,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1300,1
+1970-01-01,7104678010,Debra Lovett,238 Frink Road,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,2063018109,Dba Scott'S Floor Covering,507 Marvin Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",55700,1
+1970-01-01,5831848010,"Fairy Tale Tents, Inc",1547 Morgan Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",40000,1
+1970-01-01,1550158108,Victor Ray Hockaday 11,133 Laner Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6186278104,Couture Formalwear Llc,430 Northside Dr E Ste 160,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24900,1
+1970-01-01,6205438100,Maria A Proctor,607 Waverly Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",18500,1
+1970-01-01,6178438104,Manor Landscaping,377 Everett Ln,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,1293988108,Sell House To Us Llc,129 E Lee St # 831,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,5530078109,"Bethany Assisted Living, Inc",77 Bethany Way,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,2854978100,Diamonds And Pearls,801 Crane Lane,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",17500,1
+1970-01-01,4820708101,"Yolo Foods, Llc",52 Aspen Heights Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,8883848005,"Gmd Services, Inc.",44 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4869938101,Unforgettable Edibles,408 Granade St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,7327528008,Rare Ivy,2048 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,7635078104,Tru Hair Palace Inc,3 Simmons Shopping Center,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",47600,1
+1970-01-01,1141188105,Larita & Company,14 Fairway Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",94000,1
+1970-01-01,1531888109,Magenta Minkz,435 South Main St. Apt. 115,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,8742328009,Ayrik Merritt Dunbar,122 Lanier Dr Apt 1021,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",14500,1
+1970-01-01,6552388005,Eric Bishop,1252 Shuman Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",13500,1
+1970-01-01,1723788108,Akeem Grant,202 Stillwater Dr.,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2300,1
+1970-01-01,6692288110,Jack N Tran,129B Nature Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",15100,1
+1970-01-01,1599208100,Victor Ovoke Omotor,1150 Brampton Ave Apt 223,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,1647408107,Valerie Bailey Hearns,322 Turner Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",5000,1
+1970-01-01,7170868104,L And D Hotdog Services,6290 Us Highway 25,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3000,1
+1970-01-01,2468848109,Detric Chance,216 West Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,2865748107,"Living Well - Therapeutic Massage, Llc",202 East Lane Street,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
+1970-01-01,7951908008,Newman Building Services,104 Oak Ridge  Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,5857408103,"Automotive Solutions Of Statesboro, Llc",202 W Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",24400,1
+1970-01-01,6572978100,"Mal-Ad Promotions, Inc",34 Joseph E Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,9023628003,Wiggd By Tnashay Llc,9041 Whispering Pines Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
+1970-01-01,1647668104,29Five,1699 Statesboro Place Circle Apt 708 C,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
+1970-01-01,9532508000,Crecy Robins,110 Riggs Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
+1970-01-01,6732058106,"Candler Properties, L.P.",127 North Main Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",65800,1
+1970-01-01,8397638006,Terrance Micourt,242 Sunview Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",86000,1
+1970-01-01,3798238100,Melinda Robins,110 Riggs Circle,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",21200,1
+1970-01-01,5978948108,Ulysses Johnson,125 Gentilly Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",19000,1
+1970-01-01,5936038108,Hendley Trucking Inc,133 Wilson Wise Rd,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",14500,1
+1970-01-01,4199478105,James T Mcdonald,6467 Swallowtail Dr,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,3662088104,Roots 317,3357 Northside Drive West,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",8000,1
+1970-01-01,3631288102,Bark Marketing Llc,9985 Hwy 80 E,Brooklet,13031,Bulloch County,GA,30415,12,Coastal,44340.0,"Statesboro, GA",18000,1
+1970-01-01,5950528109,Nishera'S Artistry Llc,1818 Chandler Rd #78,Statesboro,13031,Bulloch County,GA,30458,12,Coastal,44340.0,"Statesboro, GA",15000,1
+1970-01-01,8500688009,Latoya Bacon,710 Georgia Ave Apt 10,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",12700,1
+1970-01-01,3613048107,Younique Worship,24 Joe Kennedy Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,2300148107,Kenneth Roberts,2000 Stambuk Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1400,1
+1970-01-01,6239958101,Lgm Consulting Group Llc,519 Harville Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
+1970-01-01,4721238009,J L Deal Farms Inc,13487 Clito Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6024658108,Natarsha Brown,401 Old Kennedy Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30000,1
+1970-01-01,6005948106,On The Go Auto And Diesle,156 Sunny Hagins Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3300,1
+1970-01-01,6240878109,Badie Moving Company,58 Golf Club Cir,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17000,1
+1970-01-01,6400948106,Mitchell Chavers,362 Moore Chavers Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3500,1
+1970-01-01,3483478108,Misty Burnsed,304 Four Seasons Dr,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,6450898102,Paines Limo Service,137 Sweet Briar Trail,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
+1970-01-01,9825978005,Jordan Lawson,1150 Brampton Avenue,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,6483688105,Giovanna Heindel,1401 A Crossway Cottages Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",33500,1
+1970-01-01,6489048102,Rawls Auto Paint And Body Works,117 Cone Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",25000,1
+1970-01-01,3314608109,Chris Event Planning,2000 Stambuk Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
+1970-01-01,8579538001,"Concierge Senior Service, Llc",330 Tranquil Bridge Lane,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2100,1
+1970-01-01,7008228102,J And M Ag Inc,401 Blackberry Ct,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",17000,1
+1970-01-01,7583958007,Uber Contractor,1822 Chandler Rd Apt 2,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10800,1
+1970-01-01,1177038108,The Glam Bar Salon Llc,35 East Main Street Suite 12,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8500,1
+1970-01-01,2606908102,Pink Huddle Inc,515 Denmark Street,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,8502908007,The Gem Fairy,19 W Grady St Apt 7,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,3283888108,Eric Davis,1801 Chandler Rd,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",22000,1
+1970-01-01,1293548105,"Coastal Truck & Trailer Equipment, Llc",16148 Us Highway 80 E,Brooklet,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4825708100,Gr Comrade Llc,230 S Main St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,1477358101,Nyochembeng Nkengbeza,710 Georgia Ave Apt 155A,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",3900,1
+1970-01-01,7511918105,"New Life Tree And Landscape, Llc","670 Robert Franklin Rd, 670 Robert Franklin Road",Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",50000,1
+1970-01-01,3105498106,"Forest Heights Country Club, Inc",3772 Country Club Road,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4850528107,Joesea Ransburg,222 Lanier Dr Apt 86,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4800,1
+1970-01-01,4854018104,Franks Painting,101 Cherry St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1800,1
+1970-01-01,7912428003,,109A West Inman Street,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,7520548005,"Lambert Rentals, Llc",211 Savannah Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",8000,1
+1970-01-01,7073288105,Whitesville Full Gospel Church,306 Shelby St,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
+1970-01-01,7862298002,"Lambscapes South, Llc",1600 Rock Point Road,Portal,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",45000,1
+1970-01-01,6011148109,Jackson Construction,230 Lanier Dr Unit 251,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,2393798101,"Lockhart Trucking,Llc",10313 Burkhalter Rd,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",84000,1
+1970-01-01,5763198100,Trinety Byrd,211 Jamaica Way,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",10000,1
+1970-01-01,5527868109,Phyllis Anthony,141 Lake Ridge Drive,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",3400,1
+1970-01-01,1070538105,Eric Winfree,142 Nature Way Apt A,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,1982408104,Fornesha Arenas,225 E Main St,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,7168858004,Levaughn Hunt,1400 Statesboro Place Circle K283,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,4980998106,Alpha Loads,124 Raleigh Ct,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",39000,1
+1970-01-01,4983158107,Devine Logistics Llc,1210 B Beaver Creek Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",1700,1
+1970-01-01,7484238008,Kristian Designs,140 Lanier Drive Apartment 102,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2000,1
+1970-01-01,4288768100,Robert Larry Allen,604 Sweetheart Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",10100,1
+1970-01-01,8532038007,Kimberly Hardwick,215 Circle Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6400,1
+1970-01-01,5034778108,Jessica Hall,108 Success Court,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",7000,1
+1970-01-01,4273928108,Nevil Farms Inc.,2585 Sinkhole Rd,Register,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,6399718109,Black Trucking Company Llc,102 Pleasant Ave # A,Statesboro,13031,Bulloch County,GA,30461,12.0,Coastal,44340.0,"Statesboro, GA",29000,1
+1970-01-01,4392088108,"67, Inc",7041 Ga Hwy 67,Brooklet,13031,Bulloch County,GA,30415,12.0,Coastal,44340.0,"Statesboro, GA",1000,1
+1970-01-01,4284838100,Susan Nevil Farms Llc,2585 Sinkhole Rd,Register,13031,Bulloch County,GA,30452,12.0,Coastal,44340.0,"Statesboro, GA",150000,1
+1970-01-01,4219358102,Reco Johnson,110A Marsham Drive,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",7500,1
+1970-01-01,6342098101,Nakia Hagins,120 College Lane,Statesboro,13031,Bulloch County,GA,30458,12.0,Coastal,44340.0,"Statesboro, GA",99000,1
+1970-01-01,4620168100,"Kvr Rentals, Llc",707 Anna Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",129800,1
+1970-01-01,5195328103,Goddess To Goddess Tress Llc,206 Westlake Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6500,1
+1970-01-01,5187998105,Andrew Dodge,311 Tranquil Bridge Ln,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",9500,1
+1970-01-01,5191338109,Ladybugs,251 West Jones Ave,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",2400,1
+1970-01-01,5448468109,Latoya Wadley,103 Echo Way,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",16500,1
+1970-01-01,5108098109,Jacquelyn Johnson,2049 Pinemount Blvd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",4000,1
+1970-01-01,5208588100,Shakieta Mcbride,503 Heatherwood Drive,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",63200,1
+1970-01-01,5155208108,Dontate Cooper,2000 Stambuk Lane Apt 325C,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",6700,1
+1970-01-01,5137908102,Shontay Jones,431 Fair Rd,Statesboro,13031,Bulloch County,GA,,12.0,Coastal,44340.0,"Statesboro, GA",30500,1
+1970-01-01,4557448108,"Statesboro Neurosurgery,Llc",1211 Merchants Way #401,Statesboro,13031,Bulloch County,GA,,12,Coastal,44340.0,"Statesboro, GA",25000,1

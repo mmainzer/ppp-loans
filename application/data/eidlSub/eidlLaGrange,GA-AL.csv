@@ -1,626 +1,626 @@
 Date,FAIN,Recipient,Address,City,FIPS,County,State,ZCTA,Congress,CDRegion,CBSA,MSA,Amount,Loans
-2020-04-22 00:00:00.000000000,3388867200,"Downtown Fitness Of Lagrange, Llc",124C Main Street,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",324800,1
-2020-05-15 00:00:00.000000000,7077077407,Advait Inc,1870 State Route 18,West Point,13285,Troup County,GA,31833,03,West,29300.0,"LaGrange, GA-AL",76800,1
-2020-05-29 00:00:00.000000000,4774847807,K Jackson Dmd Pc,204 Smith St,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200520,9226637402,Ann Deneese Begley Dba The 104 Pub,104 Sage Commercial Drive Ste 5E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30400,1
-1970-01-01 00:00:00.020200512,5473447403,"Two Teachers Tutoring, Llc","137B Commerce Ave., No. 136",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200520,9301997406,Onnet Llc,100 Jane Fryer Rd Ste 724,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",80000,1
-1970-01-01 00:00:00.020200601,5936517800,Plum Southern,121 Main Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",62300,1
-1970-01-01 00:00:00.020200528,4258177800,Woodstream Inn,1888 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",119600,1
-1970-01-01 00:00:00.020200519,8836697401,Epic Restaurant,115 Troon Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200529,4793817804,Bare Knuckles Investments,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8200,1
-1970-01-01 00:00:00.020200528,4519147801,West Georgia Discount Mall Llc,409 Greenville Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7800,1
-1970-01-01 00:00:00.020200519,9136917410,Capital Income Tax Service Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200420,3210117201,"C'Sons, Llc",124 B Main St.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",448600,1
-1970-01-01 00:00:00.020200526,3656327809,Binion Construction,4048 Whitesville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5700,1
-1970-01-01 00:00:00.020200608,9578207809,Onnet Logis Llc,104 Wiley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200528,4390657810,"Jplee, Inc.",101 Hoffman Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",95800,1
-1970-01-01 00:00:00.020200605,8483567804,"Modern Machining Solutions, Inc.",1662 Lukken Industrial Drive West,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200608,9550677808,Scope Partners Inc,1860 Ga Hwy 18,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200509,4326877409,West Point Foundry And Machine Company,2021 Stateline Road,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200526,3334257809,"Ann E. Williams And Associates, Llc",130 Windridge,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200518,8024337403,Ksst Investment Inc.,1512 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200513,5745167407,Djs  Wings-Things,1305 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",27500,1
-1970-01-01 00:00:00.020200608,9498987809,Julia Stallings,216 Marsh Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",97400,1
-1970-01-01 00:00:00.020200608,9542467804,"Whitlow Enterprises, Inc.",102 South Dawson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9600,1
-1970-01-01 00:00:00.020200604,7660857805,Liberty Hill Properties,103 Victoria Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200530,5826707808,Abbottsford House Norris Travel,305 Old School Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5300,1
-1970-01-01 00:00:00.020200530,5840287809,"5D Designs, Llc",2266 West Point Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33000,1
-1970-01-01 00:00:00.020200518,8120027404,"Vision World, Inc.",208 Smith Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200526,3233937802,Beautiful Beginnings Event  Planning,1502 Whitesville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1400,1
-1970-01-01 00:00:00.020200530,5342527806,Charles Smith,122 Moss Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200530,5849027808,James Keith Trucking,5211 Lone Oak Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
-1970-01-01 00:00:00.020200519,8683717403,Rhodes Sports Bar Llc,1604 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200514,6491657405,K Bop Llc,7777 Kia Pkwy,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",60900,1
-1970-01-01 00:00:00.020200530,5851427809,Red White 3 Inc,4630 Hamilton Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",22000,1
-1970-01-01 00:00:00.020200604,7668707800,Delong Sales Group,206 Highland Park,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200530,5259287805,Acg Group Llc,1510 Lafayette Pkwy Suite C2,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",35700,1
-1970-01-01 00:00:00.020200530,5889097801,Pink White 3 Inc,2860 Upper Big Spring Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10700,1
-1970-01-01 00:00:00.020200609,9657307802,Triple Cs Tax Corp,124 Kingswood Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
-1970-01-01 00:00:00.020200530,5463477800,Advertising Made Easy Inc,102 Main Street Suite 208,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17700,1
-1970-01-01 00:00:00.020200506,2868877404,"George W. Childress, Dmd, Pc",114 Calumet Center Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200519,8569197409,Holly C Prather,220 Main Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",32400,1
-1970-01-01 00:00:00.020200609,9980387804,Daniel Tax Service,1006 Hogansville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",43100,1
-1970-01-01 00:00:00.020200511,4666347410,M Brooke Mcdaniel Agency Llc,1 E Lafayette Sq,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200508,4278367403,Avon,257 Youngs Mill Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200515,7111717403,"Gps Studios, Llc",204 Broome Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",59400,1
-1970-01-01 00:00:00.020200530,5553777800,Arrington Contracting And Consulting,1402 Vernon St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4400,1
-1970-01-01 00:00:00.020200530,5530367803,Wild Leap,308 Main St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200530,5297387801,"Ideal Building, Llc",114 Glenn Eagle Pt,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",37000,1
-1970-01-01 00:00:00.020200522,2033287809,Obeyda Wings Llc,68 Stone Gate Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200527,3768797804,R&S Signs 4 Less,1314 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50000,1
-1970-01-01 00:00:00.020200516,7260477407,Gaon Qualitech Llc,101 South Dawson St. Suite E,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200609,9734557801,"Trendy World, Inc",145 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",61800,1
-1970-01-01 00:00:00.020200511,5046217410,Granville Global Llc,1700 Eastwood Lane,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
-1970-01-01 00:00:00.020200518,8121767405,"Douglas B. Kersey Jr., Dmd, Llc",110 Kia Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200609,9746557809,"Psl Renovations, Llc",346 Brookridge Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
-1970-01-01 00:00:00.020200605,7989027809,West Point Auto Parts Inc,2176 Bartley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1700,1
-1970-01-01 00:00:00.020200528,4221947802,M&J Repairs Llc,1342 Graham Road,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33800,1
-1970-01-01 00:00:00.020200603,7324037807,Restore Pressure Washing-Soft Washing,109 Meadowland Trail,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13500,1
-1970-01-01 00:00:00.020200605,8019097801,The Beauty Loft Salon,119 Ridley Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10800,1
-1970-01-01 00:00:00.020200512,5334577407,Sportsman Customs Llc,718 3Rd Ave Ste 205,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",30000,1
-1970-01-01 00:00:00.020200605,8016887807,Charles Flowers Consulting Llc,124 Stocks Circle,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",8700,1
-1970-01-01 00:00:00.020200605,8076747802,Anthony Certonio,120 S. Smith Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9000,1
-1970-01-01 00:00:00.020200520,9234027407,"Tiny Treasures Learning Center, Inc",811 Hammett Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200526,3570647810,Cato'S Contracting Company Inc,423 Teaver Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",40000,1
-1970-01-01 00:00:00.020200521,1678607801,Lto Store Inc,900 Hogansville Rd Ste C,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25600,1
-1970-01-01 00:00:00.020200608,9402287807,Splash Kitchens & Baths Llc,"115 Broad Street, Suite 103",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200529,5096857804,Veerg Llc,1109 New Franklin Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200522,2227057808,"Bright Light Partners Ii, Llc",124 Bull Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",130500,1
-1970-01-01 00:00:00.020200508,3748927406,Jeffrey James Rowland,115 Oakmont Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",21200,1
-1970-01-01 00:00:00.020200526,3366937806,Meekajay Inc,1499 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50700,1
-1970-01-01 00:00:00.020200530,5640797804,Wiseman Enterprises Of Georgia  Llc,5453 Hwy 100,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",63700,1
-1970-01-01 00:00:00.020200608,9406387810,Strickland Tax & Accounting,422 South Greenwood St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200530,5634557806,"Loftin Fire Services, Inc.",1280 North Davis Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",80000,1
-1970-01-01 00:00:00.020200603,6983637809,Private Professional Golf,1205 Orchard Hill Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200608,9335897801,Topstitch Upholstery By Dunc,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11700,1
-1970-01-01 00:00:00.020200511,4644187409,First Impressions Salon,119 Ridley Ave Suite 102,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200525,2833747803,Law Office Of Janelle J. Johnson,"100 Smith Street, Suite 2",LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",44000,1
-1970-01-01 00:00:00.020200509,4357227405,Not Just Taxes Lp,"137 B Commerce Ave, Suite 297",LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",8200,1
-1970-01-01 00:00:00.020200604,7890817810,Restore Pressure Washing-Soft Washing,109 Meadowland Trl,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13500,1
-1970-01-01 00:00:00.020200529,4890837801,Tcha,124 Amhurst Dr,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5600,1
-1970-01-01 00:00:00.020200529,4991627807,Rf Freight Llc,6 Grady St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",12600,1
-1970-01-01 00:00:00.020200602,6596487801,"Build The Crowd, Llc","102 Main St, Suite 225",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
-1970-01-01 00:00:00.020200526,3209477806,West Point Buy Sell Trade,718 3Rd Avenue,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",6500,1
-1970-01-01 00:00:00.020200605,8395147807,M&T Tree Service,1364 Hogansville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50000,1
-1970-01-01 00:00:00.020200518,7531807402,An Affair To Remember Bridal Boutique,9 East Lafayette Square,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200602,6612187806,The Plastic Surgeon Llc,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200509,4472767409,Joseph Alford,103 Collins Dr,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",9000,1
-1970-01-01 00:00:00.020200522,2037347800,Artisan Beauty Salon Llc,2170 West Point Rd Ste 36,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",6300,1
-1970-01-01 00:00:00.020200605,8398547804,258369 Inc,1600 Whitesville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200526,3207447804,Kcc & Co Llc,306 Town Center Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13700,1
-1970-01-01 00:00:00.020200526,3351167808,"Emergency Medical Service Consultants, Ltd.",101 Lukken Industrial Dr W,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200526,3206067806,Tk Ward Enterprises,808 New Franklin Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200605,8450727808,"Ct&Kk Properties, Llc",201 Airport Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",8300,1
-1970-01-01 00:00:00.020200525,2971197802,"Govan,Inc",107 Hoffman Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200505,1818247400,Juana Lynn Whitley Nixon,811 Wisteria Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13200,1
-1970-01-01 00:00:00.020200529,4978587803,Jk Lagrange Rent Car Llc.,107 Corporate Park East Dr.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20500,1
-1970-01-01 00:00:00.020200527,3916407806,Yamamia Llc,111 Main St # 113,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",52600,1
-1970-01-01 00:00:00.020200603,7104867807,Curl Up & Dye Salon,307 S Greenwood St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7700,1
-1970-01-01 00:00:00.020200527,3773917808,Engle Insurance,1237 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",30000,1
-1970-01-01 00:00:00.020200507,3331637407,"Watts Furniture Company, Inc",212 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200508,3821867409,Takco Inc,110 Airport Pkwy,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200505,1863637409,Beacon Brewing Llc,700 Lincoln St.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200603,7583587802,Shear Perfection Hair Salon,1510 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",35500,1
-1970-01-01 00:00:00.020200522,2259507806,"Mitchell Real Estate, Llc",777 Lakeshore Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200603,7505317807,Boundless Tax Professionals Llc.,122 Cross Creek Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1300,1
-1970-01-01 00:00:00.020200603,7021607804,Austen Bradfield,1348 Bartley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",32400,1
-1970-01-01 00:00:00.020200519,8690447403,"Genesis Enterprises, Llc",28 Thornton St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200508,3770307404,Crouch Chiropractic Clinic Inc,413 Greenville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",55500,1
-1970-01-01 00:00:00.020200523,2444977809,Fun Factoree Party Rentals Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",14200,1
-1970-01-01 00:00:00.020200608,9277257809,"Strategic Support Services, Llc",523 Riverside Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3200,1
-1970-01-01 00:00:00.020200515,6527397402,2Bigfeet Llc,2052 South Davis Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200516,7467257408,Smith And Williams Company,888 Cameron Mill Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",62900,1
-1970-01-01 00:00:00.020200520,9495197410,"Abbey Park, Llc",901 3Rd Avenue,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",62700,1
-1970-01-01 00:00:00.020200603,7538767809,Veer Package Store Inc,"801 Whitesville St, Ste C",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",79900,1
-1970-01-01 00:00:00.020200530,5695637810,Deals From The Hart,112 Oakmont Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2500,1
-1970-01-01 00:00:00.020200608,9222527810,Lickety Split Towing Inc,6572 Hogansville Rd,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",64600,1
-1970-01-01 00:00:00.020200603,7485937807,Dhyey Llc,1748 Vernon Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200608,9255457809,Ronald Dunn,290 Minardi Drive,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200515,6927317410,Petro Capital Llc,2750 Roanoke Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",57000,1
-1970-01-01 00:00:00.020200527,4165797810,Eagle Motor Group Inc,13727 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200608,9280587804,Latasha Thompson Tax Service,301 Bridgewood Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200522,2121147802,"Granger Inns Ii, Llc",103 Lakeland Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10300,1
-1970-01-01 00:00:00.020200521,1584177802,Prime Cut Lawn Care,130 Plymouth Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",89700,1
-1970-01-01 00:00:00.020200522,2225397801,"Umami, Inc",505 Vernon St Suite A,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",64400,1
-1970-01-01 00:00:00.020200521,1590017807,Interstate Motors Inc,218 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200528,4258947806,Stephens Premium Tax Consultants,422 New Franklin Road Suite B,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",40000,1
-1970-01-01 00:00:00.020200521,1586437801,"M.Patton, Inc.",1406 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200511,5118607409,Livingston Services Company,2060 Pine Lake Road,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",14500,1
-1970-01-01 00:00:00.020200521,9958247409,Gfs Group Llc,80 Wood Valley Dr,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200516,7265237404,Hurst Accounting & Financial Services Inc,706 Avenue C,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",118200,1
-1970-01-01 00:00:00.020200602,6440797804,"Jj Solution Ga, Llc",1235 Hogansville Rd Apt 124,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50500,1
-1970-01-01 00:00:00.020200525,3009677802,Teachable Moments  Inc,1411 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9000,1
-1970-01-01 00:00:00.020200515,6898957403,"Children'S Dentistry Of West Georgia, Llc",202 Calumet Center Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200508,3854227401,Joel Keith Dairy,2772 Mountville Hogansville Road,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",11900,1
-1970-01-01 00:00:00.020200523,2407487805,Studio513 Hair Salon,506.5 Miller St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200518,7623927400,Lagrange Nails,203 Commerce Ave Ste F1,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",14700,1
-1970-01-01 00:00:00.020200526,3477557802,Elite Nail Spa,1300 Lafayette Pkwy Ste B,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",30000,1
-1970-01-01 00:00:00.020200525,2727587810,Hair And Company,"838 New Franklin Rd., Suite B",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11100,1
-1970-01-01 00:00:00.020200522,1829647800,Kgw Express Enterprise Llc,2838 Pine Lake Road,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17700,1
-1970-01-01 00:00:00.020200525,2607187803,Donald W. Hughes,692 Adams Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",26600,1
-1970-01-01 00:00:00.020200608,8856317803,The Wright Youth Rising Up Organization Inc,1001 East 6Th Street,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200525,2741237806,Gregory Lazer Etching,130 Copper Creek Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200525,2693007801,Lagrange Florist Llc,204 Youngs Mill Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200522,2017487810,Slp Tax Services,111 Cross Creek Dr,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200511,4912917400,"Ruby Nails Ii By Ha, Llc",900 Hogansville Rd Ste S,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",87400,1
-1970-01-01 00:00:00.020200525,2663127801,Arrington Rentals,90 North Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6800,1
-1970-01-01 00:00:00.020200601,6139537808,Woodard & Woodard Llc,105 Fannin St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200519,8592247409,"Axis Dental Milling, Llc",105 Westside Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200525,2904777810,Mars Fried Chicken Llc,2169 West Point Rd Suite 100,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",28500,1
-1970-01-01 00:00:00.020200608,8985967806,"Taesanglobal, Llc",87 New Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200601,6077817802,Sandricka Boyd,324 Baileys Way,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",36500,1
-1970-01-01 00:00:00.020200518,8375647404,Cdr Ventures Llc,104 Francolyn Ter,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",99000,1
-1970-01-01 00:00:00.020200608,8979947804,R&B Consignment,129  Bull St.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4800,1
-1970-01-01 00:00:00.020200519,9025927410,"Dr. Brent Brown And Associates, Inc",101 South Dawson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200608,9031597806,F A F B,834 Colquitt St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200521,1391477802,"Kids Zone Behavioral Health, Inc.",200 North Lewis Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",124500,1
-1970-01-01 00:00:00.020200518,8010947408,"Gspe, Inc",1700 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",102000,1
-1970-01-01 00:00:00.020200606,8685237808,Alan Cook,221 River Run Dr,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50800,1
-1970-01-01 00:00:00.020200516,7442637408,"Hamkei Generation, Inc","505 Vernon, Street",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",39700,1
-1970-01-01 00:00:00.020200525,2756037808,"Integrity Office Products, Inc.",2139 Greenville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200518,7720087410,Jef Nixon,621 Greenville Street (Mail Goes To Po Bxox 2812),LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20600,1
-1970-01-01 00:00:00.020200519,8533777404,Unpaint Services Llc,1649 Lukken Industrial Dr W,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200525,2585087806,Winston E Glanton,916 Colquitt St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",99200,1
-1970-01-01 00:00:00.020200521,9949737401,"Kbew, L.P.",1050 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200520,9231077405,Caring Spirits Llc,816 3Rd Avenue,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",23000,1
-1970-01-01 00:00:00.020200519,8691187410,Tina'S Dental Pc,704 Avenue C,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200520,9537397410,Scl Corporation,1000 Webb-Bartley Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200520,9675637408,Isaac Asset Inc.,1700 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33400,1
-1970-01-01 00:00:00.020200516,7352327405,"Abp Services, Inc.",202 Calumet Center Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",48900,1
-1970-01-01 00:00:00.020200519,9095607403,Linder Trucking Company,1005 Kelley St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200519,9151447409,Flair,900 Hogansville Rd Ste D,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",23900,1
-1970-01-01 00:00:00.020200529,4849467806,Arrington Builders And Cabinets,1402 Vernon St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",121500,1
-2020-06-24 00:00:00.000000000,2835898007,Webb'S Land Management,101 Cedar Point Dr,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",74000,1
-2020-06-11 00:00:00.000000000,1647137908,Red White 1 Inc,320 Commerce Ave,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",14200,1
-2020-06-17 00:00:00.000000000,7145127902,Latonya Sands,404 Town Center Dr #133,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",28000,1
-2020-06-11 00:00:00.000000000,1666187907,Bakers Trucking Llc,203 Moccasin Trl,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,7485607900,Nails Factory Llc,1510 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200611,1687347906,Veronica Daniel,103 Bridlewood Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19800,1
-1970-01-01 00:00:00.020200616,3713917904,Kendashus Nike Harris,140 N Davis Rd Apt 220,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200618,8551807905,Doyles Quality Used Cars,612B New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12500,1
-1970-01-01 00:00:00.020200611,1702567901,Red White 4 Inc,1831 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
-1970-01-01 00:00:00.020200611,1932367906,Vt Trucking Llc,147 Stocks Circle,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",74000,1
-1970-01-01 00:00:00.020200611,1664947906,Red White 2 Inc,3124 Hogansville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21800,1
-1970-01-01 00:00:00.020200611,1705947903,Pizazz Hair Salon,503 Brookstone Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5600,1
-1970-01-01 00:00:00.020200611,1662597904,Harrell'S Cleaners,207 West Battle Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2900,1
-1970-01-01 00:00:00.020200612,2677827909,Tree Of Life Incorporated,2202 Abbey Glenn Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17900,1
-1970-01-01 00:00:00.020200611,1969087909,Pro Nails,207B E 10Th Stress,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39500,1
-1970-01-01 00:00:00.020200616,4792337909,Trendingtopicstudiosalon,215 E 10Th St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26000,1
-1970-01-01 00:00:00.020200612,2642307906,Maloret Trust,888 Tomme Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,4832617905,"Tharpe & Jones, Inc.",349 Boy Scout Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",33500,1
-1970-01-01 00:00:00.020200611,1945917904,Tranzpro Transportation Llc Co.,305 Boston Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",73000,1
-1970-01-01 00:00:00.020200610,1449647907,Hong Wang Company,135 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200617,5911207903,Dana And David Johnson,2732 Dallas Mill Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3700,1
-1970-01-01 00:00:00.020200610,1482417910,"Carla Scarborough Dba Mcdaniel Printing Company, Llc",102 S Dawson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18800,1
-1970-01-01 00:00:00.020200611,2031127901,"Doorae Logistics, Llc",520 Bryant Lake Blvd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",43000,1
-1970-01-01 00:00:00.020200617,7590727903,"Murkerson Automotive And Tire, Llc",81 Morningside Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26300,1
-1970-01-01 00:00:00.020200612,2684227904,Alan Logistics,209 Vine St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30500,1
-1970-01-01 00:00:00.020200620,9677287904,"Innovation Station Early Learning Center, Llc",1402 Dogwood Circle,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41500,1
-1970-01-01 00:00:00.020200611,1774467905,Russell G Taylor,980 John Lovelace Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24800,1
-1970-01-01 00:00:00.020200612,2692097902,Cc'S Load Logistic,107 Bridlewood Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200611,1833977906,Pink White 2 Inc,1908 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15400,1
-1970-01-01 00:00:00.020200610,1335017908,A1 Beauty & Beyond,121 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,6923447907,Wilson Anesthesia Associates Llc,273 Stovall Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",110300,1
-1970-01-01 00:00:00.020200620,9435717910,James Mahlon Butler Ii,108 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200612,2769397908,Lagrange Barber Shop,2170 West Point Rd Ste 11,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8700,1
-1970-01-01 00:00:00.020200612,2719497905,Twigs And Berries,1681 Vernon Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33900,1
-1970-01-01 00:00:00.020200612,2734217900,West Ga. Repairs Llc,103 Brittney Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200611,2230887909,Kisu2015 Inc,10 Mccosh Millroad,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",122000,1
-1970-01-01 00:00:00.020200624,3066888003,Darius Logistics Llc,901 John Lovelace Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200616,4117867900,"Sherry'S Secreat Garden, Llc Sherry Turner Sole Pr",206A E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
-1970-01-01 00:00:00.020200616,3656387903,Pancas Georgia Llc,122 Old Airport Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200622,9925757903,Dotson Transport Llc,313 Bolee Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50100,1
-1970-01-01 00:00:00.020200624,3092768006,Bulls Hibachi Inc,1521 Vernon Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200616,4514077903,"Kmj America, Llc",1006 Longley Pl,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",45000,1
-1970-01-01 00:00:00.020200612,3155927901,"Sos Holdings, Llc",523 Riverside Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16300,1
-1970-01-01 00:00:00.020200610,1037917909,Blackbird Endeavors Llc,"102 Main Street, Suite 228",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4200,1
-1970-01-01 00:00:00.020200617,6735537902,Vsp Logis Inc,815 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200625,3929088006,Studiomax,63 North Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10600,1
-1970-01-01 00:00:00.020200616,4793557907,Atlanta Alliance Staffing Inc,121 College Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29700,1
-1970-01-01 00:00:00.020200617,6387257904,The Hair Shack,1801 Maple Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7000,1
-1970-01-01 00:00:00.020200611,2297267905,Splendid Events,116 Bull St,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200622,1373758000,Jonathon Formby,2138 Hamilton Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",100300,1
-1970-01-01 00:00:00.020200612,3154667904,"Fresh Services, Inc.",202 Smith St. Suite B,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",72500,1
-1970-01-01 00:00:00.020200620,9773887907,Daniel Leach,95 Taylor Len Dr,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200611,2385327910,Glenn'S Carpet Cleaning,80 Lovic Davis Rd,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200611,2435507904,Virashmi Llc,2585 Upper Big Springs Rd,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",40800,1
-1970-01-01 00:00:00.020200625,3444308002,Beths Cleaning Service,7077 Corinth Newnan Road,Hogansville,13285,Troup County,GA,30230,03,West,29300.0,"LaGrange, GA-AL",5300,1
-1970-01-01 00:00:00.020200610,1191897903,Embry Mark Bailey,337 Burgess Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",64400,1
-1970-01-01 00:00:00.020200624,2321028007,"James W. Harry, Attorney At Law",300 South Greenwood Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23800,1
-1970-01-01 00:00:00.020200624,2588028006,Kimberly Lashay Bandy,102 Deer Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200616,5283617906,Yong'S Sewing,2170 West Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200612,3051657909,Pawsitive Traction Llc,100 Brazell St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200611,2380767903,"Ak & Ym, Llc.",1841 Roanoke Rd # 12,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200611,1821807904,Trendsettaz Beauty Bar,3954 Pine Lake Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
-1970-01-01 00:00:00.020200611,2360097906,"Painting, Pressure Washing, Etc Llc",858 Waterveiw Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,5239947903,Leslie And Finis Jones,210 W Broome Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35000,1
-1970-01-01 00:00:00.020200610,1173397902,"Sam Sim Seither, Llc",1601 Hamilton Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99000,1
-1970-01-01 00:00:00.020200625,4204408003,Adam Motors Llc,1007 Hogansville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200620,9396687910,Southside Cleaners,603 Whitesville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200617,6375287905,Wilson & Louise Transportation Llc,1207 2Nd Ave Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",90000,1
-1970-01-01 00:00:00.020200612,3412007909,"Crosstel, Inc.",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,6402497905,New Star Expediting Services Llc,"1418 Forest Mill Ln, 101",West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200610,1191527908,Fishers Of Men Services Inc.,211 Hogan Coweta Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200617,7086827910,"Dunn Logistics , Llc",129 Woodridge Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
-1970-01-01 00:00:00.020200617,7143957900,Glam Up,124 Hamilton Lake Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200616,4771387903,Southeastern Overhead & Garage Door,8 Cedarcrest Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23000,1
-1970-01-01 00:00:00.020200618,7675637910,Erik Patterson,6310 Roanoke Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200625,3828048006,Weiss Distributions Inc,4 Hood Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48000,1
-1970-01-01 00:00:00.020200616,3887137906,"Stevi Moon, Llc",250 Edgemont Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1800,1
-1970-01-01 00:00:00.020200622,1330938006,Williams Lawn Service,610 Frank Hall Jr. St.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8500,1
-1970-01-01 00:00:00.020200616,4047467902,"International Workers Group, Llc",26 Center Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",28400,1
-1970-01-01 00:00:00.020200616,4058537905,Functioning Disfunctionals Llc,150 Camp Viola Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200625,3363358004,Volkman Properties Llc,107 Creek Pointe Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10300,1
-1970-01-01 00:00:00.020200616,4689187903,May Martial Arts,229 S Davis Rd Ste 500,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200623,1803748009,J.L.W. Industrial Services Inc.,305 W. York Town Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",116500,1
-1970-01-01 00:00:00.020200624,2908728004,Fish King Llc,2661 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17300,1
-1970-01-01 00:00:00.020200616,3871327910,Victorious Group Inc,804 (A) Whittsville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
-1970-01-01 00:00:00.020200618,7700687906,Lagrange Logistics Llc,203 Johnson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",43000,1
-1970-01-01 00:00:00.020200612,3586067905,Distinguished 2 Salon,803 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200625,4014908010,Red N Rob Enterprises Llc,317 Cherry St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42200,1
-1970-01-01 00:00:00.020200625,3676698002,Quantavius Meshawn Leslie Sr,700 North Boyd Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26000,1
-1970-01-01 00:00:00.020200622,1217218000,Katherine Adams,1209 Vernon Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",73000,1
-1970-01-01 00:00:00.020200619,8755767908,Express Pawn,1600 Whitesville St Ste B,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200618,8582667903,Domino Construction,860 Georgia Highway 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
-1970-01-01 00:00:00.020200625,4084718007,Gail  Mcqueen Hunter,514 Milam Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200612,3637167901,Fresh Cutts Lawn Maintenance Llc,828 Colquitt St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200620,9663617906,Shaquarea Bandy,102 Deer Creek Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
-1970-01-01 00:00:00.020200617,6583037905,Skip Kendrick,1101 3Rd Ave,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200625,3473458000,Myas Heavenly Creations Llc,1304 Hogansville Rd Suite C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20100,1
-1970-01-01 00:00:00.020200617,6293007909,710 Bar & Grille Llc,710 New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200625,4047838009,Patterson Logistics,531 Hillcrest Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17200,1
-1970-01-01 00:00:00.020200622,1513618007,"Zachry, Inc",1208 3Rd Ave,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200612,3542977905,Mauzy Business Solutions Llc,249 Beechwood Circle,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",5400,1
-1970-01-01 00:00:00.020200625,3401168008,Donald Smith,100 Hickory  Circle West,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",74700,1
-1970-01-01 00:00:00.020200617,6083727904,Frontline Enterprise America Llc,303 Jasmine Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",45100,1
-1970-01-01 00:00:00.020200612,3192207907,"Lambeth Enterprises, Llc",1404 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18700,1
-1970-01-01 00:00:00.020200617,5520027900,"Tim Ellen, Dba New York Life",201 Calumet Center Rd Ste A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",103400,1
-1970-01-01 00:00:00.020200617,6360517910,"Audiotrenz, Llc",1311 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",134300,1
-1970-01-01 00:00:00.020200620,9740757907,My-T-Clean Lawn Care Service,102 Richmond Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200617,6470277900,Morgan Family Investment Properties,103 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200612,3187647905,Smoke Stop Vape Shop,3452 Hogansville Rd Bldg B,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",134000,1
-1970-01-01 00:00:00.020200622,1088108005,The Inner Path Llc,206 Smith Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
-1970-01-01 00:00:00.020200617,7582837901,Ez Lease Lagrange Llc,"1003 Hogansville Rd, Suite F",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",54300,1
-1970-01-01 00:00:00.020200620,9700867900,Rore'S Boutique & More Llc,147 E Greenwich Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200625,4085348005,Nikita Glenn,114 Greenbriar Trl,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200616,4403257906,Poochi Pet Resort,525 New Franklin Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",102300,1
-1970-01-01 00:00:00.020200619,8890117904,Aarirang,3894 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200624,2418618003,Marie Curtis,1364 Greenville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",47600,1
-1970-01-01 00:00:00.020200618,8495197906,Ada Express Llc,617 Burkes Chapel Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
-1970-01-01 00:00:00.020200622,1103948009,Ilyza Properties Llc,158 Youngs Mill Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",31200,1
-1970-01-01 00:00:00.020200619,8896297902,Latrica James,1211 Eastwood Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21000,1
-1970-01-01 00:00:00.020200616,3784437910,Webb'S Heating And Air Llc,106 Swift St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200618,8114007903,West Georgia Liquidation,38 Savannah Place Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200618,8545287908,Monica Askew,1124 Cannonville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2900,1
-1970-01-01 00:00:00.020200620,9399627909,Randy Reeves,71 Williams Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200624,2256768009,Lagrange Business Llc,1318 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71200,1
-1970-01-01 00:00:00.020200616,4450627902,Hometown Vapors Llc,101 Harwell Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",31900,1
-1970-01-01 00:00:00.020200622,1162268006,Carla Pressley,109 Roy Stallings Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200623,2150648010,Cleaven Stargill,395 Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200616,4155227908,Gamelink Llc,1791 Og Skinner Dr Ste C,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99600,1
-1970-01-01 00:00:00.020200625,4268968006,Teaching Loving Caring Ii Llc,411 E Depot St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,3966527903,"Management Solutions Group, Llc",108 Sturbridge Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24400,1
-1970-01-01 00:00:00.020200616,5337727900,At Tech America Llc,510 Callaway Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200624,2763788009,Guyana Thomas,905 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200625,3760778005,"Sweet Pea'S Floral Design Of Distinction, Llc",609 Greenville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9000,1
-1970-01-01 00:00:00.020200619,9107087901,"First Cut Communications, Llc",345 Willow Pointe,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26900,1
-1970-01-01 00:00:00.020200616,5000647905,Sentry Self Storage Llc,122 Bell Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200617,5827907909,Francisco Wing,2520 Stovall Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23900,1
-1970-01-01 00:00:00.020200622,1106048005,Sams Construction,211 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99000,1
-1970-01-01 00:00:00.020200625,4178668006,"Global Sports Bar, Llc",2169 West Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,4672997903,Digitech Services,1514 Us Highway 29,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200617,6805677905,Turner Transportation,701 Lee Ct,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
-1970-01-01 00:00:00.020200620,9579807901,Lee R. Hixon Jr.,107 Emily Place,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",61000,1
-1970-01-01 00:00:00.020200624,2508068008,"Proaudio Ga, Llc",70 Iris Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",70400,1
-1970-01-01 00:00:00.020200617,6124447900,"J & C Pilot Car Services,  Llc",228 Sivell Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",88100,1
-1970-01-01 00:00:00.020200623,1635818006,Yvette'S Three In One Business Llc,1002 1/2 Greenville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",34500,1
-1970-01-01 00:00:00.020200616,3971177910,Tritter Feefer Home Collection Llc,200 Lukken Industrial Drive East,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200620,9769757900,Mrs. Rhonda'S Stay N Play,2767 Roanoke Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200625,3801738001,Harris Gray Llc,824 Third Ave.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,7336267901,Samples Express Inc,1101 Og Skinner Dr,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,6511647901,Carl Fowler Dba Fowler Masonry,233 Sivell Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18600,1
-1970-01-01 00:00:00.020200617,7582747909,Laney Ayres,205 Bryon Hurst Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",37200,1
-1970-01-01 00:00:00.020200617,7448537904,Turner Express Trucking Llc,Pine Grove Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
-1970-01-01 00:00:00.020200617,7228727900,Ray'S Cutz,603 Borton St Apt C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5800,1
-1970-01-01 00:00:00.020200618,8282727906,Krisha 2016 Inc.,103 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,5018397900,Pure Worship Deliverance Tabernacle,430 Corinth Rd.,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42400,1
-1970-01-01 00:00:00.020200617,5563647909,Wendy Brooks,1105 Hogansville Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",7400,1
-1970-01-01 00:00:00.020200622,9920177907,Jackson Spotless Cleaning,201 Brooks Rd,Hogansville,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200618,7961957902,Wandering Hazel Touring Inc,293 Alverson Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",64300,1
-1970-01-01 00:00:00.020200618,8027897903,Guyana Thomas,109 King Arthur Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21100,1
-1970-01-01 00:00:00.020200617,6341537910,"Mcguire Insurance Group, Inc.",518 Lower Glass Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",92200,1
-1970-01-01 00:00:00.020200617,6483207900,Matthew Morgan,608 East Main St.,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21500,1
-1970-01-01 00:00:00.020200622,1064848010,Robert L. Jackson,147 E Greenwich Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4500,1
-1970-01-01 00:00:00.020200618,8686637910,Valway Logistics Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",31400,1
-1970-01-01 00:00:00.020200617,7504977902,West Georgia Textile Inc,145 Trimble Station Road,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200616,4564977900,"Comprehensive Search, Llc",1321 Roper Ave,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",19100,1
-1970-01-01 00:00:00.020200622,1231528006,God'S Tomorrow Inc,916 Colquitt St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8600,1
-1970-01-01 00:00:00.020200624,3152138008,Bull'S Hibachi Sushi Llc,104 Bull St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200617,7165867909,Dynamic Transportation Lp,105 North Pointe Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29200,1
-1970-01-01 00:00:00.020200624,2657628003,"Jda Georgia, Inc.",378 Old Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-2020-07-20 00:00:00.000000000,5777948101,Anh Dung Tran,1861 Roanoke Rd,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",11400,1
-1970-01-01 00:00:00.020200701,6988268005,Debbie T. Pitts Coldwell Banker Spinks Brown Durand Realtors,1101 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
-1970-01-01 00:00:00.020200713,2097568108,Alonzo Render,2701 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200713,2511948100,First Take Llc,304 Scenic Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23500,1
-1970-01-01 00:00:00.020200630,6144978006,"B & E Happy Hoppers, Llc",7 Duffey Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33900,1
-1970-01-01 00:00:00.020200701,7168018010,Lanisha Rivers,16872 Georgia Highway 219,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200721,6080868106,Laticha Phillips,1515 Hogansville Rd Apt 149,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22400,1
-1970-01-01 00:00:00.020200714,3225568108,Deshbir Singh,204 Ridgeview Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",82400,1
-1970-01-01 00:00:00.020200717,4715058105,Arbors And Vines Consulting,207 Beechwood Cir,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71000,1
-1970-01-01 00:00:00.020200721,6082508107,Eric Poythress,1003 Juniper St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200715,4100038103,John Patterson,531 Hillcrest Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200701,7514928005,Oc Stiggers,61 Pearl Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200702,7689608005,Tiffany Scott,100 Perimeter Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200715,3761498104,Ask & Tell Llc,2170 West Point Rd Ste 14,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48100,1
-1970-01-01 00:00:00.020200702,7970708002,Melissa Miller,119 Drew Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
-1970-01-01 00:00:00.020200713,2284038108,Keandrea Smith,103 Lee Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19800,1
-1970-01-01 00:00:00.020200711,1725008101,Jewelz Joyfully Elevating With Excellence Loyalty And Zeal,1009 Ave H,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200715,3763638102,Tynel Logistics Llc,1515 Hogansville,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7000,1
-1970-01-01 00:00:00.020200707,9213158005,A-1 Garage Doors,308 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23100,1
-1970-01-01 00:00:00.020200714,3441238108,Krafts By Kia,"110 Old Airport Road, Apt 914",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18300,1
-1970-01-01 00:00:00.020200715,3531538108,Brewers Tutoring And Consultative Services,911 New Mexico Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200714,3291488106,Kristan D Towns,404 Bridgette Blvd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
-1970-01-01 00:00:00.020200715,4002768106,"D&W Elite Auto Sales, Llc",1800 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",93500,1
-1970-01-01 00:00:00.020200715,4134038101,Hubert Finley,1000 East  12Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
-1970-01-01 00:00:00.020200715,3558278102,Jason C K Slaton,643 Granger Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
-1970-01-01 00:00:00.020200715,3980898106,Stitchedbymoni,964 F Mooty Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200701,7436578000,Caseys  Bookkeeping And Tax Service,1345 Cannonville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200630,6366408005,Flamonica N Potts,103 Reveree Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11500,1
-1970-01-01 00:00:00.020200630,6934018005,Platinum Agency Inc,504 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
-1970-01-01 00:00:00.020200715,3532658100,West Georgia Motorcade Escorts,4734 Youngs Mill Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
-1970-01-01 00:00:00.020200706,9047518010,Anrique Cameron,810 Creed Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12200,1
-1970-01-01 00:00:00.020200709,1481078103,Sharon Hixson,114 Westgate Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41000,1
-1970-01-01 00:00:00.020200703,8239288002,Pdc Auto And Auto Brokers,206 Marchman Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200714,3393058107,Garrett Transportation,1235 Hogansville Rd. 123,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",40000,1
-1970-01-01 00:00:00.020200701,7279578006,Mlc Taxes And Financial Services,339 Baileys Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
-1970-01-01 00:00:00.020200715,4080368110,Ernestine Towns,4733 Greenville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19400,1
-1970-01-01 00:00:00.020200701,7500998003,Access Unlimited,163 Jim Turner Road,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200629,5887178009,Germon Mckee Enterprise Inc.,5101 Forrest Road,Hogansville,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200713,2184798105,Southern Life Insurance Group Llc,210 W Broome St,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200713,2533628110,Catherine Trammell,512 Bryant Lake Blvd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200626,4455808010,Destined-N-Fitness Llc,1605 Vernon Rd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200715,4042488110,Richard Mackfield,150 Turner St Apt#C12,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200707,9473348010,Aranai Boundary Tree Services Llc,883 Youngs Mill Rd Lot E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20900,1
-1970-01-01 00:00:00.020200702,7933388003,Crowders Transportation Inc,177 Abbottsford Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",111400,1
-1970-01-01 00:00:00.020200626,4354238006,Cuttfresh One Of One Clothing Llc,103 Swanson Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20500,1
-1970-01-01 00:00:00.020200701,7502208004,Lashantras,200 Fredrick St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",49000,1
-1970-01-01 00:00:00.020200713,2632558108,Stephanie'S Catering Service,313 Brookfield Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
-1970-01-01 00:00:00.020200711,1617708102,"Ken & Drew, Llc",293 Alverson Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",110600,1
-1970-01-01 00:00:00.020200701,7566168004,Rodrick Hardin,103 Shady Oak Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",44500,1
-1970-01-01 00:00:00.020200709,1285508104,"Building Blocks Behavioral Center, Llc.",316 North Lewis Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200714,3373978104,Ashley'S Interior Design,93 Clearwater Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200702,7676018006,"Midsouth Mechanical, Inc.",114 Corporate Park East,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200711,1627538103,Chiquita'S Hair Braiding,60 N Cary St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200704,8388478004,Angela Cameron,815 Creed St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",18400,1
-1970-01-01 00:00:00.020200702,7762348007,Dukes Electric Compay,144 Waugh Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200702,8040678004,Bella Jais,1092 Cannonville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",59000,1
-1970-01-01 00:00:00.020200711,1757768100,Joynus Staffing Solution Inc,1506 Whitesville St.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200626,4811438003,Luxesix16,401 Mckinley Cir,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",51100,1
-1970-01-01 00:00:00.020200706,8848778002,Meimei Ice Cream Inc,12 N Lafayette Sq,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17100,1
-1970-01-01 00:00:00.020200711,1871878102,Deontre Harden,102 E Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",80000,1
-1970-01-01 00:00:00.020200709,1035368107,Pamela  Billingslea,35 Lower Lovelace Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200701,7389218004,Cheryl H Stiggers,3429 Ga Hwy 18,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
-1970-01-01 00:00:00.020200711,1899288104,Toriano Stafford,1406 Avenue K Apartment A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1900,1
-1970-01-01 00:00:00.020200708,9839228004,Pamela M Carothers Cleaning Llc,9112 Layfatette Pkwy,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200703,8256058005,Steven  H Cutwright,112 Bridgette Boulvard,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7400,1
-1970-01-01 00:00:00.020200715,3809348105,Oh Yes! Lounge And Sleepwear,64 North Cary St Apt E-24,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200711,1705008104,Creative Work Expressions,504 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
-1970-01-01 00:00:00.020200713,2242018104,Larry Hill,1229 Cannonville Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200626,4885258000,Karen E Nelson,2434 Upper Big Springs Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200626,4350578006,Bella Amour Boutique,636 Pyne Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200706,8692218001,4Mankind Llc,127 Commerce Ave Ste  8,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4100,1
-1970-01-01 00:00:00.020200702,8047468003,Dorothy King Hyman,110 Weathers,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
-1970-01-01 00:00:00.020200629,5301058001,Sheronda Lovelace,207 N Dawson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2200,1
-1970-01-01 00:00:00.020200713,2548068100,Demetrius Cutwright,1016 Colquitt Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200708,9621368008,Tameka Atkinson,404 Ave G,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",75000,1
-1970-01-01 00:00:00.020200714,3444398105,Teresa Gbadebo,324 Samples Road,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1300,1
-1970-01-01 00:00:00.020200626,4882668010,Ann  Kelton Agric,2227 W Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35500,1
-1970-01-01 00:00:00.020200708,9594138002,Joyce Elaine Brown,113 Daniel Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10100,1
-1970-01-01 00:00:00.020200703,8132958002,Tracy Dempsey,71 S. Smith Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200626,4483978001,Jackson Lawn Service,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4300,1
-1970-01-01 00:00:00.020200713,2756468107,Jamarcquenus Scott,407 East 8Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200713,2383768110,Damien Langston,75 Maley Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9800,1
-1970-01-01 00:00:00.020200627,5189248009,"Purpose Valley Farms 212, Llc",4513 Whitesville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35100,1
-1970-01-01 00:00:00.020200713,2856378101,Kristen Sews It All,2336 Ga Highway 18,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200711,1853378101,Dan D. Mcclurkin,600 W.Boyd Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8300,1
-1970-01-01 00:00:00.020200627,5159058010,One Touch Lawn Services Llc,1206 E 11Th Street Apt A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200629,6054598006,Pnj Enterprise Llc,1597 Vernon Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200629,5631918002,Jl Wilkinson Consulting Llc,403 Briarcliff Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200714,3426488104,Gina Scott,1005 E 9Th St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13200,1
-1970-01-01 00:00:00.020200708,9644748007,Caring And Sharing Learning Center Llc,105 Mimosa Ter,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50000,1
-1970-01-01 00:00:00.020200704,8445298006,Uber,140 Lafayette Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",49000,1
-1970-01-01 00:00:00.020200703,8095998003,Alan Keith Cavender,103 Cedarcrest Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200715,3683418106,Team Solution Llc,101 S Dawson St Ste E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42700,1
-1970-01-01 00:00:00.020200709,1176498104,Citizen1 Capital Llc,212 Kings Park Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200701,7479388002,Taxes R Us,118 Martin Luther King Jr Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200701,7106038010,Sherika Strozier Sole Mbr,600 S Lee St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",8400,1
-1970-01-01 00:00:00.020200626,4459518003,Keria'S Boutique,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200629,5549448004,The Shepherd'S Transport,2877 West Point Rd,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",30000,1
-1970-01-01 00:00:00.020200709,1272618103,Adrian Mcfarlin,236 Samples Rd,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",21000,1
-1970-01-01 00:00:00.020200713,2961148104,Carlton Maddox Jr.,79 Leonard Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",33800,1
-1970-01-01 00:00:00.020200701,7098058004,Shannon Mcclendon,804 Piney Woods Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200715,3672348103,De Martin Livestock,102 Woodchase,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42400,1
-1970-01-01 00:00:00.020200715,4006378104,Dsa Logistics Llc,699 John Lovelace Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",107500,1
-1970-01-01 00:00:00.020200701,7452248006,Takara Davis,1515 Hogansville Road Apt 118,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21400,1
-1970-01-01 00:00:00.020200703,8081568002,Essence Arrives Networking Broker,1049 Harmon Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39600,1
-1970-01-01 00:00:00.020200630,6182768003,New Life Deliverance Church,208 Handley Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
-1970-01-01 00:00:00.020200701,7498938007,Granville Global Properties Llc,1700 Eastwood Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",89000,1
-1970-01-01 00:00:00.020200713,2334698106,Sheri Lyn Metternick-Jones Dba Hogan House At Rose Hill Bed And Breakfast,804 East Main Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25200,1
-1970-01-01 00:00:00.020200713,2062408106,J.Green Lawn Care,605 Lee Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200706,8492618009,Kiseha Jones,1703 Hunnicutt Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200701,7477298006,Kishara Barrett,12 Habersham Dr Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200707,9331838009,Dl Daniel Home Repair Llc,109 Renae Ln,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200629,5486638004,Natasha Brown,106 Fendig St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200703,8210278006,Steven Ballard,708 Meadow Terrace,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17500,1
-1970-01-01 00:00:00.020200713,2241938107,Degarious Beasley,817 Troup St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",49500,1
-1970-01-01 00:00:00.020200715,3936268108,Kaylon Jnae Levi,173B Lincoln St,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200708,9627598008,Gabriel Atkinson,311 Samples Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",75000,1
-1970-01-01 00:00:00.020200706,8588848002,"Smith Brothers Service Co.,Llc",123 Greenbriar Tr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200701,7357598008,Tifani Woodyard,2101 New Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7600,1
-1970-01-01 00:00:00.020200702,7734628000,Kristy  Shree Parks,1041 East Main St.,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200713,2788568107,Sheila Renee Caverly-Gillett,406 Ridley Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200629,6091698000,Loving Hands Foundation,1087 Hammett Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200630,6317018010,Williams Express Llc,617 Burkes Chapel Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",82800,1
-1970-01-01 00:00:00.020200709,1099618109,Lynmekia Hall,903 1/2 Motley Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2600,1
-1970-01-01 00:00:00.020200723,7598978103,Christopher L Hudson,109 Cambridge Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17100,1
-1970-01-01 00:00:00.020200630,6382508000,Yc Academy Llc,1304 Hogansville Rd Ste D,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20800,1
-1970-01-01 00:00:00.020200708,9877498005,Middleton Developments Llc,105 Corporate Plaza Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",77000,1
-1970-01-01 00:00:00.020200707,9248358006,Entertainment Venue,110 West Meadows Way Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1600,1
-1970-01-01 00:00:00.020200703,8319748009,Tommy'S Auction Barn,104 Swift Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6200,1
-1970-01-01 00:00:00.020200723,7216108106,Roderuana Harrison,101 Ware St.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200709,1450038110,Williams Enterprise,124 Wexford Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",44000,1
-1970-01-01 00:00:00.020200723,7090948104,Secret Lush,318 Eichelberger Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",22000,1
-1970-01-01 00:00:00.020200630,6975218002,Whitney Benton,200 Boulevard Apt B,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200708,9757678006,Charnelles Catering Llc,207 Dix Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",40000,1
-1970-01-01 00:00:00.020200629,5443268000,West Georgia Landscape Co.,715 Camellia Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",18700,1
-1970-01-01 00:00:00.020200627,5101888009,Bernadette Adams,202 Heritage Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200721,6280308107,Caring Hands,110 Old Airport Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200629,5672308003,Express Wings & Things,109 Martin Luther King Jr Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9600,1
-1970-01-01 00:00:00.020200713,2267948108,Lucisus Hollis,7181 West Point Road,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200706,8546018002,Trevor Dunson,4555 Mooty Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42500,1
-1970-01-01 00:00:00.020200711,1885128101,Faith Temple Church Of Deliverance,221 Edgewood Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",57100,1
-1970-01-01 00:00:00.020200721,6162578106,Nisha Homecare,303 Front St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7400,1
-1970-01-01 00:00:00.020200721,6126948102,Hardy Logistic & More,1009 Kelly Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",27000,1
-1970-01-01 00:00:00.020200629,5696308008,"Reeds Landscape & Design, Llc",1670 Ga Hwy 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17000,1
-1970-01-01 00:00:00.020200721,6374298107,Tha Feline Effect,318 Eichelberger Drive,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",15200,1
-1970-01-01 00:00:00.020200723,7239988104,Kendra Kissun,104A Saynor Cir,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200721,6164208104,Eugene Carroll,2775 Hammett Rd,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",1300,1
-1970-01-01 00:00:00.020200713,2430568102,Strickland Cleaning Service,643 West Main Street,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200704,8392598008,"Wildwood Timber And Clearing Contractors, Llc.",4973 Greenville Rd,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200713,2773748110,"Divine Vision Network, Inc",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",43600,1
-1970-01-01 00:00:00.020200630,6297428006,Carlton Carpenter,389 Linden Ave Ne,West Point,13285,Troup County,GA,,5.0,West,29300.0,"LaGrange, GA-AL",75000,1
-1970-01-01 00:00:00.020200717,4978228110,Maran Properties Llc,872 John Lovelace Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200720,5686808110,Mae'S Mobile Detailing,103 Yarmouth Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200720,5670108107,Spriggs Property Services,615 Gabbettville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
-1970-01-01 00:00:00.020200630,6365818008,Cameron Lawn Care,517 Everette Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24000,1
-1970-01-01 00:00:00.020200709,1452028100,Ashley Langston,1217 Lindsey Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10800,1
-1970-01-01 00:00:00.020200709,1020798104,Shoe Pourne,1201 Northview Dr,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1900,1
-1970-01-01 00:00:00.020200706,8924758010,William P. Barnes,225 Hickory Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9000,1
-1970-01-01 00:00:00.020200709,1451978101,Lonnesha,108 Colonial St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20300,1
-1970-01-01 00:00:00.020200701,7201888005,Shalaynea Willoughby,201 Boulevard,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200711,1608988103,Lagrange Bread Company,523 New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22000,1
-1970-01-01 00:00:00.020200630,6750608000,Safe Manner,24 Cary Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200713,2498668104,Ashley Nixon,75 Maley Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9800,1
-1970-01-01 00:00:00.020200721,6206738109,Strickland'S Texaco Inc,514 2Nd. Ave.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33700,1
-1970-01-01 00:00:00.020200630,6842098010,Lewis Williams,250 0Ld Pond Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200723,7117138109,Tiffaney Talley,1515 Hogansville Rd Apt 191191,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200706,8506898003,Brenda'S Salon,1019 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200713,2439908104,Everett Leslie,100 Adams Dr.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200720,5523628110,Andrew Stargell,205 Johnson Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",27400,1
-1970-01-01 00:00:00.020200720,5582378107,Family Ties,412 East 5Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200717,4915918108,Westpoint Liquor Inc,901 Avenue B,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",143000,1
-1970-01-01 00:00:00.020200720,5586078108,"Croakin Poets, Inc",293 Alverson Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10700,1
-1970-01-01 00:00:00.020200720,6001648102,Stargill'S Pressure Washing,395 Mount Zion Church Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200630,6520108008,"Ashcraft Company, Llc",209 Ridley Ave Ste A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",145900,1
-1970-01-01 00:00:00.020200722,6627418105,Tonnishia Bailey,1401 4Th Avenue,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
-1970-01-01 00:00:00.020200626,4606678006,Brian Hare Llc,1607 Hamilton Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200709,1074498103,Brianna Harrison,147 Woodridge Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",84500,1
-1970-01-01 00:00:00.020200702,8035278008,Mcbride Handy Services,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3300,1
-1970-01-01 00:00:00.020200714,3238178108,Clockwork Performance Training,100 Southern Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41400,1
-1970-01-01 00:00:00.020200722,6614538107,J Young Lawn Care,90 Spring St Apt 108,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22500,1
-1970-01-01 00:00:00.020200626,4851188005,"Southland Propane Service, Inc.",324 South Davis Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11800,1
-1970-01-01 00:00:00.020200703,8217858006,Cordsica Hood,109 Cross Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200716,4201628102,K&Z Pca Home Care Service,927 Greenville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200721,6031798102,Monroed,"119 Old Airport Rd, Apt 103",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200721,6029398101,Islayhair,108 Lincoln St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
-1970-01-01 00:00:00.020200704,8363848001,Lawrentez Davenport,203 Northfield Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26500,1
-1970-01-01 00:00:00.020200711,1776718102,Luther Parks,36 S. Brooks Rd.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",9700,1
-1970-01-01 00:00:00.020200720,6009178108,Demario Poythress,1523 Vernon Rd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",27900,1
-1970-01-01 00:00:00.020200708,9974898009,Juanevry Rosser,1600 Meadow Terrace Apt 507,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200713,2654968103,Memorial & Nikki Tax Service,2170 West Point Road Suite 14,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",39000,1
-1970-01-01 00:00:00.020200713,2270378104,County Line Bbq And Catering Company,138 Ridgefield Dr.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1400,1
-1970-01-01 00:00:00.020200721,6072428103,Weld Test Services,145 N Lake Dr.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",34000,1
-1970-01-01 00:00:00.020200721,6048258100,The Sweet And Cookie Shop,970 Mooty Bridge Rd Apt H,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",12500,1
-1970-01-01 00:00:00.020200721,6048288109,Mike'S Automotive Shop,129 Brenda Blvd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200630,6814508005,Coach Earl Chambers Llc,108 College Ave,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",32600,1
-1970-01-01 00:00:00.020200711,1604708103,Charles P Smith,100 Perimeter Dr,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200704,8421358006,Shaquavious Gray,115 Mitchell Ave,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200713,2381698109,Saquanna Leslie,428 Cooley Rd,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200701,7354018003,Shannon Maddox,1003 Colquitt St,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",23500,1
-1970-01-01 00:00:00.020200715,3983078102,Kim Nhu T Le,"1300 Lafayette Pkwy, Ste B",LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",18400,1
-1970-01-01 00:00:00.020200721,6026148101,Kyeron Crim,408 East 7Th Street,West Point,13285,Troup County,GA,31833,03,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200715,3604448107,Kelly Connect,103 Lafayette Court,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200713,2528828106,Back 2 Basics Boxing & Fitness,I605 Vernon Rd Suite 2300,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200713,2833448106,Kendra Mobley,901 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200714,3475838109,Sherry Sells Inc,311 Taliaferro Drive,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15600,1
-1970-01-01 00:00:00.020200713,2698388108,Beasley Trucking,251 E. Mount Zion Church Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48300,1
-1970-01-01 00:00:00.020200707,9107138006,Ramona Walker,222 Jasmine Lane,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200713,2912598103,"Hands Of Blessing, Inc.",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22100,1
-1970-01-01 00:00:00.020200707,9512998010,Emerald Digital Media,103 Sir Galahad St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3300,1
-1970-01-01 00:00:00.020200713,2926048103,Laleatha Potts,1002 Juniper St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
-1970-01-01 00:00:00.020200721,6191818105,Carlos Williams,210 Youngmills Rd Apt 116,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5300,1
-1970-01-01 00:00:00.020200713,2036508108,Rhonda Harpole Insurance,171 Willis Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29000,1
-1970-01-01 00:00:00.020200713,2710218107,Jerome Mcclendon,804 Piney Woods Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200713,2834848110,Shantris Sharpe,203 East Hillside Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
-1970-01-01 00:00:00.020200721,6429688104,Knz Trucking Llc,64 N Cary Street P68,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7600,1
-1970-01-01 00:00:00.020200723,7069158109,Rachelle Cleaning Service Llc,103 Burden Dr,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200714,3211938100,Regal Run Sporthorses Llc,11032 Highway 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14400,1
-1970-01-01 00:00:00.020200701,7150638010,Taneshia Hill,107 Woodridge Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200707,9175678006,Mcteral Houston,53 Horace Carter Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",37000,1
-1970-01-01 00:00:00.020200706,8538938007,Traimone  Hill,221 E.Mount Zion Church Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8300,1
-1970-01-01 00:00:00.020200711,1875818103,Harper J Boutique,1515 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21500,1
-1970-01-01 00:00:00.020200711,1558718104,Christian Brooks,105 North Barnard Avenue,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200722,6863528105,Josephine Dallas,304 Niles St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200709,1060558107,Curtis Scott,39 Hampton Green Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50000,1
-1970-01-01 00:00:00.020200717,4701168102,Bernadette Mcrae,180 Mallory Dr,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200711,1603318102,Wilson Langston,1208 Lindsey St.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
-1970-01-01 00:00:00.020200704,8370128006,Sharonda N'Une Washington,908 Troup Street,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",30100,1
-1970-01-01 00:00:00.020200709,1366538104,Brenyada Gates,104 Hampton Green Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
-1970-01-01 00:00:00.020200706,8828288000,Blessed Hands Quality Cleaning,42 Ash Drive,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",4300,1
-1970-01-01 00:00:00.020200711,1631968106,Mans Asap Landscaping,605 Murphy Ave,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",6300,1
-1970-01-01 00:00:00.020200722,6872468102,George Montgomery Callaway Dba Clearwater Condo 1C,613 Piney Woods Drive,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
-1970-01-01 00:00:00.020200708,9984418009,Iseebookz Publishing Llc,Suite 300 Commerce Ave Suite 137B,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",2600,1
-1970-01-01 00:00:00.020200709,1496448110,Cut For Cause,360 Maley Rd Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
-1970-01-01 00:00:00.020200711,1654358103,Scotts Cleaning Service,3475 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1700,1
-1970-01-01 00:00:00.020200723,7274898107,Jared Larson,902 S Willowcrest Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
-1970-01-01 00:00:00.020200717,4776248107,Telephone Call Center,710 Ave H,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4400,1
-1970-01-01 00:00:00.020200713,2034308103,Keisha Boykin-Parham,303 Fair St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
-1970-01-01 00:00:00.020200711,1590078102,Raymond Hall,60 William St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200701,7258828010,Sby Enterprise Llc,1235 Hogansvill Rd  Ste823,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",74000,1
-1970-01-01 00:00:00.020200713,2405848101,Shontorie,81 N Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17900,1
-1970-01-01 00:00:00.020200713,2733838108,Juan Simpson,923 B Arizona Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200709,1115128105,Tulla White Dba Venucci,129 Main Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200717,4957738100,Spence Jester,132 E Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
-1970-01-01 00:00:00.020200723,7298298109,Caras Cleaning Services,114 Mitchell Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200717,5014028109,Debbie Dibauda,202 Village Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3200,1
-1970-01-01 00:00:00.020200723,7253168101,Caring Healthcare Staffing,1302 West Point Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",54500,1
-1970-01-01 00:00:00.020200703,8198888008,Courtney Bussey,115 Mitchell Ave Apt 21,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
-1970-01-01 00:00:00.020200720,5975898100,Mckees Flowers,128 Greenville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19300,1
-1970-01-01 00:00:00.020200723,7064278100,Dlon Staples,805 S Ogletree St,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200720,5657328109,Elvonia Personal Care Home,5365 Whitesville Road,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",81100,1
-1970-01-01 00:00:00.020200720,5549978108,Sidney Hendley,2131 Saint Marks Rd,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",27000,1
-1970-01-01 00:00:00.020200723,7276338107,T & J Transportation Llc,6 Barnard Ave,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",11900,1
-1970-01-01 00:00:00.020200720,5535618104,"National Warehouse Management, Inc",2388 Bartley Road,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
-1970-01-01 00:00:00.020200720,5574868101,"Crooked Chimney Music, Inc",293 Alverson Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",37800,1
-1970-01-01 00:00:00.020200720,5792828109,Yung Rich Lyfe Llc,140 North Davis Road Apt 920,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
-1970-01-01 00:00:00.020200716,4382388100,Taju Salon,1165 Hines Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6700,1
-1970-01-01 00:00:00.020200701,7193918000,Kakesha Stargell,319 E Mt Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200722,6811738107,Blacktop Brothers Btb Llc,55 Patillo Rd Apt 35,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
-1970-01-01 00:00:00.020200717,4903228105,Communion Fellowship Ministries International,317 Ragland St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200716,4192728105,Tabatha Robinson,1001 Davidson St,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
-1970-01-01 00:00:00.020200720,5487928108,Bolivan Inc.,137 Amhurst Dr,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
-1970-01-01 00:00:00.020200721,6467898109,"V & A Auto Brokers, Inc",10 Wares Cross Rd Ste 110,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",32500,1
-1970-01-01 00:00:00.020200721,6404928108,Mahavira Inc,701 4Th Avenue,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",26400,1
-1970-01-01 00:00:00.020200716,4629958108,Dee Fabulousity Llc Salon,116 Main St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
-1970-01-01 00:00:00.020200716,4467768106,"Jason Total Solution, Llc.",384 Old Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",56400,1
-1970-01-01 00:00:00.020200716,4253838108,Knot Just Star,107 Foxhorn Trl,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8000,1
-1970-01-01 00:00:00.020200716,4254198108,"Dream Beauty & Spa, Llc",2170 West Point Rd Ste 31,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200720,5453298100,Troup County Breaking News,2229 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200718,5379008106,Brandon Harrison,207 Pinebrook Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9300,1
-1970-01-01 00:00:00.020200720,5464148107,Cleon Goode,215 Thomas Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",57800,1
-1970-01-01 00:00:00.020200720,5473248104,Beulah Hill,1229 Cannonville Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
-1970-01-01 00:00:00.020200718,5274728103,"Mlw Investments, Inc","10 Wares Cross Rd , Suite 110",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71000,1
-1970-01-01 00:00:00.020200718,5183498100,Desserts By Dedtria,98 Clearwater Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30200,1
-1970-01-01 00:00:00.020200718,5366408109,Loretta Cox,502 Brookstone Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
-1970-01-01 00:00:00.020200718,5156158108,Britany Mcqueen,2202 Abbey Glen Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
-1970-01-01 00:00:00.020200718,5259548110,Davonna Strong,616 Degroat Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200718,5282698107,Gina'S Embroidery,2775 Hammett Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
-1970-01-01 00:00:00.020200718,5205978104,Green'S Tutoring,610 Chattahoochee Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
-1970-01-01 00:00:00.020200718,5217378109,Harry Langston,1215  Polk Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
-1970-01-01 00:00:00.020200722,6661298110,"Kuts By Kim Salon, Llc",1308 Hogansville Rd Ste 3,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17400,1
-1970-01-01 00:00:00.020200722,6542788101,Kim Trammell,109 Amhurst Drive,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",34300,1
-1970-01-01 00:00:00.020200722,6610008104,Batrone Thompson,419 Jefferson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7500,1
-1970-01-01 00:00:00.020200722,6582478107,Brenda Hicks,905 East 7Th St,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5000,1
-1970-01-01 00:00:00.020200722,6995128105,New Beginning Of Lagrange,506 Ware Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1500,1
-1970-01-01 00:00:00.020200722,6616028100,Sunlight Salon,127 Commerce Avenue,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1
+2020-04-22,3388867200,"Downtown Fitness Of Lagrange, Llc",124C Main Street,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",324800,1
+2020-05-15,7077077407,Advait Inc,1870 State Route 18,West Point,13285,Troup County,GA,31833,03,West,29300.0,"LaGrange, GA-AL",76800,1
+2020-05-29,4774847807,K Jackson Dmd Pc,204 Smith St,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9226637402,Ann Deneese Begley Dba The 104 Pub,104 Sage Commercial Drive Ste 5E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30400,1
+1970-01-01,5473447403,"Two Teachers Tutoring, Llc","137B Commerce Ave., No. 136",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,9301997406,Onnet Llc,100 Jane Fryer Rd Ste 724,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",80000,1
+1970-01-01,5936517800,Plum Southern,121 Main Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",62300,1
+1970-01-01,4258177800,Woodstream Inn,1888 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",119600,1
+1970-01-01,8836697401,Epic Restaurant,115 Troon Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4793817804,Bare Knuckles Investments,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8200,1
+1970-01-01,4519147801,West Georgia Discount Mall Llc,409 Greenville Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7800,1
+1970-01-01,9136917410,Capital Income Tax Service Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3210117201,"C'Sons, Llc",124 B Main St.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",448600,1
+1970-01-01,3656327809,Binion Construction,4048 Whitesville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5700,1
+1970-01-01,9578207809,Onnet Logis Llc,104 Wiley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4390657810,"Jplee, Inc.",101 Hoffman Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",95800,1
+1970-01-01,8483567804,"Modern Machining Solutions, Inc.",1662 Lukken Industrial Drive West,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,9550677808,Scope Partners Inc,1860 Ga Hwy 18,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4326877409,West Point Foundry And Machine Company,2021 Stateline Road,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3334257809,"Ann E. Williams And Associates, Llc",130 Windridge,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,8024337403,Ksst Investment Inc.,1512 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5745167407,Djs  Wings-Things,1305 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",27500,1
+1970-01-01,9498987809,Julia Stallings,216 Marsh Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",97400,1
+1970-01-01,9542467804,"Whitlow Enterprises, Inc.",102 South Dawson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9600,1
+1970-01-01,7660857805,Liberty Hill Properties,103 Victoria Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,5826707808,Abbottsford House Norris Travel,305 Old School Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5300,1
+1970-01-01,5840287809,"5D Designs, Llc",2266 West Point Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33000,1
+1970-01-01,8120027404,"Vision World, Inc.",208 Smith Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3233937802,Beautiful Beginnings Event  Planning,1502 Whitesville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1400,1
+1970-01-01,5342527806,Charles Smith,122 Moss Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,5849027808,James Keith Trucking,5211 Lone Oak Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
+1970-01-01,8683717403,Rhodes Sports Bar Llc,1604 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,6491657405,K Bop Llc,7777 Kia Pkwy,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",60900,1
+1970-01-01,5851427809,Red White 3 Inc,4630 Hamilton Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",22000,1
+1970-01-01,7668707800,Delong Sales Group,206 Highland Park,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5259287805,Acg Group Llc,1510 Lafayette Pkwy Suite C2,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",35700,1
+1970-01-01,5889097801,Pink White 3 Inc,2860 Upper Big Spring Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10700,1
+1970-01-01,9657307802,Triple Cs Tax Corp,124 Kingswood Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
+1970-01-01,5463477800,Advertising Made Easy Inc,102 Main Street Suite 208,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17700,1
+1970-01-01,2868877404,"George W. Childress, Dmd, Pc",114 Calumet Center Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,8569197409,Holly C Prather,220 Main Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",32400,1
+1970-01-01,9980387804,Daniel Tax Service,1006 Hogansville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",43100,1
+1970-01-01,4666347410,M Brooke Mcdaniel Agency Llc,1 E Lafayette Sq,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,4278367403,Avon,257 Youngs Mill Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,7111717403,"Gps Studios, Llc",204 Broome Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",59400,1
+1970-01-01,5553777800,Arrington Contracting And Consulting,1402 Vernon St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4400,1
+1970-01-01,5530367803,Wild Leap,308 Main St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5297387801,"Ideal Building, Llc",114 Glenn Eagle Pt,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",37000,1
+1970-01-01,2033287809,Obeyda Wings Llc,68 Stone Gate Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,3768797804,R&S Signs 4 Less,1314 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50000,1
+1970-01-01,7260477407,Gaon Qualitech Llc,101 South Dawson St. Suite E,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9734557801,"Trendy World, Inc",145 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",61800,1
+1970-01-01,5046217410,Granville Global Llc,1700 Eastwood Lane,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
+1970-01-01,8121767405,"Douglas B. Kersey Jr., Dmd, Llc",110 Kia Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9746557809,"Psl Renovations, Llc",346 Brookridge Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
+1970-01-01,7989027809,West Point Auto Parts Inc,2176 Bartley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1700,1
+1970-01-01,4221947802,M&J Repairs Llc,1342 Graham Road,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33800,1
+1970-01-01,7324037807,Restore Pressure Washing-Soft Washing,109 Meadowland Trail,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13500,1
+1970-01-01,8019097801,The Beauty Loft Salon,119 Ridley Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10800,1
+1970-01-01,5334577407,Sportsman Customs Llc,718 3Rd Ave Ste 205,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",30000,1
+1970-01-01,8016887807,Charles Flowers Consulting Llc,124 Stocks Circle,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",8700,1
+1970-01-01,8076747802,Anthony Certonio,120 S. Smith Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9000,1
+1970-01-01,9234027407,"Tiny Treasures Learning Center, Inc",811 Hammett Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3570647810,Cato'S Contracting Company Inc,423 Teaver Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",40000,1
+1970-01-01,1678607801,Lto Store Inc,900 Hogansville Rd Ste C,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25600,1
+1970-01-01,9402287807,Splash Kitchens & Baths Llc,"115 Broad Street, Suite 103",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5096857804,Veerg Llc,1109 New Franklin Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,2227057808,"Bright Light Partners Ii, Llc",124 Bull Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",130500,1
+1970-01-01,3748927406,Jeffrey James Rowland,115 Oakmont Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",21200,1
+1970-01-01,3366937806,Meekajay Inc,1499 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50700,1
+1970-01-01,5640797804,Wiseman Enterprises Of Georgia  Llc,5453 Hwy 100,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",63700,1
+1970-01-01,9406387810,Strickland Tax & Accounting,422 South Greenwood St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,5634557806,"Loftin Fire Services, Inc.",1280 North Davis Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",80000,1
+1970-01-01,6983637809,Private Professional Golf,1205 Orchard Hill Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9335897801,Topstitch Upholstery By Dunc,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11700,1
+1970-01-01,4644187409,First Impressions Salon,119 Ridley Ave Suite 102,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,2833747803,Law Office Of Janelle J. Johnson,"100 Smith Street, Suite 2",LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",44000,1
+1970-01-01,4357227405,Not Just Taxes Lp,"137 B Commerce Ave, Suite 297",LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",8200,1
+1970-01-01,7890817810,Restore Pressure Washing-Soft Washing,109 Meadowland Trl,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13500,1
+1970-01-01,4890837801,Tcha,124 Amhurst Dr,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5600,1
+1970-01-01,4991627807,Rf Freight Llc,6 Grady St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",12600,1
+1970-01-01,6596487801,"Build The Crowd, Llc","102 Main St, Suite 225",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17000,1
+1970-01-01,3209477806,West Point Buy Sell Trade,718 3Rd Avenue,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",6500,1
+1970-01-01,8395147807,M&T Tree Service,1364 Hogansville Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50000,1
+1970-01-01,7531807402,An Affair To Remember Bridal Boutique,9 East Lafayette Square,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6612187806,The Plastic Surgeon Llc,105 Corporate Park East Dr Ste C,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4472767409,Joseph Alford,103 Collins Dr,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",9000,1
+1970-01-01,2037347800,Artisan Beauty Salon Llc,2170 West Point Rd Ste 36,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",6300,1
+1970-01-01,8398547804,258369 Inc,1600 Whitesville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,3207447804,Kcc & Co Llc,306 Town Center Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",13700,1
+1970-01-01,3351167808,"Emergency Medical Service Consultants, Ltd.",101 Lukken Industrial Dr W,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3206067806,Tk Ward Enterprises,808 New Franklin Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,8450727808,"Ct&Kk Properties, Llc",201 Airport Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",8300,1
+1970-01-01,2971197802,"Govan,Inc",107 Hoffman Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1818247400,Juana Lynn Whitley Nixon,811 Wisteria Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13200,1
+1970-01-01,4978587803,Jk Lagrange Rent Car Llc.,107 Corporate Park East Dr.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20500,1
+1970-01-01,3916407806,Yamamia Llc,111 Main St # 113,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",52600,1
+1970-01-01,7104867807,Curl Up & Dye Salon,307 S Greenwood St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7700,1
+1970-01-01,3773917808,Engle Insurance,1237 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",30000,1
+1970-01-01,3331637407,"Watts Furniture Company, Inc",212 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3821867409,Takco Inc,110 Airport Pkwy,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1863637409,Beacon Brewing Llc,700 Lincoln St.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7583587802,Shear Perfection Hair Salon,1510 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",35500,1
+1970-01-01,2259507806,"Mitchell Real Estate, Llc",777 Lakeshore Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,7505317807,Boundless Tax Professionals Llc.,122 Cross Creek Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1300,1
+1970-01-01,7021607804,Austen Bradfield,1348 Bartley Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",32400,1
+1970-01-01,8690447403,"Genesis Enterprises, Llc",28 Thornton St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,3770307404,Crouch Chiropractic Clinic Inc,413 Greenville St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",55500,1
+1970-01-01,2444977809,Fun Factoree Party Rentals Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",14200,1
+1970-01-01,9277257809,"Strategic Support Services, Llc",523 Riverside Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3200,1
+1970-01-01,6527397402,2Bigfeet Llc,2052 South Davis Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7467257408,Smith And Williams Company,888 Cameron Mill Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",62900,1
+1970-01-01,9495197410,"Abbey Park, Llc",901 3Rd Avenue,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",62700,1
+1970-01-01,7538767809,Veer Package Store Inc,"801 Whitesville St, Ste C",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",79900,1
+1970-01-01,5695637810,Deals From The Hart,112 Oakmont Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2500,1
+1970-01-01,9222527810,Lickety Split Towing Inc,6572 Hogansville Rd,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",64600,1
+1970-01-01,7485937807,Dhyey Llc,1748 Vernon Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9255457809,Ronald Dunn,290 Minardi Drive,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,6927317410,Petro Capital Llc,2750 Roanoke Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",57000,1
+1970-01-01,4165797810,Eagle Motor Group Inc,13727 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9280587804,Latasha Thompson Tax Service,301 Bridgewood Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,2121147802,"Granger Inns Ii, Llc",103 Lakeland Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10300,1
+1970-01-01,1584177802,Prime Cut Lawn Care,130 Plymouth Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",89700,1
+1970-01-01,2225397801,"Umami, Inc",505 Vernon St Suite A,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",64400,1
+1970-01-01,1590017807,Interstate Motors Inc,218 Commerce Ave,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4258947806,Stephens Premium Tax Consultants,422 New Franklin Road Suite B,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",40000,1
+1970-01-01,1586437801,"M.Patton, Inc.",1406 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5118607409,Livingston Services Company,2060 Pine Lake Road,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",14500,1
+1970-01-01,9958247409,Gfs Group Llc,80 Wood Valley Dr,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,7265237404,Hurst Accounting & Financial Services Inc,706 Avenue C,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",118200,1
+1970-01-01,6440797804,"Jj Solution Ga, Llc",1235 Hogansville Rd Apt 124,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50500,1
+1970-01-01,3009677802,Teachable Moments  Inc,1411 Hogansville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",9000,1
+1970-01-01,6898957403,"Children'S Dentistry Of West Georgia, Llc",202 Calumet Center Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3854227401,Joel Keith Dairy,2772 Mountville Hogansville Road,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",11900,1
+1970-01-01,2407487805,Studio513 Hair Salon,506.5 Miller St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,7623927400,Lagrange Nails,203 Commerce Ave Ste F1,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",14700,1
+1970-01-01,3477557802,Elite Nail Spa,1300 Lafayette Pkwy Ste B,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",30000,1
+1970-01-01,2727587810,Hair And Company,"838 New Franklin Rd., Suite B",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11100,1
+1970-01-01,1829647800,Kgw Express Enterprise Llc,2838 Pine Lake Road,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17700,1
+1970-01-01,2607187803,Donald W. Hughes,692 Adams Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",26600,1
+1970-01-01,8856317803,The Wright Youth Rising Up Organization Inc,1001 East 6Th Street,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,2741237806,Gregory Lazer Etching,130 Copper Creek Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2693007801,Lagrange Florist Llc,204 Youngs Mill Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,2017487810,Slp Tax Services,111 Cross Creek Dr,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,4912917400,"Ruby Nails Ii By Ha, Llc",900 Hogansville Rd Ste S,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",87400,1
+1970-01-01,2663127801,Arrington Rentals,90 North Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6800,1
+1970-01-01,6139537808,Woodard & Woodard Llc,105 Fannin St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,8592247409,"Axis Dental Milling, Llc",105 Westside Dr.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,2904777810,Mars Fried Chicken Llc,2169 West Point Rd Suite 100,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",28500,1
+1970-01-01,8985967806,"Taesanglobal, Llc",87 New Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6077817802,Sandricka Boyd,324 Baileys Way,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",36500,1
+1970-01-01,8375647404,Cdr Ventures Llc,104 Francolyn Ter,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",99000,1
+1970-01-01,8979947804,R&B Consignment,129  Bull St.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4800,1
+1970-01-01,9025927410,"Dr. Brent Brown And Associates, Inc",101 South Dawson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9031597806,F A F B,834 Colquitt St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,1391477802,"Kids Zone Behavioral Health, Inc.",200 North Lewis Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",124500,1
+1970-01-01,8010947408,"Gspe, Inc",1700 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",102000,1
+1970-01-01,8685237808,Alan Cook,221 River Run Dr,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",50800,1
+1970-01-01,7442637408,"Hamkei Generation, Inc","505 Vernon, Street",LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",39700,1
+1970-01-01,2756037808,"Integrity Office Products, Inc.",2139 Greenville Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7720087410,Jef Nixon,621 Greenville Street (Mail Goes To Po Bxox 2812),LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20600,1
+1970-01-01,8533777404,Unpaint Services Llc,1649 Lukken Industrial Dr W,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,2585087806,Winston E Glanton,916 Colquitt St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",99200,1
+1970-01-01,9949737401,"Kbew, L.P.",1050 Lafayette Pkwy,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9231077405,Caring Spirits Llc,816 3Rd Avenue,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",23000,1
+1970-01-01,8691187410,Tina'S Dental Pc,704 Avenue C,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9537397410,Scl Corporation,1000 Webb-Bartley Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9675637408,Isaac Asset Inc.,1700 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",33400,1
+1970-01-01,7352327405,"Abp Services, Inc.",202 Calumet Center Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",48900,1
+1970-01-01,9095607403,Linder Trucking Company,1005 Kelley St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,9151447409,Flair,900 Hogansville Rd Ste D,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",23900,1
+1970-01-01,4849467806,Arrington Builders And Cabinets,1402 Vernon St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",121500,1
+2020-06-24,2835898007,Webb'S Land Management,101 Cedar Point Dr,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",74000,1
+2020-06-11,1647137908,Red White 1 Inc,320 Commerce Ave,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",14200,1
+2020-06-17,7145127902,Latonya Sands,404 Town Center Dr #133,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",28000,1
+2020-06-11,1666187907,Bakers Trucking Llc,203 Moccasin Trl,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7485607900,Nails Factory Llc,1510 Lafayette Parkway,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1687347906,Veronica Daniel,103 Bridlewood Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19800,1
+1970-01-01,3713917904,Kendashus Nike Harris,140 N Davis Rd Apt 220,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,8551807905,Doyles Quality Used Cars,612B New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12500,1
+1970-01-01,1702567901,Red White 4 Inc,1831 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
+1970-01-01,1932367906,Vt Trucking Llc,147 Stocks Circle,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",74000,1
+1970-01-01,1664947906,Red White 2 Inc,3124 Hogansville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21800,1
+1970-01-01,1705947903,Pizazz Hair Salon,503 Brookstone Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5600,1
+1970-01-01,1662597904,Harrell'S Cleaners,207 West Battle Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2900,1
+1970-01-01,2677827909,Tree Of Life Incorporated,2202 Abbey Glenn Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17900,1
+1970-01-01,1969087909,Pro Nails,207B E 10Th Stress,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39500,1
+1970-01-01,4792337909,Trendingtopicstudiosalon,215 E 10Th St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26000,1
+1970-01-01,2642307906,Maloret Trust,888 Tomme Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4832617905,"Tharpe & Jones, Inc.",349 Boy Scout Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",33500,1
+1970-01-01,1945917904,Tranzpro Transportation Llc Co.,305 Boston Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",73000,1
+1970-01-01,1449647907,Hong Wang Company,135 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,5911207903,Dana And David Johnson,2732 Dallas Mill Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3700,1
+1970-01-01,1482417910,"Carla Scarborough Dba Mcdaniel Printing Company, Llc",102 S Dawson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18800,1
+1970-01-01,2031127901,"Doorae Logistics, Llc",520 Bryant Lake Blvd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",43000,1
+1970-01-01,7590727903,"Murkerson Automotive And Tire, Llc",81 Morningside Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26300,1
+1970-01-01,2684227904,Alan Logistics,209 Vine St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30500,1
+1970-01-01,9677287904,"Innovation Station Early Learning Center, Llc",1402 Dogwood Circle,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41500,1
+1970-01-01,1774467905,Russell G Taylor,980 John Lovelace Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24800,1
+1970-01-01,2692097902,Cc'S Load Logistic,107 Bridlewood Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,1833977906,Pink White 2 Inc,1908 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15400,1
+1970-01-01,1335017908,A1 Beauty & Beyond,121 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6923447907,Wilson Anesthesia Associates Llc,273 Stovall Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",110300,1
+1970-01-01,9435717910,James Mahlon Butler Ii,108 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,2769397908,Lagrange Barber Shop,2170 West Point Rd Ste 11,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8700,1
+1970-01-01,2719497905,Twigs And Berries,1681 Vernon Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33900,1
+1970-01-01,2734217900,West Ga. Repairs Llc,103 Brittney Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,2230887909,Kisu2015 Inc,10 Mccosh Millroad,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",122000,1
+1970-01-01,3066888003,Darius Logistics Llc,901 John Lovelace Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,4117867900,"Sherry'S Secreat Garden, Llc Sherry Turner Sole Pr",206A E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
+1970-01-01,3656387903,Pancas Georgia Llc,122 Old Airport Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9925757903,Dotson Transport Llc,313 Bolee Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50100,1
+1970-01-01,3092768006,Bulls Hibachi Inc,1521 Vernon Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,4514077903,"Kmj America, Llc",1006 Longley Pl,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",45000,1
+1970-01-01,3155927901,"Sos Holdings, Llc",523 Riverside Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16300,1
+1970-01-01,1037917909,Blackbird Endeavors Llc,"102 Main Street, Suite 228",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4200,1
+1970-01-01,6735537902,Vsp Logis Inc,815 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3929088006,Studiomax,63 North Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10600,1
+1970-01-01,4793557907,Atlanta Alliance Staffing Inc,121 College Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29700,1
+1970-01-01,6387257904,The Hair Shack,1801 Maple Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7000,1
+1970-01-01,2297267905,Splendid Events,116 Bull St,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,1373758000,Jonathon Formby,2138 Hamilton Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",100300,1
+1970-01-01,3154667904,"Fresh Services, Inc.",202 Smith St. Suite B,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",72500,1
+1970-01-01,9773887907,Daniel Leach,95 Taylor Len Dr,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,2385327910,Glenn'S Carpet Cleaning,80 Lovic Davis Rd,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,2435507904,Virashmi Llc,2585 Upper Big Springs Rd,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",40800,1
+1970-01-01,3444308002,Beths Cleaning Service,7077 Corinth Newnan Road,Hogansville,13285,Troup County,GA,30230,03,West,29300.0,"LaGrange, GA-AL",5300,1
+1970-01-01,1191897903,Embry Mark Bailey,337 Burgess Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",64400,1
+1970-01-01,2321028007,"James W. Harry, Attorney At Law",300 South Greenwood Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23800,1
+1970-01-01,2588028006,Kimberly Lashay Bandy,102 Deer Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,5283617906,Yong'S Sewing,2170 West Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,3051657909,Pawsitive Traction Llc,100 Brazell St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,2380767903,"Ak & Ym, Llc.",1841 Roanoke Rd # 12,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1821807904,Trendsettaz Beauty Bar,3954 Pine Lake Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
+1970-01-01,2360097906,"Painting, Pressure Washing, Etc Llc",858 Waterveiw Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5239947903,Leslie And Finis Jones,210 W Broome Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35000,1
+1970-01-01,1173397902,"Sam Sim Seither, Llc",1601 Hamilton Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99000,1
+1970-01-01,4204408003,Adam Motors Llc,1007 Hogansville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,9396687910,Southside Cleaners,603 Whitesville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,6375287905,Wilson & Louise Transportation Llc,1207 2Nd Ave Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",90000,1
+1970-01-01,3412007909,"Crosstel, Inc.",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6402497905,New Star Expediting Services Llc,"1418 Forest Mill Ln, 101",West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,1191527908,Fishers Of Men Services Inc.,211 Hogan Coweta Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,7086827910,"Dunn Logistics , Llc",129 Woodridge Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
+1970-01-01,7143957900,Glam Up,124 Hamilton Lake Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,4771387903,Southeastern Overhead & Garage Door,8 Cedarcrest Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23000,1
+1970-01-01,7675637910,Erik Patterson,6310 Roanoke Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3828048006,Weiss Distributions Inc,4 Hood Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48000,1
+1970-01-01,3887137906,"Stevi Moon, Llc",250 Edgemont Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1800,1
+1970-01-01,1330938006,Williams Lawn Service,610 Frank Hall Jr. St.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8500,1
+1970-01-01,4047467902,"International Workers Group, Llc",26 Center Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",28400,1
+1970-01-01,4058537905,Functioning Disfunctionals Llc,150 Camp Viola Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,3363358004,Volkman Properties Llc,107 Creek Pointe Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10300,1
+1970-01-01,4689187903,May Martial Arts,229 S Davis Rd Ste 500,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,1803748009,J.L.W. Industrial Services Inc.,305 W. York Town Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",116500,1
+1970-01-01,2908728004,Fish King Llc,2661 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17300,1
+1970-01-01,3871327910,Victorious Group Inc,804 (A) Whittsville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
+1970-01-01,7700687906,Lagrange Logistics Llc,203 Johnson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",43000,1
+1970-01-01,3586067905,Distinguished 2 Salon,803 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,4014908010,Red N Rob Enterprises Llc,317 Cherry St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42200,1
+1970-01-01,3676698002,Quantavius Meshawn Leslie Sr,700 North Boyd Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26000,1
+1970-01-01,1217218000,Katherine Adams,1209 Vernon Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",73000,1
+1970-01-01,8755767908,Express Pawn,1600 Whitesville St Ste B,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,8582667903,Domino Construction,860 Georgia Highway 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
+1970-01-01,4084718007,Gail  Mcqueen Hunter,514 Milam Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,3637167901,Fresh Cutts Lawn Maintenance Llc,828 Colquitt St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,9663617906,Shaquarea Bandy,102 Deer Creek Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
+1970-01-01,6583037905,Skip Kendrick,1101 3Rd Ave,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3473458000,Myas Heavenly Creations Llc,1304 Hogansville Rd Suite C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20100,1
+1970-01-01,6293007909,710 Bar & Grille Llc,710 New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4047838009,Patterson Logistics,531 Hillcrest Rd,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17200,1
+1970-01-01,1513618007,"Zachry, Inc",1208 3Rd Ave,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3542977905,Mauzy Business Solutions Llc,249 Beechwood Circle,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",5400,1
+1970-01-01,3401168008,Donald Smith,100 Hickory  Circle West,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",74700,1
+1970-01-01,6083727904,Frontline Enterprise America Llc,303 Jasmine Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",45100,1
+1970-01-01,3192207907,"Lambeth Enterprises, Llc",1404 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18700,1
+1970-01-01,5520027900,"Tim Ellen, Dba New York Life",201 Calumet Center Rd Ste A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",103400,1
+1970-01-01,6360517910,"Audiotrenz, Llc",1311 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",134300,1
+1970-01-01,9740757907,My-T-Clean Lawn Care Service,102 Richmond Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,6470277900,Morgan Family Investment Properties,103 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3187647905,Smoke Stop Vape Shop,3452 Hogansville Rd Bldg B,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",134000,1
+1970-01-01,1088108005,The Inner Path Llc,206 Smith Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
+1970-01-01,7582837901,Ez Lease Lagrange Llc,"1003 Hogansville Rd, Suite F",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",54300,1
+1970-01-01,9700867900,Rore'S Boutique & More Llc,147 E Greenwich Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,4085348005,Nikita Glenn,114 Greenbriar Trl,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,4403257906,Poochi Pet Resort,525 New Franklin Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",102300,1
+1970-01-01,8890117904,Aarirang,3894 Whitesville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2418618003,Marie Curtis,1364 Greenville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",47600,1
+1970-01-01,8495197906,Ada Express Llc,617 Burkes Chapel Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
+1970-01-01,1103948009,Ilyza Properties Llc,158 Youngs Mill Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",31200,1
+1970-01-01,8896297902,Latrica James,1211 Eastwood Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21000,1
+1970-01-01,3784437910,Webb'S Heating And Air Llc,106 Swift St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,8114007903,West Georgia Liquidation,38 Savannah Place Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,8545287908,Monica Askew,1124 Cannonville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2900,1
+1970-01-01,9399627909,Randy Reeves,71 Williams Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,2256768009,Lagrange Business Llc,1318 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71200,1
+1970-01-01,4450627902,Hometown Vapors Llc,101 Harwell Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",31900,1
+1970-01-01,1162268006,Carla Pressley,109 Roy Stallings Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2150648010,Cleaven Stargill,395 Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,4155227908,Gamelink Llc,1791 Og Skinner Dr Ste C,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99600,1
+1970-01-01,4268968006,Teaching Loving Caring Ii Llc,411 E Depot St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3966527903,"Management Solutions Group, Llc",108 Sturbridge Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24400,1
+1970-01-01,5337727900,At Tech America Llc,510 Callaway Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,2763788009,Guyana Thomas,905 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,3760778005,"Sweet Pea'S Floral Design Of Distinction, Llc",609 Greenville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9000,1
+1970-01-01,9107087901,"First Cut Communications, Llc",345 Willow Pointe,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26900,1
+1970-01-01,5000647905,Sentry Self Storage Llc,122 Bell Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,5827907909,Francisco Wing,2520 Stovall Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23900,1
+1970-01-01,1106048005,Sams Construction,211 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",99000,1
+1970-01-01,4178668006,"Global Sports Bar, Llc",2169 West Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4672997903,Digitech Services,1514 Us Highway 29,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,6805677905,Turner Transportation,701 Lee Ct,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
+1970-01-01,9579807901,Lee R. Hixon Jr.,107 Emily Place,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",61000,1
+1970-01-01,2508068008,"Proaudio Ga, Llc",70 Iris Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",70400,1
+1970-01-01,6124447900,"J & C Pilot Car Services,  Llc",228 Sivell Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",88100,1
+1970-01-01,1635818006,Yvette'S Three In One Business Llc,1002 1/2 Greenville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",34500,1
+1970-01-01,3971177910,Tritter Feefer Home Collection Llc,200 Lukken Industrial Drive East,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,9769757900,Mrs. Rhonda'S Stay N Play,2767 Roanoke Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3801738001,Harris Gray Llc,824 Third Ave.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7336267901,Samples Express Inc,1101 Og Skinner Dr,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6511647901,Carl Fowler Dba Fowler Masonry,233 Sivell Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18600,1
+1970-01-01,7582747909,Laney Ayres,205 Bryon Hurst Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",37200,1
+1970-01-01,7448537904,Turner Express Trucking Llc,Pine Grove Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
+1970-01-01,7228727900,Ray'S Cutz,603 Borton St Apt C,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5800,1
+1970-01-01,8282727906,Krisha 2016 Inc.,103 Commerce Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5018397900,Pure Worship Deliverance Tabernacle,430 Corinth Rd.,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42400,1
+1970-01-01,5563647909,Wendy Brooks,1105 Hogansville Road,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",7400,1
+1970-01-01,9920177907,Jackson Spotless Cleaning,201 Brooks Rd,Hogansville,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,7961957902,Wandering Hazel Touring Inc,293 Alverson Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",64300,1
+1970-01-01,8027897903,Guyana Thomas,109 King Arthur Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21100,1
+1970-01-01,6341537910,"Mcguire Insurance Group, Inc.",518 Lower Glass Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",92200,1
+1970-01-01,6483207900,Matthew Morgan,608 East Main St.,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21500,1
+1970-01-01,1064848010,Robert L. Jackson,147 E Greenwich Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4500,1
+1970-01-01,8686637910,Valway Logistics Llc,299 Commerce Ave Ste F,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",31400,1
+1970-01-01,7504977902,West Georgia Textile Inc,145 Trimble Station Road,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4564977900,"Comprehensive Search, Llc",1321 Roper Ave,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",19100,1
+1970-01-01,1231528006,God'S Tomorrow Inc,916 Colquitt St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8600,1
+1970-01-01,3152138008,Bull'S Hibachi Sushi Llc,104 Bull St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7165867909,Dynamic Transportation Lp,105 North Pointe Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29200,1
+1970-01-01,2657628003,"Jda Georgia, Inc.",378 Old Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+2020-07-20,5777948101,Anh Dung Tran,1861 Roanoke Rd,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",11400,1
+1970-01-01,6988268005,Debbie T. Pitts Coldwell Banker Spinks Brown Durand Realtors,1101 3Rd Ave,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13300,1
+1970-01-01,2097568108,Alonzo Render,2701 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,2511948100,First Take Llc,304 Scenic Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23500,1
+1970-01-01,6144978006,"B & E Happy Hoppers, Llc",7 Duffey Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33900,1
+1970-01-01,7168018010,Lanisha Rivers,16872 Georgia Highway 219,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,6080868106,Laticha Phillips,1515 Hogansville Rd Apt 149,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22400,1
+1970-01-01,3225568108,Deshbir Singh,204 Ridgeview Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",82400,1
+1970-01-01,4715058105,Arbors And Vines Consulting,207 Beechwood Cir,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71000,1
+1970-01-01,6082508107,Eric Poythress,1003 Juniper St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,4100038103,John Patterson,531 Hillcrest Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,7514928005,Oc Stiggers,61 Pearl Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,7689608005,Tiffany Scott,100 Perimeter Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3761498104,Ask & Tell Llc,2170 West Point Rd Ste 14,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48100,1
+1970-01-01,7970708002,Melissa Miller,119 Drew Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
+1970-01-01,2284038108,Keandrea Smith,103 Lee Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19800,1
+1970-01-01,1725008101,Jewelz Joyfully Elevating With Excellence Loyalty And Zeal,1009 Ave H,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3763638102,Tynel Logistics Llc,1515 Hogansville,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7000,1
+1970-01-01,9213158005,A-1 Garage Doors,308 Whitesville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",23100,1
+1970-01-01,3441238108,Krafts By Kia,"110 Old Airport Road, Apt 914",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18300,1
+1970-01-01,3531538108,Brewers Tutoring And Consultative Services,911 New Mexico Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,3291488106,Kristan D Towns,404 Bridgette Blvd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39000,1
+1970-01-01,4002768106,"D&W Elite Auto Sales, Llc",1800 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",93500,1
+1970-01-01,4134038101,Hubert Finley,1000 East  12Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
+1970-01-01,3558278102,Jason C K Slaton,643 Granger Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
+1970-01-01,3980898106,Stitchedbymoni,964 F Mooty Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,7436578000,Caseys  Bookkeeping And Tax Service,1345 Cannonville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,6366408005,Flamonica N Potts,103 Reveree Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11500,1
+1970-01-01,6934018005,Platinum Agency Inc,504 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",18000,1
+1970-01-01,3532658100,West Georgia Motorcade Escorts,4734 Youngs Mill Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
+1970-01-01,9047518010,Anrique Cameron,810 Creed Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12200,1
+1970-01-01,1481078103,Sharon Hixson,114 Westgate Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41000,1
+1970-01-01,8239288002,Pdc Auto And Auto Brokers,206 Marchman Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,3393058107,Garrett Transportation,1235 Hogansville Rd. 123,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",40000,1
+1970-01-01,7279578006,Mlc Taxes And Financial Services,339 Baileys Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
+1970-01-01,4080368110,Ernestine Towns,4733 Greenville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19400,1
+1970-01-01,7500998003,Access Unlimited,163 Jim Turner Road,West Point,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,5887178009,Germon Mckee Enterprise Inc.,5101 Forrest Road,Hogansville,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2184798105,Southern Life Insurance Group Llc,210 W Broome St,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,2533628110,Catherine Trammell,512 Bryant Lake Blvd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,4455808010,Destined-N-Fitness Llc,1605 Vernon Rd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,4042488110,Richard Mackfield,150 Turner St Apt#C12,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,9473348010,Aranai Boundary Tree Services Llc,883 Youngs Mill Rd Lot E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20900,1
+1970-01-01,7933388003,Crowders Transportation Inc,177 Abbottsford Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",111400,1
+1970-01-01,4354238006,Cuttfresh One Of One Clothing Llc,103 Swanson Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20500,1
+1970-01-01,7502208004,Lashantras,200 Fredrick St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",49000,1
+1970-01-01,2632558108,Stephanie'S Catering Service,313 Brookfield Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
+1970-01-01,1617708102,"Ken & Drew, Llc",293 Alverson Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",110600,1
+1970-01-01,7566168004,Rodrick Hardin,103 Shady Oak Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",44500,1
+1970-01-01,1285508104,"Building Blocks Behavioral Center, Llc.",316 North Lewis Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,3373978104,Ashley'S Interior Design,93 Clearwater Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,7676018006,"Midsouth Mechanical, Inc.",114 Corporate Park East,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1627538103,Chiquita'S Hair Braiding,60 N Cary St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,8388478004,Angela Cameron,815 Creed St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",18400,1
+1970-01-01,7762348007,Dukes Electric Compay,144 Waugh Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,8040678004,Bella Jais,1092 Cannonville Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",59000,1
+1970-01-01,1757768100,Joynus Staffing Solution Inc,1506 Whitesville St.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4811438003,Luxesix16,401 Mckinley Cir,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",51100,1
+1970-01-01,8848778002,Meimei Ice Cream Inc,12 N Lafayette Sq,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17100,1
+1970-01-01,1871878102,Deontre Harden,102 E Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",80000,1
+1970-01-01,1035368107,Pamela  Billingslea,35 Lower Lovelace Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,7389218004,Cheryl H Stiggers,3429 Ga Hwy 18,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
+1970-01-01,1899288104,Toriano Stafford,1406 Avenue K Apartment A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1900,1
+1970-01-01,9839228004,Pamela M Carothers Cleaning Llc,9112 Layfatette Pkwy,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,8256058005,Steven  H Cutwright,112 Bridgette Boulvard,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7400,1
+1970-01-01,3809348105,Oh Yes! Lounge And Sleepwear,64 North Cary St Apt E-24,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,1705008104,Creative Work Expressions,504 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
+1970-01-01,2242018104,Larry Hill,1229 Cannonville Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,4885258000,Karen E Nelson,2434 Upper Big Springs Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,4350578006,Bella Amour Boutique,636 Pyne Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,8692218001,4Mankind Llc,127 Commerce Ave Ste  8,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4100,1
+1970-01-01,8047468003,Dorothy King Hyman,110 Weathers,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
+1970-01-01,5301058001,Sheronda Lovelace,207 N Dawson St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2200,1
+1970-01-01,2548068100,Demetrius Cutwright,1016 Colquitt Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,9621368008,Tameka Atkinson,404 Ave G,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",75000,1
+1970-01-01,3444398105,Teresa Gbadebo,324 Samples Road,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1300,1
+1970-01-01,4882668010,Ann  Kelton Agric,2227 W Point Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35500,1
+1970-01-01,9594138002,Joyce Elaine Brown,113 Daniel Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10100,1
+1970-01-01,8132958002,Tracy Dempsey,71 S. Smith Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,4483978001,Jackson Lawn Service,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4300,1
+1970-01-01,2756468107,Jamarcquenus Scott,407 East 8Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,2383768110,Damien Langston,75 Maley Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9800,1
+1970-01-01,5189248009,"Purpose Valley Farms 212, Llc",4513 Whitesville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",35100,1
+1970-01-01,2856378101,Kristen Sews It All,2336 Ga Highway 18,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1853378101,Dan D. Mcclurkin,600 W.Boyd Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8300,1
+1970-01-01,5159058010,One Touch Lawn Services Llc,1206 E 11Th Street Apt A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,6054598006,Pnj Enterprise Llc,1597 Vernon Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5631918002,Jl Wilkinson Consulting Llc,403 Briarcliff Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,3426488104,Gina Scott,1005 E 9Th St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",13200,1
+1970-01-01,9644748007,Caring And Sharing Learning Center Llc,105 Mimosa Ter,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50000,1
+1970-01-01,8445298006,Uber,140 Lafayette Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",49000,1
+1970-01-01,8095998003,Alan Keith Cavender,103 Cedarcrest Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,3683418106,Team Solution Llc,101 S Dawson St Ste E,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42700,1
+1970-01-01,1176498104,Citizen1 Capital Llc,212 Kings Park Ln,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,7479388002,Taxes R Us,118 Martin Luther King Jr Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,7106038010,Sherika Strozier Sole Mbr,600 S Lee St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",8400,1
+1970-01-01,4459518003,Keria'S Boutique,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,5549448004,The Shepherd'S Transport,2877 West Point Rd,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",30000,1
+1970-01-01,1272618103,Adrian Mcfarlin,236 Samples Rd,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",21000,1
+1970-01-01,2961148104,Carlton Maddox Jr.,79 Leonard Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",33800,1
+1970-01-01,7098058004,Shannon Mcclendon,804 Piney Woods Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,3672348103,De Martin Livestock,102 Woodchase,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42400,1
+1970-01-01,4006378104,Dsa Logistics Llc,699 John Lovelace Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",107500,1
+1970-01-01,7452248006,Takara Davis,1515 Hogansville Road Apt 118,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21400,1
+1970-01-01,8081568002,Essence Arrives Networking Broker,1049 Harmon Rd,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",39600,1
+1970-01-01,6182768003,New Life Deliverance Church,208 Handley Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17500,1
+1970-01-01,7498938007,Granville Global Properties Llc,1700 Eastwood Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",89000,1
+1970-01-01,2334698106,Sheri Lyn Metternick-Jones Dba Hogan House At Rose Hill Bed And Breakfast,804 East Main Street,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25200,1
+1970-01-01,2062408106,J.Green Lawn Care,605 Lee Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,8492618009,Kiseha Jones,1703 Hunnicutt Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,7477298006,Kishara Barrett,12 Habersham Dr Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,9331838009,Dl Daniel Home Repair Llc,109 Renae Ln,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,5486638004,Natasha Brown,106 Fendig St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,8210278006,Steven Ballard,708 Meadow Terrace,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17500,1
+1970-01-01,2241938107,Degarious Beasley,817 Troup St,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",49500,1
+1970-01-01,3936268108,Kaylon Jnae Levi,173B Lincoln St,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,9627598008,Gabriel Atkinson,311 Samples Rd,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",75000,1
+1970-01-01,8588848002,"Smith Brothers Service Co.,Llc",123 Greenbriar Tr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,7357598008,Tifani Woodyard,2101 New Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7600,1
+1970-01-01,7734628000,Kristy  Shree Parks,1041 East Main St.,Hogansville,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,2788568107,Sheila Renee Caverly-Gillett,406 Ridley Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,6091698000,Loving Hands Foundation,1087 Hammett Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,6317018010,Williams Express Llc,617 Burkes Chapel Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",82800,1
+1970-01-01,1099618109,Lynmekia Hall,903 1/2 Motley Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2600,1
+1970-01-01,7598978103,Christopher L Hudson,109 Cambridge Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17100,1
+1970-01-01,6382508000,Yc Academy Llc,1304 Hogansville Rd Ste D,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20800,1
+1970-01-01,9877498005,Middleton Developments Llc,105 Corporate Plaza Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",77000,1
+1970-01-01,9248358006,Entertainment Venue,110 West Meadows Way Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1600,1
+1970-01-01,8319748009,Tommy'S Auction Barn,104 Swift Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6200,1
+1970-01-01,7216108106,Roderuana Harrison,101 Ware St.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,1450038110,Williams Enterprise,124 Wexford Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",44000,1
+1970-01-01,7090948104,Secret Lush,318 Eichelberger Dr,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",22000,1
+1970-01-01,6975218002,Whitney Benton,200 Boulevard Apt B,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,9757678006,Charnelles Catering Llc,207 Dix Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",40000,1
+1970-01-01,5443268000,West Georgia Landscape Co.,715 Camellia Drive,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",18700,1
+1970-01-01,5101888009,Bernadette Adams,202 Heritage Road,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,6280308107,Caring Hands,110 Old Airport Rd,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,5672308003,Express Wings & Things,109 Martin Luther King Jr Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9600,1
+1970-01-01,2267948108,Lucisus Hollis,7181 West Point Road,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,8546018002,Trevor Dunson,4555 Mooty Bridge Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",42500,1
+1970-01-01,1885128101,Faith Temple Church Of Deliverance,221 Edgewood Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",57100,1
+1970-01-01,6162578106,Nisha Homecare,303 Front St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7400,1
+1970-01-01,6126948102,Hardy Logistic & More,1009 Kelly Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",27000,1
+1970-01-01,5696308008,"Reeds Landscape & Design, Llc",1670 Ga Hwy 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17000,1
+1970-01-01,6374298107,Tha Feline Effect,318 Eichelberger Drive,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",15200,1
+1970-01-01,7239988104,Kendra Kissun,104A Saynor Cir,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,6164208104,Eugene Carroll,2775 Hammett Rd,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",1300,1
+1970-01-01,2430568102,Strickland Cleaning Service,643 West Main Street,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,8392598008,"Wildwood Timber And Clearing Contractors, Llc.",4973 Greenville Rd,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,2773748110,"Divine Vision Network, Inc",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",43600,1
+1970-01-01,6297428006,Carlton Carpenter,389 Linden Ave Ne,West Point,13285,Troup County,GA,,5.0,West,29300.0,"LaGrange, GA-AL",75000,1
+1970-01-01,4978228110,Maran Properties Llc,872 John Lovelace Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,5686808110,Mae'S Mobile Detailing,103 Yarmouth Ct,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,5670108107,Spriggs Property Services,615 Gabbettville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11000,1
+1970-01-01,6365818008,Cameron Lawn Care,517 Everette Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",24000,1
+1970-01-01,1452028100,Ashley Langston,1217 Lindsey Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10800,1
+1970-01-01,1020798104,Shoe Pourne,1201 Northview Dr,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1900,1
+1970-01-01,8924758010,William P. Barnes,225 Hickory Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9000,1
+1970-01-01,1451978101,Lonnesha,108 Colonial St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20300,1
+1970-01-01,7201888005,Shalaynea Willoughby,201 Boulevard,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,1608988103,Lagrange Bread Company,523 New Franklin Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22000,1
+1970-01-01,6750608000,Safe Manner,24 Cary Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,2498668104,Ashley Nixon,75 Maley Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9800,1
+1970-01-01,6206738109,Strickland'S Texaco Inc,514 2Nd. Ave.,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",33700,1
+1970-01-01,6842098010,Lewis Williams,250 0Ld Pond Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,7117138109,Tiffaney Talley,1515 Hogansville Rd Apt 191191,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,8506898003,Brenda'S Salon,1019 E Main St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2439908104,Everett Leslie,100 Adams Dr.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,5523628110,Andrew Stargell,205 Johnson Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",27400,1
+1970-01-01,5582378107,Family Ties,412 East 5Th Street,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,4915918108,Westpoint Liquor Inc,901 Avenue B,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",143000,1
+1970-01-01,5586078108,"Croakin Poets, Inc",293 Alverson Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10700,1
+1970-01-01,6001648102,Stargill'S Pressure Washing,395 Mount Zion Church Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,6520108008,"Ashcraft Company, Llc",209 Ridley Ave Ste A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",145900,1
+1970-01-01,6627418105,Tonnishia Bailey,1401 4Th Avenue,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",25000,1
+1970-01-01,4606678006,Brian Hare Llc,1607 Hamilton Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,1074498103,Brianna Harrison,147 Woodridge Circle,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",84500,1
+1970-01-01,8035278008,Mcbride Handy Services,1107 Meadow Terrace,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3300,1
+1970-01-01,3238178108,Clockwork Performance Training,100 Southern Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",41400,1
+1970-01-01,6614538107,J Young Lawn Care,90 Spring St Apt 108,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22500,1
+1970-01-01,4851188005,"Southland Propane Service, Inc.",324 South Davis Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11800,1
+1970-01-01,8217858006,Cordsica Hood,109 Cross Creek Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,4201628102,K&Z Pca Home Care Service,927 Greenville Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,6031798102,Monroed,"119 Old Airport Rd, Apt 103",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,6029398101,Islayhair,108 Lincoln St,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2500,1
+1970-01-01,8363848001,Lawrentez Davenport,203 Northfield Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",26500,1
+1970-01-01,1776718102,Luther Parks,36 S. Brooks Rd.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",9700,1
+1970-01-01,6009178108,Demario Poythress,1523 Vernon Rd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",27900,1
+1970-01-01,9974898009,Juanevry Rosser,1600 Meadow Terrace Apt 507,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,2654968103,Memorial & Nikki Tax Service,2170 West Point Road Suite 14,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",39000,1
+1970-01-01,2270378104,County Line Bbq And Catering Company,138 Ridgefield Dr.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1400,1
+1970-01-01,6072428103,Weld Test Services,145 N Lake Dr.,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",34000,1
+1970-01-01,6048258100,The Sweet And Cookie Shop,970 Mooty Bridge Rd Apt H,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",12500,1
+1970-01-01,6048288109,Mike'S Automotive Shop,129 Brenda Blvd,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,6814508005,Coach Earl Chambers Llc,108 College Ave,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",32600,1
+1970-01-01,1604708103,Charles P Smith,100 Perimeter Dr,LaGrange,13285,Troup County,GA,,03,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,8421358006,Shaquavious Gray,115 Mitchell Ave,LaGrange,13285,Troup County,GA,30240,03,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,2381698109,Saquanna Leslie,428 Cooley Rd,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,7354018003,Shannon Maddox,1003 Colquitt St,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",23500,1
+1970-01-01,3983078102,Kim Nhu T Le,"1300 Lafayette Pkwy, Ste B",LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",18400,1
+1970-01-01,6026148101,Kyeron Crim,408 East 7Th Street,West Point,13285,Troup County,GA,31833,03,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,3604448107,Kelly Connect,103 Lafayette Court,LaGrange,13285,Troup County,GA,30241,03,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,2528828106,Back 2 Basics Boxing & Fitness,I605 Vernon Rd Suite 2300,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,2833448106,Kendra Mobley,901 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,3475838109,Sherry Sells Inc,311 Taliaferro Drive,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15600,1
+1970-01-01,2698388108,Beasley Trucking,251 E. Mount Zion Church Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",48300,1
+1970-01-01,9107138006,Ramona Walker,222 Jasmine Lane,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,2912598103,"Hands Of Blessing, Inc.",1791 Og Skinner Dr Ste A,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",22100,1
+1970-01-01,9512998010,Emerald Digital Media,103 Sir Galahad St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3300,1
+1970-01-01,2926048103,Laleatha Potts,1002 Juniper St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
+1970-01-01,6191818105,Carlos Williams,210 Youngmills Rd Apt 116,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5300,1
+1970-01-01,2036508108,Rhonda Harpole Insurance,171 Willis Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",29000,1
+1970-01-01,2710218107,Jerome Mcclendon,804 Piney Woods Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,2834848110,Shantris Sharpe,203 East Hillside Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",11300,1
+1970-01-01,6429688104,Knz Trucking Llc,64 N Cary Street P68,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7600,1
+1970-01-01,7069158109,Rachelle Cleaning Service Llc,103 Burden Dr,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,3211938100,Regal Run Sporthorses Llc,11032 Highway 100,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14400,1
+1970-01-01,7150638010,Taneshia Hill,107 Woodridge Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,9175678006,Mcteral Houston,53 Horace Carter Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",37000,1
+1970-01-01,8538938007,Traimone  Hill,221 E.Mount Zion Church Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8300,1
+1970-01-01,1875818103,Harper J Boutique,1515 Hogansville Road,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",21500,1
+1970-01-01,1558718104,Christian Brooks,105 North Barnard Avenue,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,6863528105,Josephine Dallas,304 Niles St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,1060558107,Curtis Scott,39 Hampton Green Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",50000,1
+1970-01-01,4701168102,Bernadette Mcrae,180 Mallory Dr,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,1603318102,Wilson Langston,1208 Lindsey St.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
+1970-01-01,8370128006,Sharonda N'Une Washington,908 Troup Street,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",30100,1
+1970-01-01,1366538104,Brenyada Gates,104 Hampton Green Dr,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13000,1
+1970-01-01,8828288000,Blessed Hands Quality Cleaning,42 Ash Drive,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",4300,1
+1970-01-01,1631968106,Mans Asap Landscaping,605 Murphy Ave,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",6300,1
+1970-01-01,6872468102,George Montgomery Callaway Dba Clearwater Condo 1C,613 Piney Woods Drive,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",13500,1
+1970-01-01,9984418009,Iseebookz Publishing Llc,Suite 300 Commerce Ave Suite 137B,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",2600,1
+1970-01-01,1496448110,Cut For Cause,360 Maley Rd Apt A,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6500,1
+1970-01-01,1654358103,Scotts Cleaning Service,3475 Mooty Bridge Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1700,1
+1970-01-01,7274898107,Jared Larson,902 S Willowcrest Way,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3000,1
+1970-01-01,4776248107,Telephone Call Center,710 Ave H,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4400,1
+1970-01-01,2034308103,Keisha Boykin-Parham,303 Fair St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",15000,1
+1970-01-01,1590078102,Raymond Hall,60 William St,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,7258828010,Sby Enterprise Llc,1235 Hogansvill Rd  Ste823,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",74000,1
+1970-01-01,2405848101,Shontorie,81 N Barnard Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",17900,1
+1970-01-01,2733838108,Juan Simpson,923 B Arizona Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,1115128105,Tulla White Dba Venucci,129 Main Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,4957738100,Spence Jester,132 E Mount Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5500,1
+1970-01-01,7298298109,Caras Cleaning Services,114 Mitchell Ave,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,5014028109,Debbie Dibauda,202 Village Dr,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3200,1
+1970-01-01,7253168101,Caring Healthcare Staffing,1302 West Point Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",54500,1
+1970-01-01,8198888008,Courtney Bussey,115 Mitchell Ave Apt 21,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",16500,1
+1970-01-01,5975898100,Mckees Flowers,128 Greenville St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",19300,1
+1970-01-01,7064278100,Dlon Staples,805 S Ogletree St,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,5657328109,Elvonia Personal Care Home,5365 Whitesville Road,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",81100,1
+1970-01-01,5549978108,Sidney Hendley,2131 Saint Marks Rd,Hogansville,13285,Troup County,GA,30230,3.0,West,29300.0,"LaGrange, GA-AL",27000,1
+1970-01-01,7276338107,T & J Transportation Llc,6 Barnard Ave,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",11900,1
+1970-01-01,5535618104,"National Warehouse Management, Inc",2388 Bartley Road,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",150000,1
+1970-01-01,5574868101,"Crooked Chimney Music, Inc",293 Alverson Road,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",37800,1
+1970-01-01,5792828109,Yung Rich Lyfe Llc,140 North Davis Road Apt 920,LaGrange,13285,Troup County,GA,30241,3.0,West,29300.0,"LaGrange, GA-AL",1000,1
+1970-01-01,4382388100,Taju Salon,1165 Hines Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6700,1
+1970-01-01,7193918000,Kakesha Stargell,319 E Mt Zion Church Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,6811738107,Blacktop Brothers Btb Llc,55 Patillo Rd Apt 35,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",10500,1
+1970-01-01,4903228105,Communion Fellowship Ministries International,317 Ragland St,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,4192728105,Tabatha Robinson,1001 Davidson St,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",4000,1
+1970-01-01,5487928108,Bolivan Inc.,137 Amhurst Dr,West Point,13285,Troup County,GA,31833,3.0,West,29300.0,"LaGrange, GA-AL",19000,1
+1970-01-01,6467898109,"V & A Auto Brokers, Inc",10 Wares Cross Rd Ste 110,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",32500,1
+1970-01-01,6404928108,Mahavira Inc,701 4Th Avenue,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",26400,1
+1970-01-01,4629958108,Dee Fabulousity Llc Salon,116 Main St,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",12000,1
+1970-01-01,4467768106,"Jason Total Solution, Llc.",384 Old Hutchinson Mill Rd.,LaGrange,13285,Troup County,GA,30240,3.0,West,29300.0,"LaGrange, GA-AL",56400,1
+1970-01-01,4253838108,Knot Just Star,107 Foxhorn Trl,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",8000,1
+1970-01-01,4254198108,"Dream Beauty & Spa, Llc",2170 West Point Rd Ste 31,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,5453298100,Troup County Breaking News,2229 Hamilton Rd,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,5379008106,Brandon Harrison,207 Pinebrook Court,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",9300,1
+1970-01-01,5464148107,Cleon Goode,215 Thomas Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",57800,1
+1970-01-01,5473248104,Beulah Hill,1229 Cannonville Rd.,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",20000,1
+1970-01-01,5274728103,"Mlw Investments, Inc","10 Wares Cross Rd , Suite 110",LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",71000,1
+1970-01-01,5183498100,Desserts By Dedtria,98 Clearwater Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",30200,1
+1970-01-01,5366408109,Loretta Cox,502 Brookstone Drive,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",14000,1
+1970-01-01,5156158108,Britany Mcqueen,2202 Abbey Glen Lane,West Point,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",6000,1
+1970-01-01,5259548110,Davonna Strong,616 Degroat Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,5282698107,Gina'S Embroidery,2775 Hammett Road,Hogansville,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",2000,1
+1970-01-01,5205978104,Green'S Tutoring,610 Chattahoochee Street,LaGrange,13285,Troup County,GA,,3.0,West,29300.0,"LaGrange, GA-AL",3500,1
+1970-01-01,5217378109,Harry Langston,1215  Polk Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",10000,1
+1970-01-01,6661298110,"Kuts By Kim Salon, Llc",1308 Hogansville Rd Ste 3,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",17400,1
+1970-01-01,6542788101,Kim Trammell,109 Amhurst Drive,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",34300,1
+1970-01-01,6610008104,Batrone Thompson,419 Jefferson Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",7500,1
+1970-01-01,6582478107,Brenda Hicks,905 East 7Th St,West Point,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",5000,1
+1970-01-01,6995128105,New Beginning Of Lagrange,506 Ware Street,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",1500,1
+1970-01-01,6616028100,Sunlight Salon,127 Commerce Avenue,LaGrange,13285,Troup County,GA,,3,West,29300.0,"LaGrange, GA-AL",20000,1

@@ -1,346 +1,346 @@
 Date,FAIN,Recipient,Address,City,FIPS,County,State,ZCTA,Congress,CDRegion,CBSA,MSA,Amount,Loans
-2020-04-15 00:00:00.000000000,8999307100,"Lewis Lake House, Llc",397 Flintside Dr,Cobb,13261,Sumter County,GA,31735,02,West,11140.0,"Americus, GA",9000,1
-1970-01-01 00:00:00.020200528,4552207808,"Motley Crew Investments, Llc",2014 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4200,1
-1970-01-01 00:00:00.020200528,4614027809,"Mobile Glassblowing Studios, Llc",505 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",116800,1
-1970-01-01 00:00:00.020200425,3462207200,E&E Brothers Inc,1536 E Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",102000,1
-1970-01-01 00:00:00.020200605,8517647803,Olivia Perry,1818 Us Hwy 280 Unit #173,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200606,8590567810,"Tepuy Apparel Design, Inc",502 W Forsyth St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",9100,1
-1970-01-01 00:00:00.020200529,4729647807,Hb Stephens Trucking Llc,105 Bessie Mays Cir Apt B,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",77800,1
-1970-01-01 00:00:00.020200605,8493127805,Alicia R. Hardin,734 Felder Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4100,1
-1970-01-01 00:00:00.020200522,2003977803,Love At First Sight Ultrasound Studio And Boutique,111 West Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",6700,1
-1970-01-01 00:00:00.020200514,6153867406,Jensen Farms,221 Commerce St,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200604,7677527807,Edward S. Ward Dba Draw Products,302 West Lamar St.,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",20000,1
-1970-01-01 00:00:00.020200525,2895627808,Carl Wayne Adams Carpentry,325 Wiggins Ln,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",7700,1
-1970-01-01 00:00:00.020200530,5338327802,Word Of Faith Ministries Of Americus Inc.,322 Forrest St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16500,1
-1970-01-01 00:00:00.020200529,5146187803,Georgia Two Mway Inc.,1206 Ga Highway 30 W,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",146000,1
-1970-01-01 00:00:00.020200525,3177997803,"Sedge & Associates, Llc",153 Sylvan Drive,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",2000,1
-1970-01-01 00:00:00.020200530,5865117800,Gene Frazier,450 Chambliss Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15500,1
-1970-01-01 00:00:00.020200530,5925127806,Joshua Welch,2456 Ga Hwy 30 W,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",125400,1
-1970-01-01 00:00:00.020200513,5923587408,H&D Redi Mix Llc,299 Brady Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200603,7293177810,Executive Tax & Consulting Llc,1600 E East Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15300,1
-1970-01-01 00:00:00.020200511,5096747403,"Johnny H. Johnson, Jr",212 N Lee St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15900,1
-1970-01-01 00:00:00.020200603,7346177804,Sumter Family & Sports Medicine Center,922 E Jefferson Street Suite F,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",60000,1
-1970-01-01 00:00:00.020200530,5707347804,Spring Precast Llc,3782 Us Hwy 280 East,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200509,4553267403,"Dixie Lix Industries, Inc",P.O. Box 226,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",144600,1
-1970-01-01 00:00:00.020200603,6903107804,Angel Beso Hair,211 Habitat St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200530,5574207803,Crazy Beautiful Tattoos,404 Tripp St Ste A,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",19800,1
-1970-01-01 00:00:00.020200509,4386687402,Justin Israel Johnson,637 Thomas Mill Rd,Plains,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200530,5670277802,Pertina Dowdell,110 Joyce Ct,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7000,1
-1970-01-01 00:00:00.020200530,5295687804,Evinfinite Source Corporation,200 Cotton Ave,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4200,1
-1970-01-01 00:00:00.020200530,5853997809,D & S Tax Services,518 North Lee Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",18300,1
-1970-01-01 00:00:00.020200528,4552537802,Blue Wright Properties,721 Felder St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",13000,1
-1970-01-01 00:00:00.020200518,7525217406,"Container Marketing, Inc.",110 Matthews Dr,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200602,6604667808,Innovative Senior  Solutions,721 Felder Street,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200509,4379787410,Rob Fletcher,726 Hwy 30,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200505,1836607405,Hyesung Llc,Hyesung Llc,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",18600,1
-1970-01-01 00:00:00.020200605,8403817808,Blanca Hernandez,1324 Hwy 27 E,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",11000,1
-1970-01-01 00:00:00.020200603,7373417810,Emily Farm,1664 Oliver Jones Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",84100,1
-1970-01-01 00:00:00.020200506,2410497406,Chattahoochee Turf Products Inc,205 Tommy Warren Dr,Cobb,13261,Sumter County,GA,31735,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200530,5376247803,S.G.M.S,199 A Southland Road,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",50000,1
-1970-01-01 00:00:00.020200421,3286037208,Salinas Boatworks Llc,309 Brady Road,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",239300,1
-1970-01-01 00:00:00.020200526,3340727804,Exclusive Visions,200 Cotton Ave Ste 3,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",5000,1
-1970-01-01 00:00:00.020200530,5742027808,Jeff Williams Fine Art,302 Taylor St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200522,2211437810,"Thunderbolt Trailers, Inc.","128 E. Forsyth St., Unit 6542",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",20400,1
-1970-01-01 00:00:00.020200511,5119957400,Rick Davis Automotive,416 Tripp Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",130500,1
-1970-01-01 00:00:00.020200601,6018357806,Queen Nails And Spa Salon,1472 E Forsyth St Ste G,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",30000,1
-1970-01-01 00:00:00.020200519,8674937408,Super Contracting Company,5678 Ga Hwy 26 West,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",41700,1
-1970-01-01 00:00:00.020200608,8913077800,Americus Hospitality,1605 E Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200601,6134447806,"Southern Sealcoating & Striping, Llc",156 Jury Clark Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",133000,1
-1970-01-01 00:00:00.020200518,7879747409,"Hembree Valuation Services, Inc.",308 E Church St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200521,1757687801,Darrell Walters,575 Henry Hart Rd,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200515,7135757409,Moses Roberts,1887 Ga Highway 27 E,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200601,6083167804,Cb Dowdell American Legion Post558,116 Highway 30,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",12500,1
-1970-01-01 00:00:00.020200525,3042677804,Evinfinite,"200 Cotton Ave, Ste 1",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7000,1
-1970-01-01 00:00:00.020200518,7746677408,Truman'S Air Conditioning And Heating Llc.,405 Tommy Hooks Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200518,7696367410,Mathis Enterprises And Sales Llc,6 Pinefield Dr,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",56600,1
-1970-01-01 00:00:00.020200518,7855847410,Mk Kreations,141 Stonewall Drive,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10500,1
-1970-01-01 00:00:00.020200606,8637347801,Mitchell Randolph Mcphaill Ii,147 Wellons Rd,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",65000,1
-1970-01-01 00:00:00.020200526,3417957802,Cafe Campesino Inc,725 Millard Fuller Blvd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200529,4740187801,Wood'S Swinging Wings Llc,1043 West Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",37200,1
-1970-01-01 00:00:00.020200519,9010607405,Nellup Properties,177 Popwell Rd,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",6900,1
-2020-06-18 00:00:00.000000000,8473367908,Gregory Perry,1711 Hwy 27 East,Leslie,13261,Sumter County,GA,31764,02,West,11140.0,"Americus, GA",10500,1
-2020-06-24 00:00:00.000000000,3051488009,Healthline Management,310 Patton Dr,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",28500,1
-2020-06-11 00:00:00.000000000,1970617910,Keys To Transformation Inc,1601 N Martin Luther King Jr Blvd Ste 200,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",41500,1
-2020-06-18 00:00:00.000000000,8190437905,"Flat Foot Trucking,  Llc",466 W Oglethorpe St,Ellaville,13249,Schley County,GA,31806,02,West,11140.0,"Americus, GA",12100,1
-2020-06-20 00:00:00.000000000,9634887907,"The Staffing People, Inc.",1526 Elm Street,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",134000,1
-1970-01-01 00:00:00.020200625,3798658010,Ambe Maa Investments Llc,129 Ga Highway 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
-1970-01-01 00:00:00.020200616,4363057910,Advanced Cleaners15 Llc,693 Shiloh Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",12300,1
-1970-01-01 00:00:00.020200617,6044777905,Thatgoodhair Ltd,707 A Magnolia St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23600,1
-1970-01-01 00:00:00.020200622,1581678005,"Southern Senior Insurance, Llc",116 Sylvan Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",21000,1
-1970-01-01 00:00:00.020200612,2660387901,Plains Transport,552 U.S Hwy 280 W,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
-1970-01-01 00:00:00.020200617,6397887909,Christi Tolbert Let Your Light,735 Deer Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",2200,1
-1970-01-01 00:00:00.020200618,8297927910,Kids Kastle Daycare,199 Roy Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",29000,1
-1970-01-01 00:00:00.020200611,1793367905,"Little Brother, Llc",102 West Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",143500,1
-1970-01-01 00:00:00.020200616,4376837907,"Silver Dollar Forestry, Llc",726 Hwy 30,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200625,4050948008,"Windsor Hotel Americus, Inc.",125 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200610,1437507903,Middle River Farms,1929 Middle River Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",50400,1
-1970-01-01 00:00:00.020200611,2482697907,The Fair Store,127 W Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23900,1
-1970-01-01 00:00:00.020200612,2875017903,"Sowega Construction, Inc",1313 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200617,6865327907,"Bibenbyn, Llc",1505 Ga Highway 240 E,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",104400,1
-1970-01-01 00:00:00.020200611,1744527909,J & K Trucking Company Llc,809 A Shiloh Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200618,8306007908,Anderson-Bailey Real Estate,211 N. Jackson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200616,5272017908,Last Generation Rem Llc,155 Oak Turn Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10600,1
-1970-01-01 00:00:00.020200611,2182127909,"Ameri-Green Environmental Recycling, Llc",109 Mathews Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200622,1160768010,Concetta Terry,211 Pineview Place,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4300,1
-1970-01-01 00:00:00.020200616,4725577900,Southern Gun Company,1526 Elm Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10200,1
-1970-01-01 00:00:00.020200617,5730667902,Zac'S Mobile Restoration,609 Harold Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
-1970-01-01 00:00:00.020200617,6896117906,Double S Farms,315 Sam Hill Dogleg Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1800,1
-1970-01-01 00:00:00.020200616,3891437905,Mane Street,221 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6100,1
-1970-01-01 00:00:00.020200617,6876417905,Minh D Nguyen,228 Tommy Smith Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
-1970-01-01 00:00:00.020200611,1944607903,Soaring Eagle Logistics Llc,119 Ashby St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",9300,1
-1970-01-01 00:00:00.020200625,3937138008,Abby Learn And Play Child Care Center,843 Elm Ave,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",18000,1
-1970-01-01 00:00:00.020200611,2397157904,Calhoun Landscaping Co,129 South Forty Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",77500,1
-1970-01-01 00:00:00.020200610,1216117900,"Beamon Law, Llc",504 Millard Fuller Blvd.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",55600,1
-1970-01-01 00:00:00.020200610,1262227910,Korean Grace Farm Llc,195 Crisp Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",38500,1
-1970-01-01 00:00:00.020200611,2165507903,Sav-Ah-Lott,312 E. College St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",28000,1
-1970-01-01 00:00:00.020200611,2359387902,"Martin A. Mcdonald Insurance Agency, Inc.",925 N Mlk Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200624,2900678008,Gerald Johnson,418 Cora Dr,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",8100,1
-1970-01-01 00:00:00.020200625,3699708006,Jennifer Marie Bailey,287 Lasco Harvey Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10900,1
-1970-01-01 00:00:00.020200625,3704608006,Joseph Monts,132 Charleston Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5200,1
-1970-01-01 00:00:00.020200624,3284558007,Lightning Trucking Llc,503 East Jefferson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",47000,1
-1970-01-01 00:00:00.020200618,8356957909,Heads Up Beauty Salon,809 Ashby St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
-1970-01-01 00:00:00.020200624,2398948010,Julio Cesar Barrios Castillo,109 Forestside Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14700,1
-1970-01-01 00:00:00.020200625,3844248007,Kim Ferrill,602 Valley Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15700,1
-1970-01-01 00:00:00.020200617,5518627904,Nail Designs,"302 Tripp St, Ste D",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200617,6153807900,Wise And Sons Lawn Care,222 Wanda Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
-1970-01-01 00:00:00.020200616,4413547903,Colbert Transportations,442 Oak St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200610,1249277909,Bob Kats Trucking,833 Ridge Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",67500,1
-1970-01-01 00:00:00.020200625,4098868007,William P Mason,127 Pine Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",11500,1
-1970-01-01 00:00:00.020200612,3358247909,Ray Coe Services Llc,1989 Dozier Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",16500,1
-1970-01-01 00:00:00.020200617,5809567910,Pig Problem Inc,224 W. Lamar St. Ste B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8400,1
-1970-01-01 00:00:00.020200622,1129928001,"Chief Vann Investments, Llc",2014 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
-1970-01-01 00:00:00.020200623,1654788005,Kathy'S Cleaning Service,2008 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10500,1
-1970-01-01 00:00:00.020200625,4259688003,"Pharmacentra, Llc",105 Industrial Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200625,3678778006,Winfred Floyd,733 N. Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",59000,1
-1970-01-01 00:00:00.020200624,2765348010,Harvey Family Group Llc.,111 Oakridge Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7700,1
-1970-01-01 00:00:00.020200612,3549067906,"Mccorkle Well Drilling, Inc.",571 Fish Road,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200612,3517807909,Joe And Linda Larsen,636 Highway 49,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200618,8588127906,Jeffrey Taylor,107 Woodland Ave.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200612,3615297904,K Merritt Trucking Llc,201 Murphy Mill Rd Apt K,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24000,1
-1970-01-01 00:00:00.020200617,5772757903,Maries Kitchen Llc,1458 Roswell Rd,East Cobb,13261,Sumter County,GA,,6.0,West,11140.0,"Americus, GA",5600,1
-1970-01-01 00:00:00.020200616,3666797901,Crow'S Trucking,7741 Sr 228,Andersonville,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",13000,1
-1970-01-01 00:00:00.020200612,3621307901,"Clearwater Sport Fishing, Llc",500 Plantation Ridge Dr,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200624,3235488003,Blue Fin Power Washing,767 Ga Hwy 49S,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",11800,1
-1970-01-01 00:00:00.020200620,9537777907,Dallas Brown,117 Southland Subdivision Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200616,3818237908,Moonlighters Cleaning Service,117 Cow Pen Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11600,1
-1970-01-01 00:00:00.020200612,3281587907,"Pedorthic Footcare Association, Inc",378 Lakewood Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200620,9618187909,"Minick Interiors, Inc.",124 W Lamar St Ste A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",86700,1
-1970-01-01 00:00:00.020200618,8667827902,"Wolf Creek Sod, Inc.",887 Mcmath Mill Road Ext,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",72900,1
-1970-01-01 00:00:00.020200612,3301457901,Steve Miller,133 West Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",114000,1
-1970-01-01 00:00:00.020200612,3336187903,L. J. Engineering,1004 Turner Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200622,1140348005,B & W Wilcher Lawn Service Llc,44 Meadow Wood Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1300,1
-1970-01-01 00:00:00.020200625,3498368004,"Hart Eye Care, P.C.",135 Ga Highway 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",133300,1
-1970-01-01 00:00:00.020200617,6253317903,Catering Creations Inc,173 Mcmath Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",84100,1
-1970-01-01 00:00:00.020200612,2568107906,Specialty Technologies And Services,370 Candy Cane Lane,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",3300,1
-1970-01-01 00:00:00.020200620,9686827902,Eazy Transport Services Llc,1010 S Mlk Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",96000,1
-1970-01-01 00:00:00.020200619,9213167905,Harpers Tree & Stump Removal Inc,2798 State Route 26 E,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",91600,1
-1970-01-01 00:00:00.020200617,6044417902,Alex Arizmendi,1726 E. Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
-1970-01-01 00:00:00.020200619,8862687903,Jenny'S Grooming And Boarding Spa,150 East Wilson St,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3200,1
-1970-01-01 00:00:00.020200616,3869717910,Southern Lawns,156 Jury Clark Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2500,1
-1970-01-01 00:00:00.020200616,3896807908,Jan Hobgood Dba Hobgood Rentals,887 Mcmath Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",21400,1
-1970-01-01 00:00:00.020200616,4840717900,Manor Of Speaking Llc,210 Smokey Ln,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",27700,1
-1970-01-01 00:00:00.020200623,1781528000,J&J Oil Change,1908 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200616,4155407903,Shear Heaven Salon,1102 East Jefferson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7000,1
-1970-01-01 00:00:00.020200616,4005137910,Wall Hanger Taxidermy & Processing,721 Dixon Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
-1970-01-01 00:00:00.020200616,3910737908,Thomas R. Hanson,1196 Englishville Rd,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",140800,1
-1970-01-01 00:00:00.020200616,4052207910,Mary S Mcphail,108 Swett Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18700,1
-1970-01-01 00:00:00.020200620,9468517905,The Golden Heart Foundation Llc,1600 D  Forsyth Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18000,1
-1970-01-01 00:00:00.020200616,4388747901,"Client First Properties, Llc",132 W Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200617,6416357910,"Judy Yy Cheng Md, Pc",319 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200622,1058998002,Plains Parlour Salon,103 South Bond St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
-1970-01-01 00:00:00.020200622,1122358004,Keiko Harp,259 Cora Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",7300,1
-1970-01-01 00:00:00.020200624,2277758005,Bobby Harris Farms,Po Box 1241,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",90300,1
-1970-01-01 00:00:00.020200624,2339008010,Marcjackson Transport Llc,912 Cypress Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",120100,1
-1970-01-01 00:00:00.020200624,2209538007,"Oakland Wood Products, Inc.",124 Ga. Forest Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200616,4587027900,"Keshav Investment, Lllc",1101 S Martin Luther King Jr Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",110900,1
-1970-01-01 00:00:00.020200617,6160037903,Old School Tech,735 Deer Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",55300,1
-1970-01-01 00:00:00.020200617,7090547901,Home Health Care Services,1130 Ridge Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6500,1
-1970-01-01 00:00:00.020200617,6939137902,William Webb,2381 Lee Street Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",50000,1
-1970-01-01 00:00:00.020200617,6103767903,"Mac Perry Farms, Llc",116 Kemp Street,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",128400,1
-1970-01-01 00:00:00.020200617,7077607901,Jackies Lil Tooty Tots,415 Winn St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",33700,1
-1970-01-01 00:00:00.020200624,2735508009,Real Right Logistics Llc,113 Stonewall Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200617,6124537903,"Leslie Cattle, Llc",3141 Us Hwy 280W,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200617,6256177904,"Way-Watson Funeral Home, Llc",28 E. Oglethorpe St.,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200618,7969327906,Shirleen Holloway,928 Tallent Store Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200625,3512008009,Georgia On-Site Services Llc,1501 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200620,9484007905,G-Styles Hair Salon,107 W. Forsyth St Suite-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7600,1
-1970-01-01 00:00:00.020200622,1064968000,Crystal Wright,305 Peachtree St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",29000,1
-1970-01-01 00:00:00.020200618,8474117905,Donna Findlay,155 Jimmy Wolfe Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20700,1
-1970-01-01 00:00:00.020200624,2269248005,Quachandra Phlebotomist Services,420 South Hampton Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
-1970-01-01 00:00:00.020200619,8883767902,"Louza Associates, Lllp",110 Mathews Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",40000,1
-1970-01-01 00:00:00.020200616,4854597902,Denson Freight Carrier'S Llc,303B Ferguson Rd,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",39000,1
-2020-07-06 00:00:00.000000000,8986258008,"Sumter Pediatrics, Llc",103 Ga Highway 27 E,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",150000,1
-2020-07-02 00:00:00.000000000,7615608002,Monica Lusane,601 North Lee Street,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",7300,1
-2020-07-02 00:00:00.000000000,7949508007,Corremsky Lawson,112 Garden Lane,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",5700,1
-1970-01-01 00:00:00.020200711,1671468103,Executive Tax And Consulting,1600 E Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",79500,1
-1970-01-01 00:00:00.020200713,2342358109,Jennifer Wilson Carter,510 Eastview Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200717,4808188108,Natasha Lewis,120 Hosanna Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
-1970-01-01 00:00:00.020200630,6900868004,Rhonda Reddick,125 Sharon Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8000,1
-1970-01-01 00:00:00.020200626,4702798007,Eddie Wallace,199 Jenkins Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17000,1
-1970-01-01 00:00:00.020200708,9850908008,Souther Field Aviation Inc,223 Airport Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",100000,1
-1970-01-01 00:00:00.020200630,6545378004,James Luke Saia Sr.,55 Ga Hwy 271,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200629,5967918006,Markee Bunkley,802 Mary St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11900,1
-1970-01-01 00:00:00.020200703,8165528009,J Michaels Auto Credit Llc,1203 S Martin Luther King Jr Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200707,9096068002,Connie Whitehead,116 Faircloth Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24200,1
-1970-01-01 00:00:00.020200630,6194188003,H-Ways Bbq Llc,102 Short Lane,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8800,1
-1970-01-01 00:00:00.020200707,9235318006,Heritage Barber Shop,505 N Lee St Ste A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8500,1
-1970-01-01 00:00:00.020200715,3941648109,Mercer'S Barber Shop,121 North Lee Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
-1970-01-01 00:00:00.020200630,6279538000,Lakina Clemons,147 Sylvan Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200630,6191338005,Ladonnia Young,909 Postway,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
-1970-01-01 00:00:00.020200707,9083528010,Tracia M. Tullis,1009 S Martin Luther King Blvd.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200704,8378608002,Curtis Porter,133 Foster Street,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16600,1
-1970-01-01 00:00:00.020200715,4074198100,"Angelite Homecare Center, Llc","1524 N Martin Luther King Jr Blvd, Ste A",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200711,1541068103,Kirby Clark (Housekeeping),43 Sam Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1900,1
-1970-01-01 00:00:00.020200715,3984338110,Salonn Savvy Beauty Bar,530 Tripp St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",45000,1
-1970-01-01 00:00:00.020200629,5542588008,C   Los  Productions  Llc,712 Sunset Dr,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200707,9307518007,Shaquanda Barner,106 Bill Cross St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200715,3963448109,Eduardo F Ralwins,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,02,West,11140.0,"Americus, GA",20000,1
-1970-01-01 00:00:00.020200714,3079258110,Sumter Hospitality Llc.,1007 Mlk Jr. Blvd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200713,2971288104,Syed M Alam Md Pc,227 N Lee St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200708,9698808007,Kaneshia Johnson,315 Crawley St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",17500,1
-1970-01-01 00:00:00.020200709,1417758101,"The Fuller Center For Housing, Inc.","The Fuller Center For Housing, Inc",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",100000,1
-1970-01-01 00:00:00.020200715,3543698107,Audrey Thomas,1602 E Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7300,1
-1970-01-01 00:00:00.020200707,9372238002,Holts Tax Service,137 6Th St,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",16500,1
-1970-01-01 00:00:00.020200711,1674258105,Lounge 323 Llc,323 W Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200713,2381658108,Holley Cleaning Service,211 John Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200704,8349288003,Patricia Hill,"129 Irene Drive Americus, Ga 31709 Busines",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
-1970-01-01 00:00:00.020200707,9473868002,Holloway  Corporation In,178 Arlington Drive Ext,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200713,2091458109,Lateshia Sweet,102 Eastview Circle Apt C,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
-1970-01-01 00:00:00.020200707,9198678009,Jbs And Associates Llc,211 N Jackson St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15500,1
-1970-01-01 00:00:00.020200706,8503198010,Hubs Weld Repair,103 Country Club Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6800,1
-1970-01-01 00:00:00.020200626,4412618001,Laura H Faircloth,110 Ga Hwy 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200702,7675738008,Clarence Way,500 Harold Dillard Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",79700,1
-1970-01-01 00:00:00.020200713,2689178102,Sherry W. Ratliff,627 Highway 308,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7400,1
-1970-01-01 00:00:00.020200713,2354368109,Virginia Bruce,206 16Th Green St.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",30000,1
-1970-01-01 00:00:00.020200701,7099578009,Big O Construction,837 Ridge St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200626,4674848000,Sandra Carol Meritt Murray Estate,325 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2600,1
-1970-01-01 00:00:00.020200706,8580398004,"Saumya, Llc",999 Southerfield Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14300,1
-1970-01-01 00:00:00.020200702,7942488000,First Rank Concierge,212 Habitat Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200711,1981728104,Shyneka Banks,205 H Murphy Mill Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
-1970-01-01 00:00:00.020200714,3456088103,O&L Trucking,844 Mcmath Mill. Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
-1970-01-01 00:00:00.020200711,1683978100,Kiytia Mable,718 Tom Gailey Plaza,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200714,3055448103,American Hardwood Flooring Co.,American Hardwood Flooring Co,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8700,1
-1970-01-01 00:00:00.020200704,8418258010,Thomas Haugabook,914 Post Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15600,1
-1970-01-01 00:00:00.020200701,7331828007,Shira Maclennan,640 Deer Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200703,8280478002,Shakeithia Robinson,120 Matt Hart Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
-1970-01-01 00:00:00.020200707,9503308000,Donald Baker,208 Horton Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",12500,1
-1970-01-01 00:00:00.020200629,5378328008,Harry A Andrews,1092 Salters Mill Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200709,1481518104,"New Horizons Habitat For Humanity Of Greater Sumter County, Inc.",551 Hosanna Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200701,7583528007,Burtram James Llc,928 Tallent Store Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23000,1
-1970-01-01 00:00:00.020200701,7108278005,Barbara Castleberry,245 Shiloh Rd Unit A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3800,1
-1970-01-01 00:00:00.020200706,8813308001,Williams Contracting,415 Old Andersonville Rd,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18500,1
-1970-01-01 00:00:00.020200629,5554538001,Lakeshe Walker,505 Mayo St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16200,1
-1970-01-01 00:00:00.020200706,8818548002,Kadijah Banks,514 Varsity Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
-1970-01-01 00:00:00.020200704,8350018000,Carolyn Collier,263 Ed Carson Dr,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",5000,1
-1970-01-01 00:00:00.020200701,7199248001,Fred Carter Produce,1410 N Jackson St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",40000,1
-1970-01-01 00:00:00.020200715,4076738100,Laqeavia Jones,603 Tripp St Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
-1970-01-01 00:00:00.020200629,5666738007,Willie Cooper,1625 Hwy 195 North,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",44000,1
-1970-01-01 00:00:00.020200715,3607148106,Charles C. Harvey,145 West Rockhill Subdivision,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8900,1
-1970-01-01 00:00:00.020200715,3976688110,Dinorah Ralwins,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200711,1626488110,Kizzy Mable,501 Mayo Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
-1970-01-01 00:00:00.020200711,1846358108,Sekeithia Brown,126 Starlight Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200709,1046598101,Delisa,"720 Harris Street, Apt. 39",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6400,1
-1970-01-01 00:00:00.020200626,4380018003,Glinda Bing,605 Wildwood Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",27700,1
-1970-01-01 00:00:00.020200714,3209298110,1018 Logistics Llc,1018 Simmons Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2500,1
-1970-01-01 00:00:00.020200713,2544968102,Sebrina Pitts,1341 Ga Highway 27E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
-1970-01-01 00:00:00.020200713,2280618108,Tara Hawkins Produce,Tara Hawkins Produce,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8000,1
-1970-01-01 00:00:00.020200715,3656008106,Aletha Romine,740 Tom Gailey Plaza,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200703,8121558005,Aisha Alaman,900 Southwestern Circle #404,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",2300,1
-1970-01-01 00:00:00.020200713,2514168108,Cambria Barner,105 Virgina Ave,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200706,8909598001,Concentra Solutions Inc,105 Industrial Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200715,3566388100,Bellewether Homes,640 Deer Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200713,2927108110,Howard Daniels,247 Old Dawson Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",78000,1
-1970-01-01 00:00:00.020200706,8715048002,Edna Mercer Luster,265 D Cooper Road,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200723,7206758109,Flowery Fish Farm,408 Pecan Dr,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",8800,1
-1970-01-01 00:00:00.020200723,7184118103,Mercer'S Catering Services,160-C Cherokee Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2800,1
-1970-01-01 00:00:00.020200713,2678948102,Magnolias Home Furniture Llc,807 Magnolia Street,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200709,1165248104,Pittman'S Machine Service Inc.,602 Commerce Road,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",86600,1
-1970-01-01 00:00:00.020200720,5528508108,Khodarius Thomas,102 Lake Ridge Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24500,1
-1970-01-01 00:00:00.020200702,7847948009,Shantel Worthy,642 Cowpen Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200706,9043228009,Touched By An Angel,203 Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200714,3057678106,Sheffield & Sons,Po Box 1672,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
-1970-01-01 00:00:00.020200723,7479628100,Patricia Williams,197 Hwy 308,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",40000,1
-1970-01-01 00:00:00.020200630,6775258009,Carla Banks Produce,210 Graham St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",42000,1
-1970-01-01 00:00:00.020200711,1652588109,Mimi'S Hair,607 Eastview Circle Apt F,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2900,1
-1970-01-01 00:00:00.020200723,7620918104,"Client First Insurance Solutions, Llc",132 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200722,6567178102,"Rsr Investments, Llc",147 Ga Hwy 27 East,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5900,1
-1970-01-01 00:00:00.020200711,1721718105,Wecompany,300 Howard St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",28500,1
-1970-01-01 00:00:00.020200703,8154168002,Ciano,914 Parker St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
-1970-01-01 00:00:00.020200716,4575938106,Bo Hobgood,139 Entrekin Rd,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",19400,1
-1970-01-01 00:00:00.020200723,7513068103,"Tc Griffs Properties, Inc.",117 Quail Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",29000,1
-1970-01-01 00:00:00.020200630,6753438003,The Hair Gallery,237  Suite B Vienna Hwy 27 East,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200723,7222128108,Mark R Ponkey,687B Flintside Extension Dr,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20300,1
-1970-01-01 00:00:00.020200720,5993978104,Teresa Michelle Banks,614 N Mayo St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200626,4689928003,"Automation & Control Systems, Inc.",426 Southerfield Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200722,6676088109,Jackson'S Catering & Bakery Services,706 Fulton Street Apt-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
-1970-01-01 00:00:00.020200723,7186298104,"Bryant'S Lawncare Inc,",706 Fulton Street Apt-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6800,1
-1970-01-01 00:00:00.020200708,9570818000,Monts Small Engine Repair,299 Newpoint Church Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200715,3863528101,"Jab & Associates, Llc",1334 Hooks Mill Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11000,1
-1970-01-01 00:00:00.020200716,4559938106,Reid Bros. Irrigation,908 Adderton St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
-1970-01-01 00:00:00.020200702,7762728003,Linda Prince,121 Arlington Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
-1970-01-01 00:00:00.020200713,2133318101,Peaches Creations,80 Barbara Battle Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200713,2561098103,Trinity Houses Of Hope,217 West Lester Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7800,1
-1970-01-01 00:00:00.020200713,2079028106,Shikita Smith,1015 Oglethorpe Ave,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200713,2518608106,Broderick Berry,142 Southern Field Rd,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200626,4852558000,George'S Mens Wear & Tailor Shop,126 N Jackson St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",12100,1
-1970-01-01 00:00:00.020200626,4512888009,"Trinity Land Surveying, Llc",207 Wolf Creek Dr,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",115000,1
-1970-01-01 00:00:00.020200718,5122148107,Masico Gordon,118 E Lester St,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",25000,1
-1970-01-01 00:00:00.020200721,6080328108,Daisy Hubbard,694 Holman Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200715,4056908106,David T Theiss,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",20000,1
-1970-01-01 00:00:00.020200714,3441058102,Nyeshia Baisden,206 Bessie Mays Cir Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5400,1
-1970-01-01 00:00:00.020200720,5966948100,Carplug,200 Cotton Avenue,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
-1970-01-01 00:00:00.020200721,6167508106,Norinne'S Hairfashions,307 Walters St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
-1970-01-01 00:00:00.020200707,9265728001,Salsweets,138 Charleston,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200718,5219278107,Kameron T Carter,128 Laurel Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200713,2047868106,Charlette Clark-Pines Dba Thirty Seventeen Wellness Studio,905 S Martin Luther King Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200711,1944798104,Alicia Pope,208 Horton Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1800,1
-1970-01-01 00:00:00.020200713,2334788109,Gloria Ann Flint,239 South Hampton Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200713,2362878109,K&R Cleaning Service,192 Lexington Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200711,1702498105,Wanda Cole,203 G Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200723,7439848102,Jennifer Johnson,1929 Middle River Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",38900,1
-1970-01-01 00:00:00.020200720,5633748101,None,4323 Ga Highway 228,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
-1970-01-01 00:00:00.020200702,7723628005,Vernisha Alford,119 Charleston Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
-1970-01-01 00:00:00.020200711,1977808101,Sims Catering Services,401 Hosanna Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
-1970-01-01 00:00:00.020200713,2604258104,Cooke'S Rental,107 Ginger Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
-1970-01-01 00:00:00.020200701,7514168002,Biscelglia Williams,270 W. Rock Hill Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",26500,1
-1970-01-01 00:00:00.020200723,7334398102,"Mercer'S Lawncare Inc,",106 Hosanna Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7000,1
-1970-01-01 00:00:00.020200709,1404708109,Brittany Welborn,132 North Village Dr,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",4000,1
-1970-01-01 00:00:00.020200722,6929478107,Tiffany Tatum Fresh Produce,229 Little Bear Branch Road,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",39500,1
-1970-01-01 00:00:00.020200722,6894798108,Bert'S Upholstery And Trim,102 Us Highway 19 N,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",17900,1
-1970-01-01 00:00:00.020200722,6786878100,Quality Home Repair,415 East Hill Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",119000,1
-1970-01-01 00:00:00.020200701,7378278005,Cedar Lane Trucking Llc.,350 Bob Dodson Rd.,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
-1970-01-01 00:00:00.020200717,4731338106,Thaddius Harris,120 Hanson Dr Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5700,1
-1970-01-01 00:00:00.020200701,7553518003,Kenderic Bradley,425 Three Bridges Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200701,7552488005,,151 Fox Stephens Rd Lot F,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1100,1
-1970-01-01 00:00:00.020200717,4838338106,Yogine Llc,1001 S. Mlk Jr. Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",68600,1
-1970-01-01 00:00:00.020200706,8492968009,Melanie Clark Finessed By Mel,169 B Felton Jones Court,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200707,9153138007,Extreme Cleaning Solutions,109 Oakridge Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200713,2578458100,Vaneskia Transportation Services,214 Jenkins Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",30000,1
-1970-01-01 00:00:00.020200713,2694318101,L&S Private Sitting,806 Thrasher Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
-1970-01-01 00:00:00.020200701,7266998004,Corey A. Wright,312 A Taylor St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
-1970-01-01 00:00:00.020200707,9136528004,Trenisha Hallmon,82 B Barbara Battleway,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20000,1
-1970-01-01 00:00:00.020200713,2473628107,Myteckman,508 Eastview Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200720,5502008102,Jasmine D Wilkerson,924 N Jackson St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3700,1
-1970-01-01 00:00:00.020200706,9042878003,Dontavius S Prince,216 Horton Drive Apt. A,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",17500,1
-1970-01-01 00:00:00.020200720,5990788100,"J. Nicole Sinclair, Llc",136 Mallard Ln,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",24000,1
-1970-01-01 00:00:00.020200720,5667398101,Harris Rental,1320 Second Montgomery St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",6000,1
-1970-01-01 00:00:00.020200717,4640598108,The Act Of Kindness,101 A Mangolia Villiage,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200720,5572938105,Tacoma Williams,243 East Rock Hill Subdivision,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2400,1
-1970-01-01 00:00:00.020200701,7237978010,Davila Worldwide Inc,360 Bagley St.,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200720,5852608105,Oveda Jackson Cleaning Service,584 Hwy 280 West,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",9500,1
-1970-01-01 00:00:00.020200701,7126928003,Jonathan Waters,158 Lakeridge Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
-1970-01-01 00:00:00.020200716,4232878110,Above The Rest Cleaning,120 Apple Blossom Ln,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",31100,1
-1970-01-01 00:00:00.020200716,4375418109,Americus Estates Llc,321 Lacrosse Rd,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",14600,1
-1970-01-01 00:00:00.020200722,7009468106,Wilkerson Truck Lines Llc,108 Highland Dr # 12,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",1000,1
-1970-01-01 00:00:00.020200716,4243018105,Melinda Mullis,179 Phil Jones Rd,Cobb,13261,Sumter County,GA,31735,2.0,West,11140.0,"Americus, GA",9000,1
-1970-01-01 00:00:00.020200716,4301538107,Mercer'S Beauty Salon,121 N Lee Street,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",3000,1
-1970-01-01 00:00:00.020200716,4337568107,Felinsay  Landscaping,113 Ga Hwy 27 E Apt H8,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",2100,1
-1970-01-01 00:00:00.020200722,6859718100,Atonya Jordan,1629 Ga Highway 195 N,Leslie,13261,Sumter County,GA,31764,2.0,West,11140.0,"Americus, GA",70900,1
-1970-01-01 00:00:00.020200716,4243638103,Jamaica Kelley,110 Pecan Terrace,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",21500,1
-1970-01-01 00:00:00.020200716,4321808102,"B&G Timber, Llc",433 Winder Street,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15900,1
-1970-01-01 00:00:00.020200716,4398658103,Sims  Farming,114 Peacan,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",61000,1
-1970-01-01 00:00:00.020200716,4376728110,Dreamchaser Paint And Body,131 Pecan Ter,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
-1970-01-01 00:00:00.020200716,4329458109,Braids By Calandria,203 Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8800,1
-1970-01-01 00:00:00.020200716,4363228103,Tyson Technician Handyman And More Llc,128 E Forsyth St #6431,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
-1970-01-01 00:00:00.020200718,5185088110,Keith Haynes,721 Beale St.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
-1970-01-01 00:00:00.020200718,5218838107,Fanesha'S Upholistry,218 Barnum Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4200,1
+2020-04-15,8999307100,"Lewis Lake House, Llc",397 Flintside Dr,Cobb,13261,Sumter County,GA,31735,02,West,11140.0,"Americus, GA",9000,1
+1970-01-01,4552207808,"Motley Crew Investments, Llc",2014 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4200,1
+1970-01-01,4614027809,"Mobile Glassblowing Studios, Llc",505 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",116800,1
+1970-01-01,3462207200,E&E Brothers Inc,1536 E Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",102000,1
+1970-01-01,8517647803,Olivia Perry,1818 Us Hwy 280 Unit #173,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,8590567810,"Tepuy Apparel Design, Inc",502 W Forsyth St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",9100,1
+1970-01-01,4729647807,Hb Stephens Trucking Llc,105 Bessie Mays Cir Apt B,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",77800,1
+1970-01-01,8493127805,Alicia R. Hardin,734 Felder Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4100,1
+1970-01-01,2003977803,Love At First Sight Ultrasound Studio And Boutique,111 West Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",6700,1
+1970-01-01,6153867406,Jensen Farms,221 Commerce St,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,7677527807,Edward S. Ward Dba Draw Products,302 West Lamar St.,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",20000,1
+1970-01-01,2895627808,Carl Wayne Adams Carpentry,325 Wiggins Ln,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",7700,1
+1970-01-01,5338327802,Word Of Faith Ministries Of Americus Inc.,322 Forrest St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16500,1
+1970-01-01,5146187803,Georgia Two Mway Inc.,1206 Ga Highway 30 W,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",146000,1
+1970-01-01,3177997803,"Sedge & Associates, Llc",153 Sylvan Drive,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",2000,1
+1970-01-01,5865117800,Gene Frazier,450 Chambliss Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15500,1
+1970-01-01,5925127806,Joshua Welch,2456 Ga Hwy 30 W,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",125400,1
+1970-01-01,5923587408,H&D Redi Mix Llc,299 Brady Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,7293177810,Executive Tax & Consulting Llc,1600 E East Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15300,1
+1970-01-01,5096747403,"Johnny H. Johnson, Jr",212 N Lee St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",15900,1
+1970-01-01,7346177804,Sumter Family & Sports Medicine Center,922 E Jefferson Street Suite F,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",60000,1
+1970-01-01,5707347804,Spring Precast Llc,3782 Us Hwy 280 East,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,4553267403,"Dixie Lix Industries, Inc",P.O. Box 226,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",144600,1
+1970-01-01,6903107804,Angel Beso Hair,211 Habitat St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
+1970-01-01,5574207803,Crazy Beautiful Tattoos,404 Tripp St Ste A,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",19800,1
+1970-01-01,4386687402,Justin Israel Johnson,637 Thomas Mill Rd,Plains,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,5670277802,Pertina Dowdell,110 Joyce Ct,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7000,1
+1970-01-01,5295687804,Evinfinite Source Corporation,200 Cotton Ave,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4200,1
+1970-01-01,5853997809,D & S Tax Services,518 North Lee Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",18300,1
+1970-01-01,4552537802,Blue Wright Properties,721 Felder St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",13000,1
+1970-01-01,7525217406,"Container Marketing, Inc.",110 Matthews Dr,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,6604667808,Innovative Senior  Solutions,721 Felder Street,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
+1970-01-01,4379787410,Rob Fletcher,726 Hwy 30,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,1836607405,Hyesung Llc,Hyesung Llc,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",18600,1
+1970-01-01,8403817808,Blanca Hernandez,1324 Hwy 27 E,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",11000,1
+1970-01-01,7373417810,Emily Farm,1664 Oliver Jones Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",84100,1
+1970-01-01,2410497406,Chattahoochee Turf Products Inc,205 Tommy Warren Dr,Cobb,13261,Sumter County,GA,31735,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,5376247803,S.G.M.S,199 A Southland Road,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",50000,1
+1970-01-01,3286037208,Salinas Boatworks Llc,309 Brady Road,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",239300,1
+1970-01-01,3340727804,Exclusive Visions,200 Cotton Ave Ste 3,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",5000,1
+1970-01-01,5742027808,Jeff Williams Fine Art,302 Taylor St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10000,1
+1970-01-01,2211437810,"Thunderbolt Trailers, Inc.","128 E. Forsyth St., Unit 6542",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",20400,1
+1970-01-01,5119957400,Rick Davis Automotive,416 Tripp Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",130500,1
+1970-01-01,6018357806,Queen Nails And Spa Salon,1472 E Forsyth St Ste G,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",30000,1
+1970-01-01,8674937408,Super Contracting Company,5678 Ga Hwy 26 West,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",41700,1
+1970-01-01,8913077800,Americus Hospitality,1605 E Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,6134447806,"Southern Sealcoating & Striping, Llc",156 Jury Clark Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",133000,1
+1970-01-01,7879747409,"Hembree Valuation Services, Inc.",308 E Church St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
+1970-01-01,1757687801,Darrell Walters,575 Henry Hart Rd,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
+1970-01-01,7135757409,Moses Roberts,1887 Ga Highway 27 E,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",1000,1
+1970-01-01,6083167804,Cb Dowdell American Legion Post558,116 Highway 30,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",12500,1
+1970-01-01,3042677804,Evinfinite,"200 Cotton Ave, Ste 1",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7000,1
+1970-01-01,7746677408,Truman'S Air Conditioning And Heating Llc.,405 Tommy Hooks Rd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,7696367410,Mathis Enterprises And Sales Llc,6 Pinefield Dr,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",56600,1
+1970-01-01,7855847410,Mk Kreations,141 Stonewall Drive,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10500,1
+1970-01-01,8637347801,Mitchell Randolph Mcphaill Ii,147 Wellons Rd,Ellaville,13249,Schley County,GA,,2,West,11140.0,"Americus, GA",65000,1
+1970-01-01,3417957802,Cafe Campesino Inc,725 Millard Fuller Blvd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,4740187801,Wood'S Swinging Wings Llc,1043 West Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",37200,1
+1970-01-01,9010607405,Nellup Properties,177 Popwell Rd,Leslie,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",6900,1
+2020-06-18,8473367908,Gregory Perry,1711 Hwy 27 East,Leslie,13261,Sumter County,GA,31764,02,West,11140.0,"Americus, GA",10500,1
+2020-06-24,3051488009,Healthline Management,310 Patton Dr,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",28500,1
+2020-06-11,1970617910,Keys To Transformation Inc,1601 N Martin Luther King Jr Blvd Ste 200,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",41500,1
+2020-06-18,8190437905,"Flat Foot Trucking,  Llc",466 W Oglethorpe St,Ellaville,13249,Schley County,GA,31806,02,West,11140.0,"Americus, GA",12100,1
+2020-06-20,9634887907,"The Staffing People, Inc.",1526 Elm Street,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",134000,1
+1970-01-01,3798658010,Ambe Maa Investments Llc,129 Ga Highway 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
+1970-01-01,4363057910,Advanced Cleaners15 Llc,693 Shiloh Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",12300,1
+1970-01-01,6044777905,Thatgoodhair Ltd,707 A Magnolia St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23600,1
+1970-01-01,1581678005,"Southern Senior Insurance, Llc",116 Sylvan Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",21000,1
+1970-01-01,2660387901,Plains Transport,552 U.S Hwy 280 W,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
+1970-01-01,6397887909,Christi Tolbert Let Your Light,735 Deer Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",2200,1
+1970-01-01,8297927910,Kids Kastle Daycare,199 Roy Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",29000,1
+1970-01-01,1793367905,"Little Brother, Llc",102 West Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",143500,1
+1970-01-01,4376837907,"Silver Dollar Forestry, Llc",726 Hwy 30,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
+1970-01-01,4050948008,"Windsor Hotel Americus, Inc.",125 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,1437507903,Middle River Farms,1929 Middle River Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",50400,1
+1970-01-01,2482697907,The Fair Store,127 W Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23900,1
+1970-01-01,2875017903,"Sowega Construction, Inc",1313 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,6865327907,"Bibenbyn, Llc",1505 Ga Highway 240 E,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",104400,1
+1970-01-01,1744527909,J & K Trucking Company Llc,809 A Shiloh Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,8306007908,Anderson-Bailey Real Estate,211 N. Jackson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,5272017908,Last Generation Rem Llc,155 Oak Turn Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10600,1
+1970-01-01,2182127909,"Ameri-Green Environmental Recycling, Llc",109 Mathews Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,1160768010,Concetta Terry,211 Pineview Place,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4300,1
+1970-01-01,4725577900,Southern Gun Company,1526 Elm Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10200,1
+1970-01-01,5730667902,Zac'S Mobile Restoration,609 Harold Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
+1970-01-01,6896117906,Double S Farms,315 Sam Hill Dogleg Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1800,1
+1970-01-01,3891437905,Mane Street,221 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6100,1
+1970-01-01,6876417905,Minh D Nguyen,228 Tommy Smith Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
+1970-01-01,1944607903,Soaring Eagle Logistics Llc,119 Ashby St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",9300,1
+1970-01-01,3937138008,Abby Learn And Play Child Care Center,843 Elm Ave,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",18000,1
+1970-01-01,2397157904,Calhoun Landscaping Co,129 South Forty Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",77500,1
+1970-01-01,1216117900,"Beamon Law, Llc",504 Millard Fuller Blvd.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",55600,1
+1970-01-01,1262227910,Korean Grace Farm Llc,195 Crisp Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",38500,1
+1970-01-01,2165507903,Sav-Ah-Lott,312 E. College St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",28000,1
+1970-01-01,2359387902,"Martin A. Mcdonald Insurance Agency, Inc.",925 N Mlk Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,2900678008,Gerald Johnson,418 Cora Dr,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",8100,1
+1970-01-01,3699708006,Jennifer Marie Bailey,287 Lasco Harvey Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10900,1
+1970-01-01,3704608006,Joseph Monts,132 Charleston Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5200,1
+1970-01-01,3284558007,Lightning Trucking Llc,503 East Jefferson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",47000,1
+1970-01-01,8356957909,Heads Up Beauty Salon,809 Ashby St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
+1970-01-01,2398948010,Julio Cesar Barrios Castillo,109 Forestside Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14700,1
+1970-01-01,3844248007,Kim Ferrill,602 Valley Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15700,1
+1970-01-01,5518627904,Nail Designs,"302 Tripp St, Ste D",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,6153807900,Wise And Sons Lawn Care,222 Wanda Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
+1970-01-01,4413547903,Colbert Transportations,442 Oak St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,1249277909,Bob Kats Trucking,833 Ridge Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",67500,1
+1970-01-01,4098868007,William P Mason,127 Pine Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",11500,1
+1970-01-01,3358247909,Ray Coe Services Llc,1989 Dozier Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",16500,1
+1970-01-01,5809567910,Pig Problem Inc,224 W. Lamar St. Ste B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8400,1
+1970-01-01,1129928001,"Chief Vann Investments, Llc",2014 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
+1970-01-01,1654788005,Kathy'S Cleaning Service,2008 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10500,1
+1970-01-01,4259688003,"Pharmacentra, Llc",105 Industrial Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,3678778006,Winfred Floyd,733 N. Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",59000,1
+1970-01-01,2765348010,Harvey Family Group Llc.,111 Oakridge Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7700,1
+1970-01-01,3549067906,"Mccorkle Well Drilling, Inc.",571 Fish Road,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,3517807909,Joe And Linda Larsen,636 Highway 49,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
+1970-01-01,8588127906,Jeffrey Taylor,107 Woodland Ave.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,3615297904,K Merritt Trucking Llc,201 Murphy Mill Rd Apt K,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24000,1
+1970-01-01,5772757903,Maries Kitchen Llc,1458 Roswell Rd,East Cobb,13261,Sumter County,GA,,6.0,West,11140.0,"Americus, GA",5600,1
+1970-01-01,3666797901,Crow'S Trucking,7741 Sr 228,Andersonville,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",13000,1
+1970-01-01,3621307901,"Clearwater Sport Fishing, Llc",500 Plantation Ridge Dr,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",150000,1
+1970-01-01,3235488003,Blue Fin Power Washing,767 Ga Hwy 49S,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",11800,1
+1970-01-01,9537777907,Dallas Brown,117 Southland Subdivision Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,3818237908,Moonlighters Cleaning Service,117 Cow Pen Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11600,1
+1970-01-01,3281587907,"Pedorthic Footcare Association, Inc",378 Lakewood Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,9618187909,"Minick Interiors, Inc.",124 W Lamar St Ste A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",86700,1
+1970-01-01,8667827902,"Wolf Creek Sod, Inc.",887 Mcmath Mill Road Ext,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",72900,1
+1970-01-01,3301457901,Steve Miller,133 West Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",114000,1
+1970-01-01,3336187903,L. J. Engineering,1004 Turner Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
+1970-01-01,1140348005,B & W Wilcher Lawn Service Llc,44 Meadow Wood Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1300,1
+1970-01-01,3498368004,"Hart Eye Care, P.C.",135 Ga Highway 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",133300,1
+1970-01-01,6253317903,Catering Creations Inc,173 Mcmath Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",84100,1
+1970-01-01,2568107906,Specialty Technologies And Services,370 Candy Cane Lane,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",3300,1
+1970-01-01,9686827902,Eazy Transport Services Llc,1010 S Mlk Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",96000,1
+1970-01-01,9213167905,Harpers Tree & Stump Removal Inc,2798 State Route 26 E,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",91600,1
+1970-01-01,6044417902,Alex Arizmendi,1726 E. Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
+1970-01-01,8862687903,Jenny'S Grooming And Boarding Spa,150 East Wilson St,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3200,1
+1970-01-01,3869717910,Southern Lawns,156 Jury Clark Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2500,1
+1970-01-01,3896807908,Jan Hobgood Dba Hobgood Rentals,887 Mcmath Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",21400,1
+1970-01-01,4840717900,Manor Of Speaking Llc,210 Smokey Ln,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",27700,1
+1970-01-01,1781528000,J&J Oil Change,1908 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,4155407903,Shear Heaven Salon,1102 East Jefferson Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7000,1
+1970-01-01,4005137910,Wall Hanger Taxidermy & Processing,721 Dixon Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
+1970-01-01,3910737908,Thomas R. Hanson,1196 Englishville Rd,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",140800,1
+1970-01-01,4052207910,Mary S Mcphail,108 Swett Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18700,1
+1970-01-01,9468517905,The Golden Heart Foundation Llc,1600 D  Forsyth Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18000,1
+1970-01-01,4388747901,"Client First Properties, Llc",132 W Lamar Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,6416357910,"Judy Yy Cheng Md, Pc",319 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,1058998002,Plains Parlour Salon,103 South Bond St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
+1970-01-01,1122358004,Keiko Harp,259 Cora Drive,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",7300,1
+1970-01-01,2277758005,Bobby Harris Farms,Po Box 1241,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",90300,1
+1970-01-01,2339008010,Marcjackson Transport Llc,912 Cypress Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",120100,1
+1970-01-01,2209538007,"Oakland Wood Products, Inc.",124 Ga. Forest Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,4587027900,"Keshav Investment, Lllc",1101 S Martin Luther King Jr Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",110900,1
+1970-01-01,6160037903,Old School Tech,735 Deer Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",55300,1
+1970-01-01,7090547901,Home Health Care Services,1130 Ridge Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6500,1
+1970-01-01,6939137902,William Webb,2381 Lee Street Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",50000,1
+1970-01-01,6103767903,"Mac Perry Farms, Llc",116 Kemp Street,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",128400,1
+1970-01-01,7077607901,Jackies Lil Tooty Tots,415 Winn St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",33700,1
+1970-01-01,2735508009,Real Right Logistics Llc,113 Stonewall Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
+1970-01-01,6124537903,"Leslie Cattle, Llc",3141 Us Hwy 280W,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,6256177904,"Way-Watson Funeral Home, Llc",28 E. Oglethorpe St.,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,7969327906,Shirleen Holloway,928 Tallent Store Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,3512008009,Georgia On-Site Services Llc,1501 Rose Ave,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,9484007905,G-Styles Hair Salon,107 W. Forsyth St Suite-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7600,1
+1970-01-01,1064968000,Crystal Wright,305 Peachtree St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",29000,1
+1970-01-01,8474117905,Donna Findlay,155 Jimmy Wolfe Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20700,1
+1970-01-01,2269248005,Quachandra Phlebotomist Services,420 South Hampton Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
+1970-01-01,8883767902,"Louza Associates, Lllp",110 Mathews Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",40000,1
+1970-01-01,4854597902,Denson Freight Carrier'S Llc,303B Ferguson Rd,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",39000,1
+2020-07-06,8986258008,"Sumter Pediatrics, Llc",103 Ga Highway 27 E,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",150000,1
+2020-07-02,7615608002,Monica Lusane,601 North Lee Street,Americus,13261,Sumter County,GA,31709,02,West,11140.0,"Americus, GA",7300,1
+2020-07-02,7949508007,Corremsky Lawson,112 Garden Lane,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",5700,1
+1970-01-01,1671468103,Executive Tax And Consulting,1600 E Forsyth St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",79500,1
+1970-01-01,2342358109,Jennifer Wilson Carter,510 Eastview Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,4808188108,Natasha Lewis,120 Hosanna Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
+1970-01-01,6900868004,Rhonda Reddick,125 Sharon Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8000,1
+1970-01-01,4702798007,Eddie Wallace,199 Jenkins Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17000,1
+1970-01-01,9850908008,Souther Field Aviation Inc,223 Airport Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",100000,1
+1970-01-01,6545378004,James Luke Saia Sr.,55 Ga Hwy 271,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,5967918006,Markee Bunkley,802 Mary St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11900,1
+1970-01-01,8165528009,J Michaels Auto Credit Llc,1203 S Martin Luther King Jr Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,9096068002,Connie Whitehead,116 Faircloth Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24200,1
+1970-01-01,6194188003,H-Ways Bbq Llc,102 Short Lane,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8800,1
+1970-01-01,9235318006,Heritage Barber Shop,505 N Lee St Ste A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8500,1
+1970-01-01,3941648109,Mercer'S Barber Shop,121 North Lee Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
+1970-01-01,6279538000,Lakina Clemons,147 Sylvan Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,6191338005,Ladonnia Young,909 Postway,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
+1970-01-01,9083528010,Tracia M. Tullis,1009 S Martin Luther King Blvd.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,8378608002,Curtis Porter,133 Foster Street,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16600,1
+1970-01-01,4074198100,"Angelite Homecare Center, Llc","1524 N Martin Luther King Jr Blvd, Ste A",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,1541068103,Kirby Clark (Housekeeping),43 Sam Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1900,1
+1970-01-01,3984338110,Salonn Savvy Beauty Bar,530 Tripp St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",45000,1
+1970-01-01,5542588008,C   Los  Productions  Llc,712 Sunset Dr,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",6000,1
+1970-01-01,9307518007,Shaquanda Barner,106 Bill Cross St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4000,1
+1970-01-01,3963448109,Eduardo F Ralwins,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,02,West,11140.0,"Americus, GA",20000,1
+1970-01-01,3079258110,Sumter Hospitality Llc.,1007 Mlk Jr. Blvd,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",150000,1
+1970-01-01,2971288104,Syed M Alam Md Pc,227 N Lee St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",25000,1
+1970-01-01,9698808007,Kaneshia Johnson,315 Crawley St,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",17500,1
+1970-01-01,1417758101,"The Fuller Center For Housing, Inc.","The Fuller Center For Housing, Inc",Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",100000,1
+1970-01-01,3543698107,Audrey Thomas,1602 E Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",7300,1
+1970-01-01,9372238002,Holts Tax Service,137 6Th St,Cobb,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",16500,1
+1970-01-01,1674258105,Lounge 323 Llc,323 W Forsyth Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",10000,1
+1970-01-01,2381658108,Holley Cleaning Service,211 John Street,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
+1970-01-01,8349288003,Patricia Hill,"129 Irene Drive Americus, Ga 31709 Busines",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
+1970-01-01,9473868002,Holloway  Corporation In,178 Arlington Drive Ext,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,2091458109,Lateshia Sweet,102 Eastview Circle Apt C,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
+1970-01-01,9198678009,Jbs And Associates Llc,211 N Jackson St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15500,1
+1970-01-01,8503198010,Hubs Weld Repair,103 Country Club Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6800,1
+1970-01-01,4412618001,Laura H Faircloth,110 Ga Hwy 27 E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,7675738008,Clarence Way,500 Harold Dillard Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",79700,1
+1970-01-01,2689178102,Sherry W. Ratliff,627 Highway 308,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7400,1
+1970-01-01,2354368109,Virginia Bruce,206 16Th Green St.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",30000,1
+1970-01-01,7099578009,Big O Construction,837 Ridge St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,4674848000,Sandra Carol Meritt Murray Estate,325 S Lee St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2600,1
+1970-01-01,8580398004,"Saumya, Llc",999 Southerfield Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14300,1
+1970-01-01,7942488000,First Rank Concierge,212 Habitat Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,1981728104,Shyneka Banks,205 H Murphy Mill Road,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
+1970-01-01,3456088103,O&L Trucking,844 Mcmath Mill. Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
+1970-01-01,1683978100,Kiytia Mable,718 Tom Gailey Plaza,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
+1970-01-01,3055448103,American Hardwood Flooring Co.,American Hardwood Flooring Co,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8700,1
+1970-01-01,8418258010,Thomas Haugabook,914 Post Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15600,1
+1970-01-01,7331828007,Shira Maclennan,640 Deer Rd,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,8280478002,Shakeithia Robinson,120 Matt Hart Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2000,1
+1970-01-01,9503308000,Donald Baker,208 Horton Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",12500,1
+1970-01-01,5378328008,Harry A Andrews,1092 Salters Mill Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,1481518104,"New Horizons Habitat For Humanity Of Greater Sumter County, Inc.",551 Hosanna Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,7583528007,Burtram James Llc,928 Tallent Store Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",23000,1
+1970-01-01,7108278005,Barbara Castleberry,245 Shiloh Rd Unit A,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3800,1
+1970-01-01,8813308001,Williams Contracting,415 Old Andersonville Rd,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",18500,1
+1970-01-01,5554538001,Lakeshe Walker,505 Mayo St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16200,1
+1970-01-01,8818548002,Kadijah Banks,514 Varsity Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
+1970-01-01,8350018000,Carolyn Collier,263 Ed Carson Dr,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",5000,1
+1970-01-01,7199248001,Fred Carter Produce,1410 N Jackson St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",40000,1
+1970-01-01,4076738100,Laqeavia Jones,603 Tripp St Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
+1970-01-01,5666738007,Willie Cooper,1625 Hwy 195 North,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",44000,1
+1970-01-01,3607148106,Charles C. Harvey,145 West Rockhill Subdivision,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8900,1
+1970-01-01,3976688110,Dinorah Ralwins,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,1626488110,Kizzy Mable,501 Mayo Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
+1970-01-01,1846358108,Sekeithia Brown,126 Starlight Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
+1970-01-01,1046598101,Delisa,"720 Harris Street, Apt. 39",Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6400,1
+1970-01-01,4380018003,Glinda Bing,605 Wildwood Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",27700,1
+1970-01-01,3209298110,1018 Logistics Llc,1018 Simmons Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2500,1
+1970-01-01,2544968102,Sebrina Pitts,1341 Ga Highway 27E,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
+1970-01-01,2280618108,Tara Hawkins Produce,Tara Hawkins Produce,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8000,1
+1970-01-01,3656008106,Aletha Romine,740 Tom Gailey Plaza,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,8121558005,Aisha Alaman,900 Southwestern Circle #404,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",2300,1
+1970-01-01,2514168108,Cambria Barner,105 Virgina Ave,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",4000,1
+1970-01-01,8909598001,Concentra Solutions Inc,105 Industrial Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,3566388100,Bellewether Homes,640 Deer Road,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,2927108110,Howard Daniels,247 Old Dawson Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",78000,1
+1970-01-01,8715048002,Edna Mercer Luster,265 D Cooper Road,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,7206758109,Flowery Fish Farm,408 Pecan Dr,Americus,13261,Sumter County,GA,,2,West,11140.0,"Americus, GA",8800,1
+1970-01-01,7184118103,Mercer'S Catering Services,160-C Cherokee Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2800,1
+1970-01-01,2678948102,Magnolias Home Furniture Llc,807 Magnolia Street,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,1165248104,Pittman'S Machine Service Inc.,602 Commerce Road,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",86600,1
+1970-01-01,5528508108,Khodarius Thomas,102 Lake Ridge Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",24500,1
+1970-01-01,7847948009,Shantel Worthy,642 Cowpen Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6000,1
+1970-01-01,9043228009,Touched By An Angel,203 Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,3057678106,Sheffield & Sons,Po Box 1672,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
+1970-01-01,7479628100,Patricia Williams,197 Hwy 308,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",40000,1
+1970-01-01,6775258009,Carla Banks Produce,210 Graham St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",42000,1
+1970-01-01,1652588109,Mimi'S Hair,607 Eastview Circle Apt F,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2900,1
+1970-01-01,7620918104,"Client First Insurance Solutions, Llc",132 W Lamar St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,6567178102,"Rsr Investments, Llc",147 Ga Hwy 27 East,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5900,1
+1970-01-01,1721718105,Wecompany,300 Howard St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",28500,1
+1970-01-01,8154168002,Ciano,914 Parker St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",17500,1
+1970-01-01,4575938106,Bo Hobgood,139 Entrekin Rd,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",19400,1
+1970-01-01,7513068103,"Tc Griffs Properties, Inc.",117 Quail Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",29000,1
+1970-01-01,6753438003,The Hair Gallery,237  Suite B Vienna Hwy 27 East,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,7222128108,Mark R Ponkey,687B Flintside Extension Dr,Cobb,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20300,1
+1970-01-01,5993978104,Teresa Michelle Banks,614 N Mayo St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,4689928003,"Automation & Control Systems, Inc.",426 Southerfield Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,6676088109,Jackson'S Catering & Bakery Services,706 Fulton Street Apt-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
+1970-01-01,7186298104,"Bryant'S Lawncare Inc,",706 Fulton Street Apt-B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",6800,1
+1970-01-01,9570818000,Monts Small Engine Repair,299 Newpoint Church Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",25000,1
+1970-01-01,3863528101,"Jab & Associates, Llc",1334 Hooks Mill Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",11000,1
+1970-01-01,4559938106,Reid Bros. Irrigation,908 Adderton St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",150000,1
+1970-01-01,7762728003,Linda Prince,121 Arlington Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5000,1
+1970-01-01,2133318101,Peaches Creations,80 Barbara Battle Way,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
+1970-01-01,2561098103,Trinity Houses Of Hope,217 West Lester Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7800,1
+1970-01-01,2079028106,Shikita Smith,1015 Oglethorpe Ave,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",7500,1
+1970-01-01,2518608106,Broderick Berry,142 Southern Field Rd,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",4000,1
+1970-01-01,4852558000,George'S Mens Wear & Tailor Shop,126 N Jackson St,Americus,13261,Sumter County,GA,,02,West,11140.0,"Americus, GA",12100,1
+1970-01-01,4512888009,"Trinity Land Surveying, Llc",207 Wolf Creek Dr,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",115000,1
+1970-01-01,5122148107,Masico Gordon,118 E Lester St,Americus,13261,Sumter County,GA,31719,02,West,11140.0,"Americus, GA",25000,1
+1970-01-01,6080328108,Daisy Hubbard,694 Holman Rd,Leslie,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,4056908106,David T Theiss,40 South Steven'S Street,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",20000,1
+1970-01-01,3441058102,Nyeshia Baisden,206 Bessie Mays Cir Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5400,1
+1970-01-01,5966948100,Carplug,200 Cotton Avenue,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
+1970-01-01,6167508106,Norinne'S Hairfashions,307 Walters St,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
+1970-01-01,9265728001,Salsweets,138 Charleston,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,5219278107,Kameron T Carter,128 Laurel Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,2047868106,Charlette Clark-Pines Dba Thirty Seventeen Wellness Studio,905 S Martin Luther King Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,1944798104,Alicia Pope,208 Horton Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1800,1
+1970-01-01,2334788109,Gloria Ann Flint,239 South Hampton Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,2362878109,K&R Cleaning Service,192 Lexington Cir,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4000,1
+1970-01-01,1702498105,Wanda Cole,203 G Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,7439848102,Jennifer Johnson,1929 Middle River Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",38900,1
+1970-01-01,5633748101,None,4323 Ga Highway 228,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",10000,1
+1970-01-01,7723628005,Vernisha Alford,119 Charleston Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
+1970-01-01,1977808101,Sims Catering Services,401 Hosanna Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3000,1
+1970-01-01,2604258104,Cooke'S Rental,107 Ginger Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",16000,1
+1970-01-01,7514168002,Biscelglia Williams,270 W. Rock Hill Drive,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",26500,1
+1970-01-01,7334398102,"Mercer'S Lawncare Inc,",106 Hosanna Circle,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7000,1
+1970-01-01,1404708109,Brittany Welborn,132 North Village Dr,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",4000,1
+1970-01-01,6929478107,Tiffany Tatum Fresh Produce,229 Little Bear Branch Road,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",39500,1
+1970-01-01,6894798108,Bert'S Upholstery And Trim,102 Us Highway 19 N,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",17900,1
+1970-01-01,6786878100,Quality Home Repair,415 East Hill Street,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",119000,1
+1970-01-01,7378278005,Cedar Lane Trucking Llc.,350 Bob Dodson Rd.,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15000,1
+1970-01-01,4731338106,Thaddius Harris,120 Hanson Dr Apt B,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5700,1
+1970-01-01,7553518003,Kenderic Bradley,425 Three Bridges Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,7552488005,,151 Fox Stephens Rd Lot F,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1100,1
+1970-01-01,4838338106,Yogine Llc,1001 S. Mlk Jr. Blvd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",68600,1
+1970-01-01,8492968009,Melanie Clark Finessed By Mel,169 B Felton Jones Court,Ellaville,13249,Schley County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,9153138007,Extreme Cleaning Solutions,109 Oakridge Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,2578458100,Vaneskia Transportation Services,214 Jenkins Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",30000,1
+1970-01-01,2694318101,L&S Private Sitting,806 Thrasher Rd,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4500,1
+1970-01-01,7266998004,Corey A. Wright,312 A Taylor St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1500,1
+1970-01-01,9136528004,Trenisha Hallmon,82 B Barbara Battleway,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",20000,1
+1970-01-01,2473628107,Myteckman,508 Eastview Dr.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,5502008102,Jasmine D Wilkerson,924 N Jackson St,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3700,1
+1970-01-01,9042878003,Dontavius S Prince,216 Horton Drive Apt. A,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",17500,1
+1970-01-01,5990788100,"J. Nicole Sinclair, Llc",136 Mallard Ln,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",24000,1
+1970-01-01,5667398101,Harris Rental,1320 Second Montgomery St,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",6000,1
+1970-01-01,4640598108,The Act Of Kindness,101 A Mangolia Villiage,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,5572938105,Tacoma Williams,243 East Rock Hill Subdivision,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",2400,1
+1970-01-01,7237978010,Davila Worldwide Inc,360 Bagley St.,DeSoto,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,5852608105,Oveda Jackson Cleaning Service,584 Hwy 280 West,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",9500,1
+1970-01-01,7126928003,Jonathan Waters,158 Lakeridge Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",3500,1
+1970-01-01,4232878110,Above The Rest Cleaning,120 Apple Blossom Ln,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",31100,1
+1970-01-01,4375418109,Americus Estates Llc,321 Lacrosse Rd,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",14600,1
+1970-01-01,7009468106,Wilkerson Truck Lines Llc,108 Highland Dr # 12,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",1000,1
+1970-01-01,4243018105,Melinda Mullis,179 Phil Jones Rd,Cobb,13261,Sumter County,GA,31735,2.0,West,11140.0,"Americus, GA",9000,1
+1970-01-01,4301538107,Mercer'S Beauty Salon,121 N Lee Street,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",3000,1
+1970-01-01,4337568107,Felinsay  Landscaping,113 Ga Hwy 27 E Apt H8,Americus,13261,Sumter County,GA,31709,2.0,West,11140.0,"Americus, GA",2100,1
+1970-01-01,6859718100,Atonya Jordan,1629 Ga Highway 195 N,Leslie,13261,Sumter County,GA,31764,2.0,West,11140.0,"Americus, GA",70900,1
+1970-01-01,4243638103,Jamaica Kelley,110 Pecan Terrace,Americus,13261,Sumter County,GA,31719,2.0,West,11140.0,"Americus, GA",21500,1
+1970-01-01,4321808102,"B&G Timber, Llc",433 Winder Street,Andersonville,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",15900,1
+1970-01-01,4398658103,Sims  Farming,114 Peacan,Plains,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",61000,1
+1970-01-01,4376728110,Dreamchaser Paint And Body,131 Pecan Ter,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",7500,1
+1970-01-01,4329458109,Braids By Calandria,203 Murphy Mill Rd,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",8800,1
+1970-01-01,4363228103,Tyson Technician Handyman And More Llc,128 E Forsyth St #6431,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",14000,1
+1970-01-01,5185088110,Keith Haynes,721 Beale St.,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",5500,1
+1970-01-01,5218838107,Fanesha'S Upholistry,218 Barnum Dr,Americus,13261,Sumter County,GA,,2.0,West,11140.0,"Americus, GA",4200,1
