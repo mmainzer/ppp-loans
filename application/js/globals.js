@@ -1,6 +1,7 @@
 const urlStart = "https://raw.githubusercontent.com/mmainzer/ppp-loans/main/application/data";
 let selectedData = [ "PPP" ];
 let selectedLevel = [ "CDRegion" ];
+let filterGeo = [ "Metro South" ];
 let selectedGeo = [ "Metro South" ];
 let selectedIndustry = [ "Accommodation and Food Services" ];
 const formatTime = d3.timeFormat("%B %d, %Y");

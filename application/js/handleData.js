@@ -1,14 +1,20 @@
 const buildTable = (data) => {
 	console.log("Building table");
 
+	console.log(selectedData);
+	console.log(selectedLevel);
+	console.log(selectedGeo);
+	console.log(selectedIndustry);
+
+
 	if (selectedData[0] === "PPP" && selectedIndustry[0] != "All") {
 		console.log("Filtering for industry on PPP data");
-		data = data.filter(d => { return selectedGeo.includes(d[selectedLevel[0]]) && selectedIndustry.includes(d['Industry-2'])});
+		data = data.filter(d => { return filterGeo.includes(d[selectedLevel[0]]) && selectedIndustry.includes(d['Industry-2'])});
 	} else if (selectedData[0] === "PPP" && selectedIndustry[0] === "All") {
 		console.log("Getting all industries in selected area");
-		data.filter(d => { return d[selectedLevel[0]] === selectedGeo[0] });
+		data.filter(d => { return d[selectedLevel[0]] === filterGeo[0] });
 	} else if (selectedData[0] === "EIDL") {
-		data = data.filter(d => {return d[selectedLevel[0]] === selectedGeo[0] });
+		data = data.filter(d => {return d[selectedLevel[0]] === filterGeo[0] });
 	}
 	console.log(data);
 
@@ -35,6 +41,9 @@ const buildTable = (data) => {
 	let amountTotal = 0;
 	let loansTotal = data.length;
 	let jobsTotal = 0;
+	let womenTotal = 0;
+	let minorityTotal = 0;
+	let veteranTotal = 0;
 
 	// create empty array to put all data in correct format into
 	let arrAll = [];
@@ -53,6 +62,18 @@ const buildTable = (data) => {
 		let jobs = d.Jobs;
 		jobsTotal = jobsTotal += jobs;
 		amountTotal = amountTotal += amount;
+		if (gender === "Female Owned") {
+			womenTotal = womenTotal += 1;
+		}
+
+		if (race != "White" && race != "U") {
+			minorityTotal = minorityTotal += 1;
+		}
+
+		if (veteran === "Veteran") {
+			veteranTotal = veteranTotal += 1;
+		}
+
 		tempArray.push(date,company,city,county,("$"+amount.format()));
 		if (selectedData[0] === "PPP") {
 			tempArray.push(industryThree,industry,race,gender,veteran,jobs.format());
@@ -64,8 +85,11 @@ const buildTable = (data) => {
 	});
 
 	$("#amountTotal").text("$"+amountTotal.format());
-	
 	$("#loansTotal").text(loansTotal.format());
+	$("#womenTotal").text(womenTotal.format());
+	$("#veteranTotal").text(veteranTotal.format());
+	$("#minorityTotal").text(minorityTotal.format());
+
 	if (selectedData[0] === "PPP") {
 		$("#jobsTotal").text(jobsTotal.format());
 	} else {
@@ -96,8 +120,8 @@ const buildTable = (data) => {
         "dom" : "Bfrtip",
         "pagingType" : "full",
         "buttons" : [
-	        {extend: 'pdf', text:'Export PDF', title:'Closures/Layoffs in '+selectedGeo[0]},
-	        {extend: 'excel',  title:'Closures/Layoffs in '+selectedGeo[0]}
+	        {extend: 'pdf', text:'Export PDF', title:'Loans in '+filterGeo[0]},
+	        {extend: 'excel',  title:'Loans in '+filterGeo[0]}
         ],
         
         "colReorder" : false
